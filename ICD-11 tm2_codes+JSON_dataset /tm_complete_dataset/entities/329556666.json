@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/329556666",
+  "id": "329556666",
+  "title": "Urine like colour of raw-meat washings pattern (TM2)",
+  "code": "SR8A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Urine like colour of raw-meat washings pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urine like colour of raw-meat washings pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Bawl Ghusālī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bawl Ghusālī"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#329556666",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "936674819"
+  ],
+  "extractionTimestamp": "2025-09-21T01:18:03.668973",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/329556666",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#329556666",
+    "code": "SR8A",
+    "source": "http://id.who.int/icd/entity/329556666",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Urine like colour of raw-meat washings pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urine like colour of raw-meat washings pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bawl Ghusālī"
+        }
+      }
+    ]
+  }
+}

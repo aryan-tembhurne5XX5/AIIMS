@@ -1,0 +1,384 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1110925902",
+  "id": "1110925902",
+  "title": "Gonorrhoea disorder (TM2)",
+  "code": "SN30",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Gonorrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gonorrhoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) upadaṃśaḥ (b) Korukku nōy (c) Sozāk",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) upadaṃśaḥ (b) Korukku nōy (c) Sozāk"
+        }
+      }
+    },
+    {
+      "text": "(c) Sayalān Zuhrī, (c) Ḥurqa, (c) Al-Nakāl, (c) ‘Uqūba",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sayalān Zuhrī, (c) Ḥurqa, (c) Al-Nakāl, (c) ‘Uqūba"
+        }
+      }
+    },
+    {
+      "text": "Gonorrhoeal vaginitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1751464879",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gonorrhoeal vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1751464879"
+      }
+    },
+    {
+      "text": "(c) Ḥurqa al-Nisā’",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1751464879",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥurqa al-Nisā’"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1751464879"
+      }
+    },
+    {
+      "text": "Gonnorheal disorder with papular eruptions (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1659411651",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gonnorheal disorder with papular eruptions (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1659411651"
+      }
+    },
+    {
+      "text": "(b) Oẕukku veḷḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1659411651",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Oẕukku veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1659411651"
+      }
+    },
+    {
+      "text": "Gonnorheal disorder with urolithiasis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/116965462",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gonnorheal disorder with urolithiasis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/116965462"
+      }
+    },
+    {
+      "text": "(b) Kal veḷḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/116965462",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kal veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/116965462"
+      }
+    },
+    {
+      "text": "Thread like white discharge disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/209020730",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Thread like white discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/209020730"
+      }
+    },
+    {
+      "text": "(b) Tantu veḷḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/209020730",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tantu veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/209020730"
+      }
+    },
+    {
+      "text": "White discharge with pus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/215144268",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "White discharge with pus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/215144268"
+      }
+    },
+    {
+      "text": "(b) Cīẕ veḷḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/215144268",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/215144268"
+      }
+    },
+    {
+      "text": "Yellowish urethreal discharge disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1183136303",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Yellowish urethreal discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1183136303"
+      }
+    },
+    {
+      "text": "(b) Mañcaḷ veḷḷai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1183136303",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mañcaḷ veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1183136303"
+      }
+    },
+    {
+      "text": "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/477316338",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/477316338"
+      }
+    },
+    {
+      "text": "(b) Nīrkkaṭṭu veḷḷai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/477316338",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/477316338"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1110925902",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:00.487262",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1110925902",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1110925902",
+    "code": "SN30",
+    "source": "http://id.who.int/icd/entity/1110925902",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Gonorrhoea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gonorrhoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) upadaṃśaḥ (b) Korukku nōy (c) Sozāk"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sayalān Zuhrī, (c) Ḥurqa, (c) Al-Nakāl, (c) ‘Uqūba"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gonorrhoeal vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1751464879"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥurqa al-Nisā’"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1751464879"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gonnorheal disorder with papular eruptions (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1659411651"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Oẕukku veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1659411651"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gonnorheal disorder with urolithiasis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/116965462"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kal veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/116965462"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Thread like white discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/209020730"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tantu veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/209020730"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "White discharge with pus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/215144268"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/215144268"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Yellowish urethreal discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1183136303"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mañcaḷ veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1183136303"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Yellowish white discharge with pain in the urethra associated with mood swings disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/477316338"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu veḷḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/477316338"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/27777933",
+  "id": "27777933",
+  "title": "Phlegm obstructing the uterus pattern (TM1)",
+  "code": "SF9A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Phlegm obstructing the uterus pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm obstructing the uterus pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Phlegm congealment in the uterus pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm congealment in the uterus pattern (TM)"
+        }
+      }
+    },
+    {
+      "text": "Dampness Phlegm obstructing the uterus pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness Phlegm obstructing the uterus pattern (TM)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/561238214"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#27777933",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "561238214"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:32.620465",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/27777933",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/561238214"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#27777933",
+    "code": "SF9A",
+    "source": "http://id.who.int/icd/entity/27777933",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Phlegm obstructing the uterus pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm obstructing the uterus pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm congealment in the uterus pattern (TM)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness Phlegm obstructing the uterus pattern (TM)"
+        }
+      }
+    ]
+  }
+}

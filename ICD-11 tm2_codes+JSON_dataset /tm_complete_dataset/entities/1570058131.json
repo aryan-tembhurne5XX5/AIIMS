@@ -1,0 +1,247 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1570058131",
+  "id": "1570058131",
+  "title": "Dysuria disorder (TM2)",
+  "code": "SM87",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dysuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysuria disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mūtrakṛcchram (b) Nīrccurukku (c) ‘Usr al-Bawl",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrakṛcchram (b) Nīrccurukku (c) ‘Usr al-Bawl"
+        }
+      }
+    },
+    {
+      "text": "Burning micturition disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1461225727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Burning micturition disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      }
+    },
+    {
+      "text": "Burning-dysuria (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1461225727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Burning-dysuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      }
+    },
+    {
+      "text": "(a) uṣṇavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1461225727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) uṣṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      }
+    },
+    {
+      "text": "(a) uṣṇamāruta (c) Ḥurqa al-Bawl",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1461225727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) uṣṇamāruta (c) Ḥurqa al-Bawl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      }
+    },
+    {
+      "text": "Urinary tract infection disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1718509771",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urinary tract infection disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1718509771"
+      }
+    },
+    {
+      "text": "(b) Meccu vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1718509771",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Meccu vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1718509771"
+      }
+    },
+    {
+      "text": "Painful micturition during pregnancy disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/161471074",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Painful micturition during pregnancy disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/161471074"
+      }
+    },
+    {
+      "text": "(b) Cūl Nīr curukku",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/161471074",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl Nīr curukku"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/161471074"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1570058131",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:20.196711",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1570058131",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1570058131",
+    "code": "SM87",
+    "source": "http://id.who.int/icd/entity/1570058131",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dysuria disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysuria disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrakṛcchram (b) Nīrccurukku (c) ‘Usr al-Bawl"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Burning micturition disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Burning-dysuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) uṣṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) uṣṇamāruta (c) Ḥurqa al-Bawl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1461225727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urinary tract infection disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1718509771"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Meccu vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1718509771"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Painful micturition during pregnancy disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/161471074"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl Nīr curukku"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/161471074"
+      }
+    ]
+  }
+}

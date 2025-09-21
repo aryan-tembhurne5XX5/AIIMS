@@ -1,0 +1,305 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/583544121",
+  "id": "583544121",
+  "title": "Anaemia disorder (TM2)",
+  "code": "SL80",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Anaemia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pāṇḍurogaḥ (b) Veḷuppu nōy (c) Faqr al-Dam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāṇḍurogaḥ (b) Veḷuppu nōy (c) Faqr al-Dam"
+        }
+      }
+    },
+    {
+      "text": "(b) Veluppu Noi",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veluppu Noi"
+        }
+      }
+    },
+    {
+      "text": "Anaemia disorder caused by increased Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/245932057",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder caused by increased Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245932057"
+      }
+    },
+    {
+      "text": "(b) Nañcu veḷuppu nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/245932057",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nañcu veḷuppu nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245932057"
+      }
+    },
+    {
+      "text": "Anaemia disorder caused by increased Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/69535605",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/69535605"
+      }
+    },
+    {
+      "text": "(b) Aẕal veḷuppu nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/69535605",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal veḷuppu nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/69535605"
+      }
+    },
+    {
+      "text": "Pernicious Anaemia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/464776897",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pernicious Anaemia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/464776897"
+      }
+    },
+    {
+      "text": "(b) Makā vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/464776897",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Makā vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/464776897"
+      }
+    },
+    {
+      "text": "Anaemia disorder with hypoproteineamia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/289294765",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder with hypoproteineamia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/289294765"
+      }
+    },
+    {
+      "text": "(c) Sū’ al-Qinya",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/289294765",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’ al-Qinya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/289294765"
+      }
+    },
+    {
+      "text": "Anaemia disorder due to pica (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/614350249",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder due to pica (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/614350249"
+      }
+    },
+    {
+      "text": "(c) Maṇṇuṉ veḷuppu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/614350249",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Maṇṇuṉ veḷuppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/614350249"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1785833770"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#583544121",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066",
+    "1785833770"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:52.900415",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/583544121",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1785833770"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#583544121",
+    "code": "SL80",
+    "source": "http://id.who.int/icd/entity/583544121",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Anaemia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāṇḍurogaḥ (b) Veḷuppu nōy (c) Faqr al-Dam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veluppu Noi"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder caused by increased Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245932057"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nañcu veḷuppu nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245932057"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/69535605"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal veḷuppu nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/69535605"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pernicious Anaemia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/464776897"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Makā vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/464776897"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder with hypoproteineamia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/289294765"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’ al-Qinya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/289294765"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anaemia disorder due to pica (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/614350249"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Maṇṇuṉ veḷuppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/614350249"
+      }
+    ]
+  }
+}

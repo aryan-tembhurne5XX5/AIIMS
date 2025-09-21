@@ -1,0 +1,247 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1261400053",
+  "id": "1261400053",
+  "title": "Gastritis disorder (TM2)",
+  "code": "SM3F",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Gastritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vātapaittikaśūlaḥ (b) Aẕal kuṉmam (c) Waram al-Mi‘da",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātapaittikaśūlaḥ (b) Aẕal kuṉmam (c) Waram al-Mi‘da"
+        }
+      }
+    },
+    {
+      "text": "Gastritis disorder due to derangement of Balgham (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1267261317",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1267261317"
+      }
+    },
+    {
+      "text": "(c) Waram al-Mi‘da Balghamī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1267261317",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1267261317"
+      }
+    },
+    {
+      "text": "Gastritis disorder due to derangement of Ṣafrā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/31404770",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/31404770"
+      }
+    },
+    {
+      "text": "(c) Waram al-Mi‘da Ṣafrāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/31404770",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/31404770"
+      }
+    },
+    {
+      "text": "Gastritis disorder due to derangement of Dam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/90350814",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/90350814"
+      }
+    },
+    {
+      "text": "(c) Waram al-Mi‘da Damawī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/90350814",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/90350814"
+      }
+    },
+    {
+      "text": "Gastritis disorder due to derangement of Sawdā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/267322290",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267322290"
+      }
+    },
+    {
+      "text": "(c) Waram al-Mi‘da Sawdāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/267322290",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267322290"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1261400053",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:41.528517",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1261400053",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1261400053",
+    "code": "SM3F",
+    "source": "http://id.who.int/icd/entity/1261400053",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Gastritis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātapaittikaśūlaḥ (b) Aẕal kuṉmam (c) Waram al-Mi‘da"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1267261317"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1267261317"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/31404770"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/31404770"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/90350814"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/90350814"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastritis disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267322290"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Mi‘da Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267322290"
+      }
+    ]
+  }
+}

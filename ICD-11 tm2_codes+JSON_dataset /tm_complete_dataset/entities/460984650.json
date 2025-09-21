@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/460984650",
+  "id": "460984650",
+  "title": "Dynamic intestinal obstruction disorder (TM2)",
+  "code": "SM75",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dynamic intestinal obstruction disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dynamic intestinal obstruction disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ūrdhvavātaḥ (b) Kuṭaṟpiṭippu nōy, ānāka nōy (c) Īlā’ūs",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvavātaḥ (b) Kuṭaṟpiṭippu nōy, ānāka nōy (c) Īlā’ūs"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#460984650",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:08.510533",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/460984650",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#460984650",
+    "code": "SM75",
+    "source": "http://id.who.int/icd/entity/460984650",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dynamic intestinal obstruction disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dynamic intestinal obstruction disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvavātaḥ (b) Kuṭaṟpiṭippu nōy, ānāka nōy (c) Īlā’ūs"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/855857593",
+  "id": "855857593",
+  "title": "Deep multiple abscess disorder (TM1)",
+  "code": "SB60",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Deep multiple abscess disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deep multiple abscess disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Multiple abscesses disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Multiple abscesses disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/642323160"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#855857593",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "12821860",
+    "642323160"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:53.104112",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/855857593",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/642323160"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#855857593",
+    "code": "SB60",
+    "source": "http://id.who.int/icd/entity/855857593",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Deep multiple abscess disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deep multiple abscess disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Multiple abscesses disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

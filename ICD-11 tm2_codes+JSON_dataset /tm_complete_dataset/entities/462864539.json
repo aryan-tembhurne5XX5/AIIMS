@@ -1,0 +1,407 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/462864539",
+  "id": "462864539",
+  "title": "Seizure disorder (TM2)",
+  "code": "SK30",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Seizure disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Seizure disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ākṣepakaḥ (b) Vaḷippu (c) Tashannuj",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ākṣepakaḥ (b) Vaḷippu (c) Tashannuj"
+        }
+      }
+    },
+    {
+      "text": "Whole body stiffness with immobility disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/785246141",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Whole body stiffness with immobility disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/785246141"
+      }
+    },
+    {
+      "text": "(a) daṇḍakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/785246141",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daṇḍakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/785246141"
+      }
+    },
+    {
+      "text": "Post-traumatic convulsion disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1259751946",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Post-traumatic convulsion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1259751946"
+      }
+    },
+    {
+      "text": "(a) vraṇāyāmaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1259751946",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vraṇāyāmaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1259751946"
+      }
+    },
+    {
+      "text": "Irremediable opisthotonos disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1336663094",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Irremediable opisthotonos disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336663094"
+      }
+    },
+    {
+      "text": "(a) asādhyadhanuṣkaṃpa",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1336663094",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asādhyadhanuṣkaṃpa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336663094"
+      }
+    },
+    {
+      "text": "Opisthotonos disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/531113391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Opisthotonos disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/531113391"
+      }
+    },
+    {
+      "text": "(a) bahirāyāmaḥ (a) bāhyāyāmaḥ (a) dhanuḥstambhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/531113391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bahirāyāmaḥ (a) bāhyāyāmaḥ (a) dhanuḥstambhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/531113391"
+      }
+    },
+    {
+      "text": "Orthotonus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/199174695",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Orthotonus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199174695"
+      }
+    },
+    {
+      "text": "(a) apatānakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/199174695",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apatānakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199174695"
+      }
+    },
+    {
+      "text": "Orthotonus with rod like stiffness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1899355736",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Orthotonus with rod like stiffness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1899355736"
+      }
+    },
+    {
+      "text": "(a) daṇḍāpatānakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1899355736",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daṇḍāpatānakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1899355736"
+      }
+    },
+    {
+      "text": "Emprosthotonus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/516187391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Emprosthotonus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516187391"
+      }
+    },
+    {
+      "text": "(a) antarāyāmaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/516187391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) antarāyāmaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516187391"
+      }
+    },
+    {
+      "text": "Convulsive fit disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2065680714",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Convulsive fit disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065680714"
+      }
+    },
+    {
+      "text": "(a) apatantrakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2065680714",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apatantrakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065680714"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/799425295"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#462864539",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "799425295"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:15.018983",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/462864539",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/799425295"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#462864539",
+    "code": "SK30",
+    "source": "http://id.who.int/icd/entity/462864539",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Seizure disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Seizure disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ākṣepakaḥ (b) Vaḷippu (c) Tashannuj"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Whole body stiffness with immobility disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/785246141"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daṇḍakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/785246141"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Post-traumatic convulsion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1259751946"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vraṇāyāmaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1259751946"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Irremediable opisthotonos disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336663094"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asādhyadhanuṣkaṃpa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336663094"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Opisthotonos disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/531113391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bahirāyāmaḥ (a) bāhyāyāmaḥ (a) dhanuḥstambhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/531113391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Orthotonus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199174695"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apatānakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199174695"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Orthotonus with rod like stiffness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1899355736"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daṇḍāpatānakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1899355736"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Emprosthotonus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516187391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) antarāyāmaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516187391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Convulsive fit disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065680714"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apatantrakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065680714"
+      }
+    ]
+  }
+}

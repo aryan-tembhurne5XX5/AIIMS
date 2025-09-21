@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/682540848",
+  "id": "682540848",
+  "title": "Presence of foreign moisture pattern (TM2)",
+  "code": "ST0S",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Presence of foreign moisture pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Presence of foreign moisture pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) rotoubat-e gharibeh",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rotoubat-e gharibeh"
+        }
+      }
+    },
+    {
+      "text": "(c) Ruṭūbat Gharība",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ruṭūbat Gharība"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#682540848",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:24.594140",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/682540848",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#682540848",
+    "code": "ST0S",
+    "source": "http://id.who.int/icd/entity/682540848",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Presence of foreign moisture pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Presence of foreign moisture pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rotoubat-e gharibeh"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ruṭūbat Gharība"
+        }
+      }
+    ]
+  }
+}

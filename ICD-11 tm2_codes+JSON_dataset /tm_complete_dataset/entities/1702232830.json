@@ -1,0 +1,265 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1702232830",
+  "id": "1702232830",
+  "title": "Otitis disorder (TM2)",
+  "code": "SK88",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Otitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Otitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) karṇa-śophaḥ (b) Ceviviṟai Vaḷi (c) Iltihāb al-Udhun",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇa-śophaḥ (b) Ceviviṟai Vaḷi (c) Iltihāb al-Udhun"
+        }
+      }
+    },
+    {
+      "text": "(a) karṇaśothaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇaśothaḥ"
+        }
+      }
+    },
+    {
+      "text": "Suppurative ottitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/953489325",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Suppurative ottitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/953489325"
+      }
+    },
+    {
+      "text": "(a) pūtikarṇaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/953489325",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pūtikarṇaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/953489325"
+      }
+    },
+    {
+      "text": "Pustular otitis media disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1462021380",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pustular otitis media disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462021380"
+      }
+    },
+    {
+      "text": "(b) Karṉa cūlai vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1462021380",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Karṉa cūlai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462021380"
+      }
+    },
+    {
+      "text": "Secretory otitis media disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/768498037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Secretory otitis media disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768498037"
+      }
+    },
+    {
+      "text": "(b) Cevipaṭuvātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/768498037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cevipaṭuvātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768498037"
+      }
+    },
+    {
+      "text": "Otitis externa disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/50797083",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Otitis externa disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/50797083"
+      }
+    },
+    {
+      "text": "(a) karṇapākaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/50797083",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇapākaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/50797083"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2753503"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1702232830",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "2753503"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:08.845244",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1702232830",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2753503"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1702232830",
+    "code": "SK88",
+    "source": "http://id.who.int/icd/entity/1702232830",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Otitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Otitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇa-śophaḥ (b) Ceviviṟai Vaḷi (c) Iltihāb al-Udhun"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇaśothaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Suppurative ottitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/953489325"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pūtikarṇaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/953489325"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pustular otitis media disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462021380"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Karṉa cūlai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462021380"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Secretory otitis media disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768498037"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cevipaṭuvātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768498037"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Otitis externa disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/50797083"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇapākaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/50797083"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/765559289",
+  "id": "765559289",
+  "title": "Simple cold and dry abnormal temperament pattern (TM2)",
+  "code": "ST0H",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Simple cold and dry abnormal temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Simple cold and dry abnormal temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Sū’-i-Mizāj Bārid Yābis Sāda",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Bārid Yābis Sāda"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#765559289",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:14.510009",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/765559289",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#765559289",
+    "code": "ST0H",
+    "source": "http://id.who.int/icd/entity/765559289",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Simple cold and dry abnormal temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Simple cold and dry abnormal temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Bārid Yābis Sāda"
+        }
+      }
+    ]
+  }
+}

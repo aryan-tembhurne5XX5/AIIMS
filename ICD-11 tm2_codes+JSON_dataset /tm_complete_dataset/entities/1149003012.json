@@ -1,0 +1,405 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1149003012",
+  "id": "1149003012",
+  "title": "Ascites disorder (TM2)",
+  "code": "SM32",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Ascites disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) udara (b) Peruvayiṟu nōy (c) Istisqā’ Ziqqī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udara (b) Peruvayiṟu nōy (c) Istisqā’ Ziqqī"
+        }
+      }
+    },
+    {
+      "text": "(a) udararogaḥ, (a) jalodaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udararogaḥ, (a) jalodaraḥ"
+        }
+      }
+    },
+    {
+      "text": "Ascites disorder due to Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1155257714",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1155257714"
+      }
+    },
+    {
+      "text": "(a) kaphaja-udararogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1155257714",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1155257714"
+      }
+    },
+    {
+      "text": "Ascites disorder due to obstructed bowels (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/244070423",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to obstructed bowels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/244070423"
+      }
+    },
+    {
+      "text": "(a) baddhagudodaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/244070423",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) baddhagudodaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/244070423"
+      }
+    },
+    {
+      "text": "Ascites due to Pitta disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1417299660",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites due to Pitta disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1417299660"
+      }
+    },
+    {
+      "text": "(a) pittaja-udararogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1417299660",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1417299660"
+      }
+    },
+    {
+      "text": "Intestinal perforation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/781234875",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intestinal perforation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      }
+    },
+    {
+      "text": "(a) chidrodaraḥ, (a) kṣatodaram",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/781234875",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) chidrodaraḥ, (a) kṣatodaram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      }
+    },
+    {
+      "text": "(a) kṣatodaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/781234875",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣatodaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      }
+    },
+    {
+      "text": "Ascites disorder due to three dosha (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1096878100",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1096878100"
+      }
+    },
+    {
+      "text": "(a) sannipātōdaraḥ-udararogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1096878100",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipātōdaraḥ-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1096878100"
+      }
+    },
+    {
+      "text": "Ascites disorder due to Vata (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/616211879",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/616211879"
+      }
+    },
+    {
+      "text": "(a) vātaja-udararogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/616211879",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/616211879"
+      }
+    },
+    {
+      "text": "Abdominal enlargement disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1232861787",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal enlargement disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1232861787"
+      }
+    },
+    {
+      "text": "(a) ajātodakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1232861787",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ajātodakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1232861787"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1149003012",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:27.892482",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1149003012",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1149003012",
+    "code": "SM32",
+    "source": "http://id.who.int/icd/entity/1149003012",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Ascites disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udara (b) Peruvayiṟu nōy (c) Istisqā’ Ziqqī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udararogaḥ, (a) jalodaraḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1155257714"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1155257714"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to obstructed bowels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/244070423"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) baddhagudodaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/244070423"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites due to Pitta disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1417299660"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1417299660"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intestinal perforation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) chidrodaraḥ, (a) kṣatodaram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣatodaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/781234875"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1096878100"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipātōdaraḥ-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1096878100"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ascites disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/616211879"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaja-udararogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/616211879"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal enlargement disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1232861787"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ajātodakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1232861787"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1324098793",
+  "id": "1324098793",
+  "title": "Bone, joint and muscle disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1450351129",
+    "http://id.who.int/icd/release/11/2025-01/mms/748187240",
+    "http://id.who.int/icd/release/11/2025-01/mms/38874374",
+    "http://id.who.int/icd/release/11/2025-01/mms/63119863",
+    "http://id.who.int/icd/release/11/2025-01/mms/17088197",
+    "http://id.who.int/icd/release/11/2025-01/mms/1263752098",
+    "http://id.who.int/icd/release/11/2025-01/mms/296037757",
+    "http://id.who.int/icd/release/11/2025-01/mms/1634061842",
+    "http://id.who.int/icd/release/11/2025-01/mms/212111852",
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1324098793",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 11,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:48.167714",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1324098793",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1450351129",
+      "http://id.who.int/icd/release/11/2025-01/mms/748187240",
+      "http://id.who.int/icd/release/11/2025-01/mms/38874374",
+      "http://id.who.int/icd/release/11/2025-01/mms/63119863",
+      "http://id.who.int/icd/release/11/2025-01/mms/17088197",
+      "http://id.who.int/icd/release/11/2025-01/mms/1263752098",
+      "http://id.who.int/icd/release/11/2025-01/mms/296037757",
+      "http://id.who.int/icd/release/11/2025-01/mms/1634061842",
+      "http://id.who.int/icd/release/11/2025-01/mms/212111852",
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1324098793",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1324098793",
+    "classKind": "block",
+    "blockId": "BlockL3-SP0",
+    "codeRange": "SP00-SP4Z",
+    "title": {
+      "@language": "en",
+      "@value": "Bone, joint and muscle disorders (TM2)"
+    }
+  }
+}

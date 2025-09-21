@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/611199268",
+  "id": "611199268",
+  "title": "Spreading of pitta pattern (TM2)",
+  "code": "SR18",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Spreading of pitta pattern (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Spreading of pitta pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pittaprasaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaprasaraḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#611199268",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:34.119949",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/611199268",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#611199268",
+    "code": "SR18",
+    "source": "http://id.who.int/icd/entity/611199268",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Spreading of pitta pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Spreading of pitta pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaprasaraḥ"
+        }
+      }
+    ]
+  }
+}

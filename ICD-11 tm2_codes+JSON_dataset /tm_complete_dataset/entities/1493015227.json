@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1493015227",
+  "id": "1493015227",
+  "title": "Odontalgia disorder (TM2)",
+  "code": "SM1A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Odontalgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Odontalgia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Tooth ache",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tooth ache"
+        }
+      }
+    },
+    {
+      "text": "(a) dantabhedaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantabhedaḥ"
+        }
+      }
+    },
+    {
+      "text": "(a) dālanaḥ (b) Pal kuttal (c) Waja‘ al-Asnān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dālanaḥ (b) Pal kuttal (c) Waja‘ al-Asnān"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1493015227",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:09.944030",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1493015227",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1493015227",
+    "code": "SM1A",
+    "source": "http://id.who.int/icd/entity/1493015227",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Odontalgia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Odontalgia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tooth ache"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantabhedaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dālanaḥ (b) Pal kuttal (c) Waja‘ al-Asnān"
+        }
+      }
+    ]
+  }
+}

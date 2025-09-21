@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/554848287",
+  "id": "554848287",
+  "title": "Continuous fever disorder (TM2)",
+  "code": "SP58",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Continuous fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Ḥummā Lāzima",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Lāzima"
+        }
+      }
+    },
+    {
+      "text": "(a) santata (c) Ḥummā Dā’ima",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) santata (c) Ḥummā Dā’ima"
+        }
+      }
+    },
+    {
+      "text": "(b) Viṭāccuram",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Viṭāccuram"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#554848287",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:18.954775",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/554848287",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#554848287",
+    "code": "SP58",
+    "source": "http://id.who.int/icd/entity/554848287",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Continuous fever disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Lāzima"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) santata (c) Ḥummā Dā’ima"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Viṭāccuram"
+        }
+      }
+    ]
+  }
+}

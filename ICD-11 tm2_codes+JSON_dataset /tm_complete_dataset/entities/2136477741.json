@@ -1,0 +1,144 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2136477741",
+  "id": "2136477741",
+  "title": "Abscess disorder (TM2)",
+  "code": "SP90",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Abscess disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abscess disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vidradhiḥ (b) Kaṭṭi (c) Khurāj",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vidradhiḥ (b) Kaṭṭi (c) Khurāj"
+        }
+      }
+    },
+    {
+      "text": "(c) Dubayla",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dubayla"
+        }
+      }
+    },
+    {
+      "text": "Hiradenitis supparativa disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/792179444",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiradenitis supparativa disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792179444"
+      }
+    },
+    {
+      "text": "(b) Araiyāppu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/792179444",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Araiyāppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792179444"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2136477741",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:34.024710",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2136477741",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2136477741",
+    "code": "SP90",
+    "source": "http://id.who.int/icd/entity/2136477741",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Abscess disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abscess disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vidradhiḥ (b) Kaṭṭi (c) Khurāj"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dubayla"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiradenitis supparativa disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792179444"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Araiyāppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792179444"
+      }
+    ]
+  }
+}

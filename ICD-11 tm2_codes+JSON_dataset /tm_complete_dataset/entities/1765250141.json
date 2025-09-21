@@ -1,0 +1,66 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1765250141",
+  "id": "1765250141",
+  "title": "Small yang type patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1293531980",
+    "http://id.who.int/icd/release/11/2025-01/mms/664757473",
+    "http://id.who.int/icd/release/11/2025-01/mms/1416923501",
+    "http://id.who.int/icd/release/11/2025-01/mms/1194045280",
+    "http://id.who.int/icd/release/11/2025-01/mms/784295540",
+    "http://id.who.int/icd/release/11/2025-01/mms/1765250141/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1765250141/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1723048222"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1765250141",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1723048222"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:40.514677",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1765250141",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1723048222"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1293531980",
+      "http://id.who.int/icd/release/11/2025-01/mms/664757473",
+      "http://id.who.int/icd/release/11/2025-01/mms/1416923501",
+      "http://id.who.int/icd/release/11/2025-01/mms/1194045280",
+      "http://id.who.int/icd/release/11/2025-01/mms/784295540",
+      "http://id.who.int/icd/release/11/2025-01/mms/1765250141/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1765250141/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1765250141",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1765250141",
+    "classKind": "block",
+    "blockId": "BlockL4-SH5",
+    "codeRange": "SH50-SH5Z",
+    "title": {
+      "@language": "en",
+      "@value": "Small yang type patterns (TM1)"
+    }
+  }
+}

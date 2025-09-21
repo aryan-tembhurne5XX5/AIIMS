@@ -1,0 +1,246 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1724940400",
+  "id": "1724940400",
+  "title": "Inflammation disorder (TM2)",
+  "code": "SP94",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śophaḥ, (b) Tāpitam, (c) Waram",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śophaḥ, (b) Tāpitam, (c) Waram"
+        }
+      }
+    },
+    {
+      "text": "Hot inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923583974",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hot inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923583974"
+      }
+    },
+    {
+      "text": "(c) Waram Ḥārr",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923583974",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923583974"
+      }
+    },
+    {
+      "text": "Cold inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/139295639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cold inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139295639"
+      }
+    },
+    {
+      "text": "(c) Waram Bārid",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/139295639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139295639"
+      }
+    },
+    {
+      "text": "Scirrhous inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1740423486",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Scirrhous inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1740423486"
+      }
+    },
+    {
+      "text": "(c) Saqīrūs",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1740423486",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Saqīrūs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1740423486"
+      }
+    },
+    {
+      "text": "Inflammation disorder with distension due to Rīḥ (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/40332427",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation disorder with distension due to Rīḥ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40332427"
+      }
+    },
+    {
+      "text": "(c) Waram Rīḥī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/40332427",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Rīḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40332427"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1724940400",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:38.229692",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1724940400",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1724940400",
+    "code": "SP94",
+    "source": "http://id.who.int/icd/entity/1724940400",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Inflammation disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śophaḥ, (b) Tāpitam, (c) Waram"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hot inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923583974"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923583974"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cold inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139295639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139295639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Scirrhous inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1740423486"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Saqīrūs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1740423486"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation disorder with distension due to Rīḥ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40332427"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram Rīḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40332427"
+      }
+    ]
+  }
+}

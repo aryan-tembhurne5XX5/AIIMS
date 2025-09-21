@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/615154833",
+  "id": "615154833",
+  "title": "Warmth disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1647241309",
+    "http://id.who.int/icd/release/11/2025-01/mms/1626402684",
+    "http://id.who.int/icd/release/11/2025-01/mms/1631916647",
+    "http://id.who.int/icd/release/11/2025-01/mms/615154833/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/615154833/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/672879010"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#615154833",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "672879010"
+  ],
+  "extractionTimestamp": "2025-09-21T01:05:41.879493",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/615154833",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/672879010"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1647241309",
+      "http://id.who.int/icd/release/11/2025-01/mms/1626402684",
+      "http://id.who.int/icd/release/11/2025-01/mms/1631916647",
+      "http://id.who.int/icd/release/11/2025-01/mms/615154833/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/615154833/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#615154833",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/615154833",
+    "classKind": "block",
+    "blockId": "BlockL4-SE0",
+    "codeRange": "SE00-SE0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Warmth disorders (TM1)"
+    }
+  }
+}

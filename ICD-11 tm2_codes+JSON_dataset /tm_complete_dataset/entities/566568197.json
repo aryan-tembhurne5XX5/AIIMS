@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/566568197",
+  "id": "566568197",
+  "title": "Excessive urine pattern (TM2)",
+  "code": "SR82",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Excessive urine pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Excessive urine pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mūtravṛddhiḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtravṛddhiḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#566568197",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "936674819"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:55.291907",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/566568197",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#566568197",
+    "code": "SR82",
+    "source": "http://id.who.int/icd/entity/566568197",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Excessive urine pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Excessive urine pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtravṛddhiḥ"
+        }
+      }
+    ]
+  }
+}

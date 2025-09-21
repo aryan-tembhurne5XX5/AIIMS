@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/992209794",
+  "id": "992209794",
+  "title": "Hypomenorrhoea disorder (TM2)",
+  "code": "SM97",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hypomenorrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hypomenorrhoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) lohitakṣayā (c) Qillat-i-Tamth",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitakṣayā (c) Qillat-i-Tamth"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#992209794",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:37.025759",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/992209794",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#992209794",
+    "code": "SM97",
+    "source": "http://id.who.int/icd/entity/992209794",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hypomenorrhoea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hypomenorrhoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitakṣayā (c) Qillat-i-Tamth"
+        }
+      }
+    ]
+  }
+}

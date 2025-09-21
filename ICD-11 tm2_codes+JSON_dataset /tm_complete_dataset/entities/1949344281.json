@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1949344281",
+  "id": "1949344281",
+  "title": "Large yang type patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1784342281",
+    "http://id.who.int/icd/release/11/2025-01/mms/1330925036",
+    "http://id.who.int/icd/release/11/2025-01/mms/1779629107",
+    "http://id.who.int/icd/release/11/2025-01/mms/1949344281/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1949344281/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1723048222"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1949344281",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1723048222"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:35.697469",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1949344281",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1723048222"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1784342281",
+      "http://id.who.int/icd/release/11/2025-01/mms/1330925036",
+      "http://id.who.int/icd/release/11/2025-01/mms/1779629107",
+      "http://id.who.int/icd/release/11/2025-01/mms/1949344281/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1949344281/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1949344281",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1949344281",
+    "classKind": "block",
+    "blockId": "BlockL4-SH4",
+    "codeRange": "SH40-SH4Z",
+    "title": {
+      "@language": "en",
+      "@value": "Large yang type patterns (TM1)"
+    }
+  }
+}

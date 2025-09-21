@@ -1,0 +1,66 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/858244402",
+  "id": "858244402",
+  "title": "Metabolic disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/298183636",
+    "http://id.who.int/icd/release/11/2025-01/mms/683889528",
+    "http://id.who.int/icd/release/11/2025-01/mms/832544714",
+    "http://id.who.int/icd/release/11/2025-01/mms/891423222",
+    "http://id.who.int/icd/release/11/2025-01/mms/465700982",
+    "http://id.who.int/icd/release/11/2025-01/mms/858244402/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/858244402/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#858244402",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:23.338116",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/858244402",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/298183636",
+      "http://id.who.int/icd/release/11/2025-01/mms/683889528",
+      "http://id.who.int/icd/release/11/2025-01/mms/832544714",
+      "http://id.who.int/icd/release/11/2025-01/mms/891423222",
+      "http://id.who.int/icd/release/11/2025-01/mms/465700982",
+      "http://id.who.int/icd/release/11/2025-01/mms/858244402/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/858244402/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#858244402",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/858244402",
+    "classKind": "block",
+    "blockId": "BlockL4-SP6",
+    "codeRange": "SP60-SP6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Metabolic disorders (TM2)"
+    }
+  }
+}

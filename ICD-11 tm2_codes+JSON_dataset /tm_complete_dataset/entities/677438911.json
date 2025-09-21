@@ -1,0 +1,59 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/677438911",
+  "id": "677438911",
+  "title": "Meridian and collateral patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1400320922",
+    "http://id.who.int/icd/release/11/2025-01/mms/2071442150",
+    "http://id.who.int/icd/release/11/2025-01/mms/677438911/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/677438911/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#677438911",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:42.363167",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/677438911",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1400320922",
+      "http://id.who.int/icd/release/11/2025-01/mms/2071442150",
+      "http://id.who.int/icd/release/11/2025-01/mms/677438911/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/677438911/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#677438911",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/677438911",
+    "classKind": "block",
+    "blockId": "BlockL3-SG2",
+    "codeRange": "SG20-SG5Z",
+    "title": {
+      "@language": "en",
+      "@value": "Meridian and collateral patterns (TM1)"
+    }
+  }
+}

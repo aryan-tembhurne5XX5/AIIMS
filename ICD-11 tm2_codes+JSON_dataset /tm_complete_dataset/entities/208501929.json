@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/208501929",
+  "id": "208501929",
+  "title": "Fluid patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1902618610",
+    "http://id.who.int/icd/release/11/2025-01/mms/59596855",
+    "http://id.who.int/icd/release/11/2025-01/mms/1870160234",
+    "http://id.who.int/icd/release/11/2025-01/mms/1657828206",
+    "http://id.who.int/icd/release/11/2025-01/mms/1245319109",
+    "http://id.who.int/icd/release/11/2025-01/mms/848224260",
+    "http://id.who.int/icd/release/11/2025-01/mms/208501929/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/208501929/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#208501929",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 8,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:36.837881",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/208501929",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1902618610",
+      "http://id.who.int/icd/release/11/2025-01/mms/59596855",
+      "http://id.who.int/icd/release/11/2025-01/mms/1870160234",
+      "http://id.who.int/icd/release/11/2025-01/mms/1657828206",
+      "http://id.who.int/icd/release/11/2025-01/mms/1245319109",
+      "http://id.who.int/icd/release/11/2025-01/mms/848224260",
+      "http://id.who.int/icd/release/11/2025-01/mms/208501929/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/208501929/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#208501929",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/208501929",
+    "classKind": "block",
+    "blockId": "BlockL4-SF1",
+    "codeRange": "SF10-SF1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Fluid patterns (TM1)"
+    }
+  }
+}

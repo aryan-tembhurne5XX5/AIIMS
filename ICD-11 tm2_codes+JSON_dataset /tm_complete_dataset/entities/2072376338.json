@@ -1,0 +1,58 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2072376338",
+  "id": "2072376338",
+  "title": "Nervous system disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/691174964",
+    "http://id.who.int/icd/release/11/2025-01/mms/2072376338/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/2072376338/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2072376338",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:07.501295",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2072376338",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/691174964",
+      "http://id.who.int/icd/release/11/2025-01/mms/2072376338/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/2072376338/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2072376338",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/2072376338",
+    "classKind": "block",
+    "blockId": "BlockL4-SK1",
+    "codeRange": "SK10-SK1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Nervous system disorders (TM2)"
+    }
+  }
+}

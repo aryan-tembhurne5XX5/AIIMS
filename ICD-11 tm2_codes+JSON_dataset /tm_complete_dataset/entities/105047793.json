@@ -1,0 +1,88 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/105047793",
+  "id": "105047793",
+  "title": "Morning sickness disorder (TM1)",
+  "code": "SC00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Morning sickness disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Morning sickness disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Vomiting during pregnancy disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vomiting during pregnancy disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1159798626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#105047793",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253",
+    "1159798626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:23.915710",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/105047793",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1159798626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#105047793",
+    "code": "SC00",
+    "source": "http://id.who.int/icd/entity/105047793",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Morning sickness disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Morning sickness disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vomiting during pregnancy disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

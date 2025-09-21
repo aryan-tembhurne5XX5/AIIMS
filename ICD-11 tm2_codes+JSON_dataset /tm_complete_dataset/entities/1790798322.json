@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1790798322",
+  "id": "1790798322",
+  "title": "Gallbladder qi deficiency pattern (TM1)",
+  "code": "SF5D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Gallbladder qi deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder qi deficiency pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Gallbladder insufficiency with timidity (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder insufficiency with timidity (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Gallbladder deficiency with qi timidity (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder deficiency with qi timidity (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1790798322",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1628485143"
+  ],
+  "extractionTimestamp": "2025-09-21T01:07:02.049721",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1790798322",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1790798322",
+    "code": "SF5D",
+    "source": "http://id.who.int/icd/entity/1790798322",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Gallbladder qi deficiency pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder qi deficiency pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder insufficiency with timidity (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder deficiency with qi timidity (TM1)"
+        }
+      }
+    ]
+  }
+}

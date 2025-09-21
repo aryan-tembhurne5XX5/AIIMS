@@ -1,0 +1,287 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/840913416",
+  "id": "840913416",
+  "title": "Nephritis disorder (TM2)",
+  "code": "SM84",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Nephritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Nephritis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Nīrkkaṭṭu (c) Waram al-Kulya",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu (c) Waram al-Kulya"
+        }
+      }
+    },
+    {
+      "text": "Hot nephritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/764001212",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hot nephritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/764001212"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kulya Ḥārr",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/764001212",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/764001212"
+      }
+    },
+    {
+      "text": "Hard nephritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/654580944",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hard nephritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kulya Ṣulb",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/654580944",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Ṣulb"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      }
+    },
+    {
+      "text": "Nephrosclerosis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/654580944",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Nephrosclerosis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      }
+    },
+    {
+      "text": "Anuria due to Vaḷi (pead) disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/312764628",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anuria due to Vaḷi (pead) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      }
+    },
+    {
+      "text": "(b) Nīrkkaṭṭu (pead)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/312764628",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu (pead)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      }
+    },
+    {
+      "text": "Difficulty in micturition (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/312764628",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Difficulty in micturition (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      }
+    },
+    {
+      "text": "Cold nephritis disorder due derangement of Balgham (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1278474101",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cold nephritis disorder due derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1278474101"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kulya Bārid Balghamī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1278474101",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Bārid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1278474101"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#840913416",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:17.017222",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/840913416",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#840913416",
+    "code": "SM84",
+    "source": "http://id.who.int/icd/entity/840913416",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Nephritis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Nephritis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu (c) Waram al-Kulya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hot nephritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/764001212"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/764001212"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hard nephritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Ṣulb"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Nephrosclerosis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/654580944"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anuria due to Vaḷi (pead) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkaṭṭu (pead)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Difficulty in micturition (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312764628"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cold nephritis disorder due derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1278474101"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kulya Bārid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1278474101"
+      }
+    ]
+  }
+}

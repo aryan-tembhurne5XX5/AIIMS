@@ -1,0 +1,65 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1220285877",
+  "id": "1220285877",
+  "title": "Organ system patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143",
+    "http://id.who.int/icd/release/11/2025-01/mms/869021345",
+    "http://id.who.int/icd/release/11/2025-01/mms/1590586280",
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345",
+    "http://id.who.int/icd/release/11/2025-01/mms/561238214",
+    "http://id.who.int/icd/release/11/2025-01/mms/1220285877/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1220285877/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1220285877",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:46.559820",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1220285877",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143",
+      "http://id.who.int/icd/release/11/2025-01/mms/869021345",
+      "http://id.who.int/icd/release/11/2025-01/mms/1590586280",
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345",
+      "http://id.who.int/icd/release/11/2025-01/mms/561238214",
+      "http://id.who.int/icd/release/11/2025-01/mms/1220285877/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1220285877/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1220285877",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1220285877",
+    "classKind": "block",
+    "blockId": "BlockL3-SF5",
+    "codeRange": "SF50-SG1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Organ system patterns (TM1)"
+    }
+  }
+}

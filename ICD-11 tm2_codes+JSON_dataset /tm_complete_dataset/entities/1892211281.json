@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1892211281",
+  "id": "1892211281",
+  "title": "Pseudo poisoning disorder (TM2)",
+  "code": "SQ60",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pseudo poisoning disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pseudo poisoning disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śaṅkhaviṣaḥ (b) Viṭappāka rōkam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śaṅkhaviṣaḥ (b) Viṭappāka rōkam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1386056187"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1892211281",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "761201319",
+    "1386056187"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:10.993340",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1892211281",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1386056187"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1892211281",
+    "code": "SQ60",
+    "source": "http://id.who.int/icd/entity/1892211281",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pseudo poisoning disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pseudo poisoning disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śaṅkhaviṣaḥ (b) Viṭappāka rōkam"
+        }
+      }
+    ]
+  }
+}

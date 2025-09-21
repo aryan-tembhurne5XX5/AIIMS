@@ -1,0 +1,140 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1263752098",
+  "id": "1263752098",
+  "title": "Lumbar spondylosis disorder (TM2)",
+  "code": "SP42",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lumbar spondylosis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbar spondylosis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pṛṣṭha-grahaḥ (b) Taṇṭaka vātam (c) Waja‘ al-Ẓahr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pṛṣṭha-grahaḥ (b) Taṇṭaka vātam (c) Waja‘ al-Ẓahr"
+        }
+      }
+    },
+    {
+      "text": "Stiff back (TM2), Backache (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Stiff back (TM2), Backache (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaṭiśūla",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṭiśūla"
+        }
+      }
+    },
+    {
+      "text": "(a) Kaṭigraha",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kaṭigraha"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1263752098",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:04.069664",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1263752098",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1263752098",
+    "code": "SP42",
+    "source": "http://id.who.int/icd/entity/1263752098",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lumbar spondylosis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbar spondylosis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pṛṣṭha-grahaḥ (b) Taṇṭaka vātam (c) Waja‘ al-Ẓahr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Stiff back (TM2), Backache (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṭiśūla"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kaṭigraha"
+        }
+      }
+    ]
+  }
+}

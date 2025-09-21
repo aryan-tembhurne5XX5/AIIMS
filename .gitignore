@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+namaste_env/
+*.pdf
+*.xls
+*.xlsx
+*.numbers
+
+.DS_Store
+.vscode/
+.idea/

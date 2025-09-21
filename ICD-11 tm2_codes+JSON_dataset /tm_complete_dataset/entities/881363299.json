@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/881363299",
+  "id": "881363299",
+  "title": "Spoilage of humors pattern (TM2)",
+  "code": "SR1V",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Spoilage of humors pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Spoilage of humors pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) fesAd-e khelt",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) fesAd-e khelt"
+        }
+      }
+    },
+    {
+      "text": "(c) Fasād-i-Khilṭ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Fasād-i-Khilṭ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#881363299",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:56.164130",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/881363299",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#881363299",
+    "code": "SR1V",
+    "source": "http://id.who.int/icd/entity/881363299",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Spoilage of humors pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Spoilage of humors pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) fesAd-e khelt"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Fasād-i-Khilṭ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/713919477",
+  "id": "713919477",
+  "title": "Palpitation disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/846189212",
+    "http://id.who.int/icd/release/11/2025-01/mms/1070055580",
+    "http://id.who.int/icd/release/11/2025-01/mms/713919477/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/713919477/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1013501005"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#713919477",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "1013501005"
+  ],
+  "extractionTimestamp": "2025-09-21T01:02:52.434642",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/713919477",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1013501005"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/846189212",
+      "http://id.who.int/icd/release/11/2025-01/mms/1070055580",
+      "http://id.who.int/icd/release/11/2025-01/mms/713919477/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/713919477/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#713919477",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/713919477",
+    "classKind": "block",
+    "blockId": "BlockL5-SA1",
+    "codeRange": "SA10-SA1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Palpitation disorders (TM1)"
+    }
+  }
+}

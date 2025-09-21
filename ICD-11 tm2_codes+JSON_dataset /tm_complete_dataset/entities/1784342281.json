@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1784342281",
+  "id": "1784342281",
+  "title": "Large yang type exterior origin lower back pattern (TM1)",
+  "code": "SH40",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Large yang type exterior origin lower back pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Large yang type exterior origin lower back pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Taeyang type exterior pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Taeyang type exterior pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "TY type exterior pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "TY type exterior pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Type I constitution patterns (TM1) of the exterior",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Type I constitution patterns (TM1) of the exterior"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1949344281"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1784342281",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1723048222",
+    "1949344281"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:36.678949",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1784342281",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1949344281"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1784342281",
+    "code": "SH40",
+    "source": "http://id.who.int/icd/entity/1784342281",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Large yang type exterior origin lower back pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Large yang type exterior origin lower back pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Taeyang type exterior pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "TY type exterior pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Type I constitution patterns (TM1) of the exterior"
+        }
+      }
+    ]
+  }
+}

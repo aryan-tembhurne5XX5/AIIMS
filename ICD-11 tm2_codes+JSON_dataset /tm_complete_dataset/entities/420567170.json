@@ -1,0 +1,66 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/420567170",
+  "id": "420567170",
+  "title": "Behavioural disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1059449428",
+    "http://id.who.int/icd/release/11/2025-01/mms/450417382",
+    "http://id.who.int/icd/release/11/2025-01/mms/906832050",
+    "http://id.who.int/icd/release/11/2025-01/mms/1406567687",
+    "http://id.who.int/icd/release/11/2025-01/mms/1558314763",
+    "http://id.who.int/icd/release/11/2025-01/mms/420567170/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/420567170/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#420567170",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:56.864787",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/420567170",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1059449428",
+      "http://id.who.int/icd/release/11/2025-01/mms/450417382",
+      "http://id.who.int/icd/release/11/2025-01/mms/906832050",
+      "http://id.who.int/icd/release/11/2025-01/mms/1406567687",
+      "http://id.who.int/icd/release/11/2025-01/mms/1558314763",
+      "http://id.who.int/icd/release/11/2025-01/mms/420567170/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/420567170/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#420567170",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/420567170",
+    "classKind": "block",
+    "blockId": "BlockL4-SQ2",
+    "codeRange": "SQ20-SQ2Z",
+    "title": {
+      "@language": "en",
+      "@value": "Behavioural disorders (TM2)"
+    }
+  }
+}

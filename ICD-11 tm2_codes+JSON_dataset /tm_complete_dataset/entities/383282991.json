@@ -1,0 +1,303 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/383282991",
+  "id": "383282991",
+  "title": "Polyarthritis disorder (TM2)",
+  "code": "SP10",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Polyarthritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyarthritis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Cantu vātam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cantu vātam"
+        }
+      }
+    },
+    {
+      "text": "(c) waram-e mafsal",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) waram-e mafsal"
+        }
+      }
+    },
+    {
+      "text": "(a) vātaraktam (b) Vātacurōṇitam (c) Waja‘ al-Mafāṣil",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaraktam (b) Vātacurōṇitam (c) Waja‘ al-Mafāṣil"
+        }
+      }
+    },
+    {
+      "text": "Rheumatoid arthritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/120728845",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Rheumatoid arthritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/120728845"
+      }
+    },
+    {
+      "text": "(b) Vaḷiaẕal kīlvāyu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/120728845",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷiaẕal kīlvāyu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/120728845"
+      }
+    },
+    {
+      "text": "Complications of rheumatoid arthritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/558247002",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Complications of rheumatoid arthritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558247002"
+      }
+    },
+    {
+      "text": "(b) Payittiya vāta curōṇitam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/558247002",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Payittiya vāta curōṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558247002"
+      }
+    },
+    {
+      "text": "Swollen knee deformity disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1538054187",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Swollen knee deformity disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      }
+    },
+    {
+      "text": "(a) kroṣṭukaśīrṣaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1538054187",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kroṣṭukaśīrṣaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      }
+    },
+    {
+      "text": "(b) Aiyavaḷi kīlvāyu, (b) Narittalai vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1538054187",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiyavaḷi kīlvāyu, (b) Narittalai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      }
+    },
+    {
+      "text": "Rheumatoid arthritis (Initial stage) disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1594969621",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Rheumatoid arthritis (Initial stage) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1594969621"
+      }
+    },
+    {
+      "text": "(b) Utira vāta curōṇitam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1594969621",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Utira vāta curōṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1594969621"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/748187240"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#383282991",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793",
+    "748187240"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:52.376368",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/383282991",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/748187240"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#383282991",
+    "code": "SP10",
+    "source": "http://id.who.int/icd/entity/383282991",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Polyarthritis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyarthritis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cantu vātam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) waram-e mafsal"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaraktam (b) Vātacurōṇitam (c) Waja‘ al-Mafāṣil"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Rheumatoid arthritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/120728845"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷiaẕal kīlvāyu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/120728845"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Complications of rheumatoid arthritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558247002"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Payittiya vāta curōṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558247002"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Swollen knee deformity disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kroṣṭukaśīrṣaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiyavaḷi kīlvāyu, (b) Narittalai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538054187"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Rheumatoid arthritis (Initial stage) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1594969621"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Utira vāta curōṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1594969621"
+      }
+    ]
+  }
+}

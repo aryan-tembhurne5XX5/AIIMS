@@ -1,0 +1,67 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/226861675",
+  "id": "226861675",
+  "title": "Six stage patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/240980496",
+    "http://id.who.int/icd/release/11/2025-01/mms/1831776751",
+    "http://id.who.int/icd/release/11/2025-01/mms/1558208098",
+    "http://id.who.int/icd/release/11/2025-01/mms/1026536215",
+    "http://id.who.int/icd/release/11/2025-01/mms/409535178",
+    "http://id.who.int/icd/release/11/2025-01/mms/812221366",
+    "http://id.who.int/icd/release/11/2025-01/mms/226861675/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/226861675/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#226861675",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 8,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:06.768827",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/226861675",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/240980496",
+      "http://id.who.int/icd/release/11/2025-01/mms/1831776751",
+      "http://id.who.int/icd/release/11/2025-01/mms/1558208098",
+      "http://id.who.int/icd/release/11/2025-01/mms/1026536215",
+      "http://id.who.int/icd/release/11/2025-01/mms/409535178",
+      "http://id.who.int/icd/release/11/2025-01/mms/812221366",
+      "http://id.who.int/icd/release/11/2025-01/mms/226861675/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/226861675/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#226861675",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/226861675",
+    "classKind": "block",
+    "blockId": "BlockL3-SG6",
+    "codeRange": "SG60-SG6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Six stage patterns (TM1)"
+    }
+  }
+}

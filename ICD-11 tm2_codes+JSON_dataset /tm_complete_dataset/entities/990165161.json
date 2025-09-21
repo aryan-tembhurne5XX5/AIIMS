@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/990165161",
+  "id": "990165161",
+  "title": "Varicose veins disorder (TM2)",
+  "code": "SL70",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Varicose veins disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Varicose veins disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sirāgranthiḥ (b) Nāḷa vipāta puṭaippu (c) Dawālī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirāgranthiḥ (b) Nāḷa vipāta puṭaippu (c) Dawālī"
+        }
+      }
+    },
+    {
+      "text": "(b) Naalavibatham",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Naalavibatham"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1688071994"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#990165161",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066",
+    "1688071994"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:48.606199",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/990165161",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1688071994"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#990165161",
+    "code": "SL70",
+    "source": "http://id.who.int/icd/entity/990165161",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Varicose veins disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Varicose veins disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirāgranthiḥ (b) Nāḷa vipāta puṭaippu (c) Dawālī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Naalavibatham"
+        }
+      }
+    ]
+  }
+}

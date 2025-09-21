@@ -1,0 +1,165 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1704704031",
+  "id": "1704704031",
+  "title": "Blepharitis disorder (TM2)",
+  "code": "SK62",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Blepharitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blepharitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vartmāvabandhakaḥ (b) Imai Taṭippu (c) Sulāq",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vartmāvabandhakaḥ (b) Imai Taṭippu (c) Sulāq"
+        }
+      }
+    },
+    {
+      "text": "(c) Bāmnī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bāmnī"
+        }
+      }
+    },
+    {
+      "text": "Chronic blepharitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/527518832",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic blepharitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      }
+    },
+    {
+      "text": "(a) kṛmigranthiḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/527518832",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmigranthiḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      }
+    },
+    {
+      "text": "Pedicularis palpebrae (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/527518832",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pedicularis palpebrae (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1704704031",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:27.828667",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1704704031",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1704704031",
+    "code": "SK62",
+    "source": "http://id.who.int/icd/entity/1704704031",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Blepharitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blepharitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vartmāvabandhakaḥ (b) Imai Taṭippu (c) Sulāq"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bāmnī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic blepharitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmigranthiḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pedicularis palpebrae (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/527518832"
+      }
+    ]
+  }
+}

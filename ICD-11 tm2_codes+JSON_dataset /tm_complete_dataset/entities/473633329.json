@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/473633329",
+  "id": "473633329",
+  "title": "Cold predominant temperament with greater degree of dryness age pattern (TM2)",
+  "code": "SS89",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Cold predominant temperament with greater degree of dryness age pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cold predominant temperament with greater degree of dryness age pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Sinn-i-Shaykhūkhat",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sinn-i-Shaykhūkhat"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#473633329",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "1219708494"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:55.300024",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/473633329",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#473633329",
+    "code": "SS89",
+    "source": "http://id.who.int/icd/entity/473633329",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Cold predominant temperament with greater degree of dryness age pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cold predominant temperament with greater degree of dryness age pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sinn-i-Shaykhūkhat"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1952938548",
+  "id": "1952938548",
+  "title": "Scalp affliction disorder (TM2)",
+  "code": "SK50",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Scalp affliction disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp affliction disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kapāla-rogaḥ (b) Kapāla tērai",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapāla-rogaḥ (b) Kapāla tērai"
+        }
+      }
+    },
+    {
+      "text": "Scalp tumour disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1060789661",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp tumour disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1060789661"
+      }
+    },
+    {
+      "text": "(a) kapālarbudaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1060789661",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālarbudaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1060789661"
+      }
+    },
+    {
+      "text": "Neurotrophic ulcer disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1638777406",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Neurotrophic ulcer disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1638777406"
+      }
+    },
+    {
+      "text": "(b) Cilaippuṇ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1638777406",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilaippuṇ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1638777406"
+      }
+    },
+    {
+      "text": "Numbness over scalp disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1977273780",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Numbness over scalp disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1977273780"
+      }
+    },
+    {
+      "text": "(b) Maṇṭai timir",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1977273780",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai timir"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1977273780"
+      }
+    },
+    {
+      "text": "Brain disease disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/254818757",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Brain disease disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/254818757"
+      }
+    },
+    {
+      "text": "(b) Mūḷai nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/254818757",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūḷai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/254818757"
+      }
+    },
+    {
+      "text": "Infection of palate disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1623294828",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Infection of palate disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1623294828"
+      }
+    },
+    {
+      "text": "(a) tālukaṇṭakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1623294828",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tālukaṇṭakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1623294828"
+      }
+    },
+    {
+      "text": "Delirium caused by diseases of head disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1637220901",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium caused by diseases of head disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1637220901"
+      }
+    },
+    {
+      "text": "(b) Maṇṭai caṉṉi",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1637220901",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1637220901"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1952938548",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:17.281523",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1952938548",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1952938548",
+    "code": "SK50",
+    "source": "http://id.who.int/icd/entity/1952938548",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Scalp affliction disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp affliction disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapāla-rogaḥ (b) Kapāla tērai"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp tumour disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1060789661"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālarbudaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1060789661"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Neurotrophic ulcer disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1638777406"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilaippuṇ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1638777406"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Numbness over scalp disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1977273780"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai timir"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1977273780"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Brain disease disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/254818757"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūḷai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/254818757"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Infection of palate disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1623294828"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tālukaṇṭakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1623294828"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium caused by diseases of head disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1637220901"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1637220901"
+      }
+    ]
+  }
+}

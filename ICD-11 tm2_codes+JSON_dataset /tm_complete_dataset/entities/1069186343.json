@@ -1,0 +1,567 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1069186343",
+  "id": "1069186343",
+  "title": "Intermittent fever disorder (TM2)",
+  "code": "SP57",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Intermittent fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) viṣamajvaraḥ (b) Viṭṭuvarum curam (c) Ḥummā Dā’ira",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viṣamajvaraḥ (b) Viṭṭuvarum curam (c) Ḥummā Dā’ira"
+        }
+      }
+    },
+    {
+      "text": "Intermittent fever appearing twice daily disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/892852811",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever appearing twice daily disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/892852811"
+      }
+    },
+    {
+      "text": "(a) satata-viṣamajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/892852811",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) satata-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/892852811"
+      }
+    },
+    {
+      "text": "Quartan fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1805240888",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1805240888"
+      }
+    },
+    {
+      "text": "(a) caturthaka-viṣamajvaraḥ (c) Ḥummā al-Rib‘ , (c) Ṭaṭrā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1805240888",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) caturthaka-viṣamajvaraḥ (c) Ḥummā al-Rib‘ , (c) Ṭaṭrā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1805240888"
+      }
+    },
+    {
+      "text": "Tertian fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1628728660",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1628728660"
+      }
+    },
+    {
+      "text": "(a) tṛtīyaka-viṣamajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1628728660",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tṛtīyaka-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1628728660"
+      }
+    },
+    {
+      "text": "Tertian fever disorder due to Kapha and Pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/439707653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Kapha and Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/439707653"
+      }
+    },
+    {
+      "text": "(a) kaphapittatṛtīyakajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/439707653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphapittatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/439707653"
+      }
+    },
+    {
+      "text": "Tertian fever disorder due to Vata and Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1348633952",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Vata and Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1348633952"
+      }
+    },
+    {
+      "text": "(a) vātakaphatṛtīyakajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1348633952",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātakaphatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1348633952"
+      }
+    },
+    {
+      "text": "Tertian fever disorder due to Vāta and Pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1066614729",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Vāta and Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1066614729"
+      }
+    },
+    {
+      "text": "(a) vātapittatṛtīyakajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1066614729",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātapittatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1066614729"
+      }
+    },
+    {
+      "text": "Intermittent remitting fever on every fourth day disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1165609912",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent remitting fever on every fourth day disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1165609912"
+      }
+    },
+    {
+      "text": "(a) caturthakaviparyaya-viṣamajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1165609912",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) caturthakaviparyaya-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1165609912"
+      }
+    },
+    {
+      "text": "Intermittent fever occurring once in a day disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/529511781",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever occurring once in a day disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/529511781"
+      }
+    },
+    {
+      "text": "(a) anyedyuṣka-viṣamajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/529511781",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anyedyuṣka-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/529511781"
+      }
+    },
+    {
+      "text": "Quartan fever disorder due to Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2052331728",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2052331728"
+      }
+    },
+    {
+      "text": "(a) kaphajacaturthakajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2052331728",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajacaturthakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2052331728"
+      }
+    },
+    {
+      "text": "Quartan fever disorder due to Vāta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1103076022",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder due to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1103076022"
+      }
+    },
+    {
+      "text": "(a) vātajacaturthakajvaraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1103076022",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātajacaturthakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1103076022"
+      }
+    },
+    {
+      "text": "Periodic fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1261583834",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Periodic fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261583834"
+      }
+    },
+    {
+      "text": "(b) Muṟai curam",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1261583834",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muṟai curam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261583834"
+      }
+    },
+    {
+      "text": "Continuous fever disorder due to derangement of Sawdā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/895836055",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/895836055"
+      }
+    },
+    {
+      "text": "(b) Ḥummā al-Rib‘ Lāzima",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/895836055",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ḥummā al-Rib‘ Lāzima"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/895836055"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1069186343",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:17.884339",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1069186343",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1069186343",
+    "code": "SP57",
+    "source": "http://id.who.int/icd/entity/1069186343",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Intermittent fever disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viṣamajvaraḥ (b) Viṭṭuvarum curam (c) Ḥummā Dā’ira"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever appearing twice daily disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/892852811"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) satata-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/892852811"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1805240888"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) caturthaka-viṣamajvaraḥ (c) Ḥummā al-Rib‘ , (c) Ṭaṭrā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1805240888"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1628728660"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tṛtīyaka-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1628728660"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Kapha and Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/439707653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphapittatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/439707653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Vata and Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1348633952"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātakaphatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1348633952"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tertian fever disorder due to Vāta and Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1066614729"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātapittatṛtīyakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1066614729"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent remitting fever on every fourth day disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1165609912"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) caturthakaviparyaya-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1165609912"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intermittent fever occurring once in a day disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/529511781"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anyedyuṣka-viṣamajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/529511781"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2052331728"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajacaturthakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2052331728"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quartan fever disorder due to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1103076022"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātajacaturthakajvaraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1103076022"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Periodic fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261583834"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muṟai curam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261583834"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/895836055"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ḥummā al-Rib‘ Lāzima"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/895836055"
+      }
+    ]
+  }
+}

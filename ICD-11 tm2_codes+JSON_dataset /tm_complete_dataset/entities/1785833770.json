@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1785833770",
+  "id": "1785833770",
+  "title": "Blood related disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/583544121",
+    "http://id.who.int/icd/release/11/2025-01/mms/20474469",
+    "http://id.who.int/icd/release/11/2025-01/mms/1785833770/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1785833770/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1785833770",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:51.911979",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1785833770",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/583544121",
+      "http://id.who.int/icd/release/11/2025-01/mms/20474469",
+      "http://id.who.int/icd/release/11/2025-01/mms/1785833770/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1785833770/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1785833770",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1785833770",
+    "classKind": "block",
+    "blockId": "BlockL4-SL8",
+    "codeRange": "SL80-SL8Z",
+    "title": {
+      "@language": "en",
+      "@value": "Blood related disorders (TM2)"
+    }
+  }
+}

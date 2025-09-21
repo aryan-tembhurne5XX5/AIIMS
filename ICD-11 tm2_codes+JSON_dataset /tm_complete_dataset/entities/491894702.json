@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/491894702",
+  "id": "491894702",
+  "title": "Uvulitis disorder (TM2)",
+  "code": "SM18",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Uvulitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) galaśuṇḍikā (c) Waram-i-Lahāt",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) galaśuṇḍikā (c) Waram-i-Lahāt"
+        }
+      }
+    },
+    {
+      "text": "(b) Uḷ nākku vaḷarcci",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Uḷ nākku vaḷarcci"
+        }
+      }
+    },
+    {
+      "text": "Uvulitis due to derangement of Dam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923091717",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis due to derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923091717"
+      }
+    },
+    {
+      "text": "(c) Waram-i-Lahāt Damawī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923091717",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram-i-Lahāt Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923091717"
+      }
+    },
+    {
+      "text": "Uvulitis due to derangement of Sawdā' disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/139131254",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis due to derangement of Sawdā' disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139131254"
+      }
+    },
+    {
+      "text": "(c) Waram-i-Lahāt Sawdāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/139131254",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram-i-Lahāt Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139131254"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#491894702",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:07.854869",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/491894702",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#491894702",
+    "code": "SM18",
+    "source": "http://id.who.int/icd/entity/491894702",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Uvulitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) galaśuṇḍikā (c) Waram-i-Lahāt"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Uḷ nākku vaḷarcci"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis due to derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923091717"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram-i-Lahāt Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923091717"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Uvulitis due to derangement of Sawdā' disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139131254"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram-i-Lahāt Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139131254"
+      }
+    ]
+  }
+}

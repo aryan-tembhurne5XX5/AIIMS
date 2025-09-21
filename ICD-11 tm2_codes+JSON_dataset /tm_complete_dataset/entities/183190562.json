@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/183190562",
+  "id": "183190562",
+  "title": "Abnormal moist temperament pattern (TM2)",
+  "code": "ST05",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Abnormal moist temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abnormal moist temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Sū’-i-Mizāj Raṭb",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Raṭb"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#183190562",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:01.743542",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/183190562",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#183190562",
+    "code": "ST05",
+    "source": "http://id.who.int/icd/entity/183190562",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Abnormal moist temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abnormal moist temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Raṭb"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/165944656",
+  "id": "165944656",
+  "title": "Renal colic disorder (TM2)",
+  "code": "SM83",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Renal colic disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Renal colic disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tūnī (b) Aẕal nīrccurukku (c) Qūlanj Kulwī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tūnī (b) Aẕal nīrccurukku (c) Qūlanj Kulwī"
+        }
+      }
+    },
+    {
+      "text": "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1816113381",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1816113381"
+      }
+    },
+    {
+      "text": "(a) pratitūnī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1816113381",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratitūnī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1816113381"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#165944656",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:15.954154",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/165944656",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#165944656",
+    "code": "SM83",
+    "source": "http://id.who.int/icd/entity/165944656",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Renal colic disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Renal colic disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tūnī (b) Aẕal nīrccurukku (c) Qūlanj Kulwī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Colicky pain radiating towards bladder and upwards to abdomen disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1816113381"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratitūnī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1816113381"
+      }
+    ]
+  }
+}

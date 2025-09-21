@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1012096783",
+  "id": "1012096783",
+  "title": "Psoriasis disorder (TM2)",
+  "code": "SN4A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Psoriasis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Psoriasis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sidhmaḥ (b) Kāḷāñcakappaṭai (c) Taqashshur al-Jild",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sidhmaḥ (b) Kāḷāñcakappaṭai (c) Taqashshur al-Jild"
+        }
+      }
+    },
+    {
+      "text": "Guttate psoriasis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1198676574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Guttate psoriasis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1198676574"
+      }
+    },
+    {
+      "text": "(a) kiṭibhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1198676574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kiṭibhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1198676574"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1012096783",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:15.098935",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1012096783",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1012096783",
+    "code": "SN4A",
+    "source": "http://id.who.int/icd/entity/1012096783",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Psoriasis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Psoriasis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sidhmaḥ (b) Kāḷāñcakappaṭai (c) Taqashshur al-Jild"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Guttate psoriasis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1198676574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kiṭibhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1198676574"
+      }
+    ]
+  }
+}

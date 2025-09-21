@@ -1,0 +1,767 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/213858904",
+  "id": "213858904",
+  "title": "Diarrhoea disorder (TM2)",
+  "code": "SM37",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Diarrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) atisāraḥ (b) Peruṅ kaẕiccal (c) Ishāl",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) atisāraḥ (b) Peruṅ kaẕiccal (c) Ishāl"
+        }
+      }
+    },
+    {
+      "text": "Hepatic diarrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1768200173",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatic diarrhoea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1768200173"
+      }
+    },
+    {
+      "text": "(c) Dhūsanṭāriya Kabidiyya",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1768200173",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dhūsanṭāriya Kabidiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1768200173"
+      }
+    },
+    {
+      "text": "Irritable bowel syndrome disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1934140217",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Irritable bowel syndrome disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1934140217"
+      }
+    },
+    {
+      "text": "(c) Ishāl Dimāghī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1934140217",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Dimāghī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1934140217"
+      }
+    },
+    {
+      "text": "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2042954837",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2042954837"
+      }
+    },
+    {
+      "text": "(c) Ishāl Marārī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2042954837",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Marārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2042954837"
+      }
+    },
+    {
+      "text": "Diarrhoea disorder due to the involvement of spleen (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1716776417",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to the involvement of spleen (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1716776417"
+      }
+    },
+    {
+      "text": "(c) Ishāl Ṭiḥālī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1716776417",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Ṭiḥālī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1716776417"
+      }
+    },
+    {
+      "text": "Blood with diarrhoea disorder due to involvement of intestine (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1826507405",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood with diarrhoea disorder due to involvement of intestine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1826507405"
+      }
+    },
+    {
+      "text": "(c) Dhūsanṭāriya Mi‘wiyya",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1826507405",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dhūsanṭāriya Mi‘wiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1826507405"
+      }
+    },
+    {
+      "text": "Diarrhoea disorder due to Aẕal aggrevation (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/759235388",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to Aẕal aggrevation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/759235388"
+      }
+    },
+    {
+      "text": "(b) Aticāra pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/759235388",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aticāra pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/759235388"
+      }
+    },
+    {
+      "text": "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2128117934",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2128117934"
+      }
+    },
+    {
+      "text": "(c) Ishāl Mi‘wī Ṣafrāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2128117934",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Mi‘wī Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2128117934"
+      }
+    },
+    {
+      "text": "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1789890344",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1789890344"
+      }
+    },
+    {
+      "text": "(c) Ishāl Mi‘wī Sawdāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1789890344",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Mi‘wī Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1789890344"
+      }
+    },
+    {
+      "text": "Bloody loose stools disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/272989015",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bloody loose stools disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/272989015"
+      }
+    },
+    {
+      "text": "(b) Kuruti peruṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/272989015",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuruti peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/272989015"
+      }
+    },
+    {
+      "text": "Loose stools disorder caused by derangement of Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2142552576",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2142552576"
+      }
+    },
+    {
+      "text": "(b) Aiya peruṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2142552576",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2142552576"
+      }
+    },
+    {
+      "text": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/443509835",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/443509835"
+      }
+    },
+    {
+      "text": "(b) Mukkuṟṟa peruṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/443509835",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/443509835"
+      }
+    },
+    {
+      "text": "Loose stools disorder caused by derangement of Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/4413599",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/4413599"
+      }
+    },
+    {
+      "text": "(b) Vaḷipperuṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/4413599",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷipperuṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/4413599"
+      }
+    },
+    {
+      "text": "Diarrhoea disorder due only to Vāta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/181338099",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due only to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/181338099"
+      }
+    },
+    {
+      "text": "(a) viḍ-bhedaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/181338099",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viḍ-bhedaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/181338099"
+      }
+    },
+    {
+      "text": "Loose stools disorder caused by derangement of Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/358094407",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/358094407"
+      }
+    },
+    {
+      "text": "(b) Aẕal peruṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/358094407",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/358094407"
+      }
+    },
+    {
+      "text": "Loose stools disorder occuring in fearness (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/534098219",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder occuring in fearness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/534098219"
+      }
+    },
+    {
+      "text": "(b) Payam peruṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/534098219",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Payam peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/534098219"
+      }
+    },
+    {
+      "text": "Diarrhoea disorder during pregnancy (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/459810581",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder during pregnancy (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/459810581"
+      }
+    },
+    {
+      "text": "(b) Karppa kirāṇi",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/459810581",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Karppa kirāṇi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/459810581"
+      }
+    },
+    {
+      "text": "Loose stools disorder occuring in fever (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2125695650",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder occuring in fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2125695650"
+      }
+    },
+    {
+      "text": "(b) Curapperuṅ kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2125695650",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Curapperuṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2125695650"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#213858904",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:33.129012",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/213858904",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#213858904",
+    "code": "SM37",
+    "source": "http://id.who.int/icd/entity/213858904",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Diarrhoea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) atisāraḥ (b) Peruṅ kaẕiccal (c) Ishāl"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatic diarrhoea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1768200173"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dhūsanṭāriya Kabidiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1768200173"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Irritable bowel syndrome disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1934140217"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Dimāghī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1934140217"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to fever arising from Ṣafrā’ or hectic fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2042954837"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Marārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2042954837"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to the involvement of spleen (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1716776417"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Ṭiḥālī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1716776417"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood with diarrhoea disorder due to involvement of intestine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1826507405"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dhūsanṭāriya Mi‘wiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1826507405"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due to Aẕal aggrevation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/759235388"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aticāra pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/759235388"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Enterorrhoea disorder due to derangement of Ṣafrā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2128117934"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Mi‘wī Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2128117934"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Enterorrhoea disorder due to derangement of Sawdā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1789890344"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ishāl Mi‘wī Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1789890344"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bloody loose stools disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/272989015"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuruti peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/272989015"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2142552576"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2142552576"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Mukkuṟṟam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/443509835"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/443509835"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/4413599"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷipperuṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/4413599"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder due only to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/181338099"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viḍ-bhedaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/181338099"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder caused by derangement of Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/358094407"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/358094407"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder occuring in fearness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/534098219"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Payam peruṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/534098219"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder during pregnancy (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/459810581"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Karppa kirāṇi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/459810581"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder occuring in fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2125695650"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Curapperuṅ kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2125695650"
+      }
+    ]
+  }
+}

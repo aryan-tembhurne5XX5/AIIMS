@@ -1,0 +1,63 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/626065726",
+  "id": "626065726",
+  "title": "Four phase patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2128415255",
+    "http://id.who.int/icd/release/11/2025-01/mms/134267709",
+    "http://id.who.int/icd/release/11/2025-01/mms/969813168",
+    "http://id.who.int/icd/release/11/2025-01/mms/284041108",
+    "http://id.who.int/icd/release/11/2025-01/mms/626065726/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/626065726/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#626065726",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 6,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:18.471986",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/626065726",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2128415255",
+      "http://id.who.int/icd/release/11/2025-01/mms/134267709",
+      "http://id.who.int/icd/release/11/2025-01/mms/969813168",
+      "http://id.who.int/icd/release/11/2025-01/mms/284041108",
+      "http://id.who.int/icd/release/11/2025-01/mms/626065726/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/626065726/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#626065726",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/626065726",
+    "classKind": "block",
+    "blockId": "BlockL3-SG8",
+    "codeRange": "SG80-SH3Z",
+    "title": {
+      "@language": "en",
+      "@value": "Four phase patterns (TM1)"
+    }
+  }
+}

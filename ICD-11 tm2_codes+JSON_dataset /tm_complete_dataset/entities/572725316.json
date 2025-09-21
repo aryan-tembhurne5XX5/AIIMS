@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/572725316",
+  "id": "572725316",
+  "title": "Thinning of moistures pattern (TM2)",
+  "code": "ST0T",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Thinning of moistures pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Thinning of moistures pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) reqqat-e rotoubat",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) reqqat-e rotoubat"
+        }
+      }
+    },
+    {
+      "text": "(c) Riqqa al-Ruṭūba",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Riqqa al-Ruṭūba"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#572725316",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:25.640848",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/572725316",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#572725316",
+    "code": "ST0T",
+    "source": "http://id.who.int/icd/entity/572725316",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Thinning of moistures pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Thinning of moistures pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) reqqat-e rotoubat"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Riqqa al-Ruṭūba"
+        }
+      }
+    ]
+  }
+}

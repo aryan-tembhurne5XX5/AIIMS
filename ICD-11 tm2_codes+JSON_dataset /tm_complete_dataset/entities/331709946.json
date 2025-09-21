@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/331709946",
+  "id": "331709946",
+  "title": "Heart yin deficiency pattern (TM1)",
+  "code": "SF64",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Heart yin deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Heart yin deficiency pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Heart yin depletion pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Heart yin depletion pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/869021345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#331709946",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "869021345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:07:16.678534",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/331709946",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/869021345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#331709946",
+    "code": "SF64",
+    "source": "http://id.who.int/icd/entity/331709946",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Heart yin deficiency pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Heart yin deficiency pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Heart yin depletion pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

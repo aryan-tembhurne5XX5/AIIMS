@@ -1,0 +1,144 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2014079686",
+  "id": "2014079686",
+  "title": "Bed wetting disorder (TM2)",
+  "code": "SR01",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Bed wetting disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bed wetting disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śayyāmūtratvam (c) Bawl fi’l Farāsh",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śayyāmūtratvam (c) Bawl fi’l Farāsh"
+        }
+      }
+    },
+    {
+      "text": "(b) Palarcoṭṭunīr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Palarcoṭṭunīr"
+        }
+      }
+    },
+    {
+      "text": "Infantile acute gastroenteritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/48668341",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile acute gastroenteritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/48668341"
+      }
+    },
+    {
+      "text": "(a) kṣīrālasakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/48668341",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣīrālasakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/48668341"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2014079686",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "2007596156"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:16.469809",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2014079686",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2014079686",
+    "code": "SR01",
+    "source": "http://id.who.int/icd/entity/2014079686",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Bed wetting disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bed wetting disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śayyāmūtratvam (c) Bawl fi’l Farāsh"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Palarcoṭṭunīr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile acute gastroenteritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/48668341"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣīrālasakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/48668341"
+      }
+    ]
+  }
+}

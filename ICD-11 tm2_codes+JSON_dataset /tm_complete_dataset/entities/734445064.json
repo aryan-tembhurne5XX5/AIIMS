@@ -1,0 +1,565 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/734445064",
+  "id": "734445064",
+  "title": "Conjunctivitis disorder (TM2)",
+  "code": "SK66",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Conjunctivitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "\"(a) abhiṣyandaḥ (b) Aṉṉa kōpam (c) Ramad\"",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "\"(a) abhiṣyandaḥ (b) Aṉṉa kōpam (c) Ramad\""
+        }
+      }
+    },
+    {
+      "text": "(c) Āshob-i-Chashm",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Āshob-i-Chashm"
+        }
+      }
+    },
+    {
+      "text": "Allergic conjunctivitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/837454558",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Allergic conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/837454558"
+      }
+    },
+    {
+      "text": "(b) Kaṇ tiṉavu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/837454558",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṇ tiṉavu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/837454558"
+      }
+    },
+    {
+      "text": "Conjunctivitis with eye lid inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/996617650",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis with eye lid inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/996617650"
+      }
+    },
+    {
+      "text": "(a) praklinnavartma (a) kaphotkliṣṭa-vartma",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/996617650",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) praklinnavartma (a) kaphotkliṣṭa-vartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/996617650"
+      }
+    },
+    {
+      "text": "Mucopurulent conjunctivitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/619824134",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Mucopurulent conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/619824134"
+      }
+    },
+    {
+      "text": "(a) apariklinnavartma",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/619824134",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apariklinnavartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/619824134"
+      }
+    },
+    {
+      "text": "Ulcerative conjunctivitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/779903850",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ulcerative conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/779903850"
+      }
+    },
+    {
+      "text": "(a) bisavartma",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/779903850",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bisavartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/779903850"
+      }
+    },
+    {
+      "text": "Conjunctivitis due to derangement of Balgham disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1877158623",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1877158623"
+      }
+    },
+    {
+      "text": "(c) Ramad Balghamī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1877158623",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1877158623"
+      }
+    },
+    {
+      "text": "Conjunctivitis derangement of Dam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/644256033",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/644256033"
+      }
+    },
+    {
+      "text": "(c) Ramad Damawī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/644256033",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/644256033"
+      }
+    },
+    {
+      "text": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/840015529",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/840015529"
+      }
+    },
+    {
+      "text": "(c) Ramad Ṣafrāwī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/840015529",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/840015529"
+      }
+    },
+    {
+      "text": "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1224436440",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1224436440"
+      }
+    },
+    {
+      "text": "(c) Ramad Sawdāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1224436440",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1224436440"
+      }
+    },
+    {
+      "text": "Phlyctenular conjunctivitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/655020145",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Phlyctenular conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      }
+    },
+    {
+      "text": "(a) parvaṇikā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/655020145",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) parvaṇikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      }
+    },
+    {
+      "text": "Limbal nodules (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/655020145",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Limbal nodules (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      }
+    },
+    {
+      "text": "Corneal eye disease with fleshy growth disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1121025478",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal eye disease with fleshy growth disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1121025478"
+      }
+    },
+    {
+      "text": "(b) Aannip Puu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1121025478",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aannip Puu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1121025478"
+      }
+    },
+    {
+      "text": "Conjunctival tumor disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1492994320",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctival tumor disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1492994320"
+      }
+    },
+    {
+      "text": "(a) snāyvarma",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1492994320",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) snāyvarma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1492994320"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#734445064",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:32.048407",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/734445064",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#734445064",
+    "code": "SK66",
+    "source": "http://id.who.int/icd/entity/734445064",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Conjunctivitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "\"(a) abhiṣyandaḥ (b) Aṉṉa kōpam (c) Ramad\""
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Āshob-i-Chashm"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Allergic conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/837454558"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṇ tiṉavu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/837454558"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis with eye lid inflammation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/996617650"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) praklinnavartma (a) kaphotkliṣṭa-vartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/996617650"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Mucopurulent conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/619824134"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apariklinnavartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/619824134"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ulcerative conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/779903850"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bisavartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/779903850"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1877158623"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1877158623"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/644256033"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/644256033"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/840015529"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/840015529"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctivitis due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1224436440"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ramad Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1224436440"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Phlyctenular conjunctivitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) parvaṇikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Limbal nodules (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/655020145"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal eye disease with fleshy growth disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1121025478"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aannip Puu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1121025478"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Conjunctival tumor disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1492994320"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) snāyvarma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1492994320"
+      }
+    ]
+  }
+}

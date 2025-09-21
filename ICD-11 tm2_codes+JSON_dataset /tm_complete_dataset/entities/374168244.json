@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/374168244",
+  "id": "374168244",
+  "title": "Parasitic disorder (TM1)",
+  "code": "SD94",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Parasitic disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Parasitic disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/672879010"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#374168244",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "672879010"
+  ],
+  "extractionTimestamp": "2025-09-21T01:05:39.802889",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/374168244",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/672879010"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#374168244",
+    "code": "SD94",
+    "source": "http://id.who.int/icd/entity/374168244",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Parasitic disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Parasitic disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

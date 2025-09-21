@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1013501005",
+  "id": "1013501005",
+  "title": "Heart system disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/713919477",
+    "http://id.who.int/icd/release/11/2025-01/mms/725120746",
+    "http://id.who.int/icd/release/11/2025-01/mms/1013501005/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1013501005/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/637432379"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1013501005",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379"
+  ],
+  "extractionTimestamp": "2025-09-21T01:02:50.728173",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1013501005",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/637432379"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/713919477",
+      "http://id.who.int/icd/release/11/2025-01/mms/725120746",
+      "http://id.who.int/icd/release/11/2025-01/mms/1013501005/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1013501005/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1013501005",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1013501005",
+    "classKind": "block",
+    "blockId": "BlockL4-SA1",
+    "codeRange": "SA10-SA4Z",
+    "title": {
+      "@language": "en",
+      "@value": "Heart system disorders (TM1)"
+    }
+  }
+}

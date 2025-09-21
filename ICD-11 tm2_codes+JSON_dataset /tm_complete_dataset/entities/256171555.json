@@ -1,0 +1,76 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/256171555",
+  "id": "256171555",
+  "title": "Qi patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Qi phase patterns (TM1)'}}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1235397351",
+    "http://id.who.int/icd/release/11/2025-01/mms/218337279",
+    "http://id.who.int/icd/release/11/2025-01/mms/828599543",
+    "http://id.who.int/icd/release/11/2025-01/mms/2101585348",
+    "http://id.who.int/icd/release/11/2025-01/mms/2034914961",
+    "http://id.who.int/icd/release/11/2025-01/mms/256171555/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/256171555/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#256171555",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:23.187921",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/256171555",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1235397351",
+      "http://id.who.int/icd/release/11/2025-01/mms/218337279",
+      "http://id.who.int/icd/release/11/2025-01/mms/828599543",
+      "http://id.who.int/icd/release/11/2025-01/mms/2101585348",
+      "http://id.who.int/icd/release/11/2025-01/mms/2034914961",
+      "http://id.who.int/icd/release/11/2025-01/mms/256171555/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/256171555/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#256171555",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/256171555",
+    "classKind": "block",
+    "blockId": "BlockL4-SE9",
+    "codeRange": "SE90-SE9Z",
+    "title": {
+      "@language": "en",
+      "@value": "Qi patterns (TM1)"
+    },
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Qi phase patterns (TM1)"
+        }
+      }
+    ]
+  }
+}

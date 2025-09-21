@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1405983226",
+  "id": "1405983226",
+  "title": "Stomach qi uprising pattern (TM1)",
+  "code": "SF7D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Stomach qi uprising pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Stomach qi uprising pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Stomach qi reverse flow pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Stomach qi reverse flow pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1590586280"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1405983226",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1590586280"
+  ],
+  "extractionTimestamp": "2025-09-21T01:07:50.484946",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1405983226",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1590586280"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1405983226",
+    "code": "SF7D",
+    "source": "http://id.who.int/icd/entity/1405983226",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Stomach qi uprising pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Stomach qi uprising pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Stomach qi reverse flow pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1069619559",
+  "id": "1069619559",
+  "title": "Lower energizer stage patterns (TM1)",
+  "code": "SG72",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lower energizer stage patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lower energizer stage patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Lower burner patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lower burner patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Lower region patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lower region patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Dampness and heat in the lower energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/599315472",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/599315472"
+      }
+    },
+    {
+      "text": "Stasis obstructing the lower energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1729753368",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Stasis obstructing the lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1729753368"
+      }
+    },
+    {
+      "text": "Deficiency of lower energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1689680680",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      }
+    },
+    {
+      "text": "Deficiency of lower region pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1689680680",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower region pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      }
+    },
+    {
+      "text": "Deficiency of lower burner pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1689680680",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower burner pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      }
+    },
+    {
+      "text": "Deficiency in lower energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1689680680",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency in lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1069619559",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1234235520"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:17.247944",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1069619559",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1069619559",
+    "code": "SG72",
+    "source": "http://id.who.int/icd/entity/1069619559",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lower energizer stage patterns (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lower energizer stage patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lower burner patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lower region patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/599315472"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Stasis obstructing the lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1729753368"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower region pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of lower burner pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency in lower energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1689680680"
+      }
+    ]
+  }
+}

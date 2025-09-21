@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/671745957",
+  "id": "671745957",
+  "title": "Thrush disorder (TM1)",
+  "code": "SB79",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Thrush disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Thrush disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#671745957",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "12821860"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:04.836651",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/671745957",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#671745957",
+    "code": "SB79",
+    "source": "http://id.who.int/icd/entity/671745957",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Thrush disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Thrush disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

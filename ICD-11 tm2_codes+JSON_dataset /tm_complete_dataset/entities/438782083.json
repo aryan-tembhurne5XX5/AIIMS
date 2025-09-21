@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/438782083",
+  "id": "438782083",
+  "title": "Suppression of thirst pattern (TM2)",
+  "code": "SS2D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Suppression of thirst pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Suppression of thirst pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tṛṣṇāvegarodhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tṛṣṇāvegarodhaḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/730763934"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#438782083",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "862523453",
+    "730763934"
+  ],
+  "extractionTimestamp": "2025-09-21T01:18:45.147140",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/438782083",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/730763934"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#438782083",
+    "code": "SS2D",
+    "source": "http://id.who.int/icd/entity/438782083",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Suppression of thirst pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Suppression of thirst pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tṛṣṇāvegarodhaḥ"
+        }
+      }
+    ]
+  }
+}

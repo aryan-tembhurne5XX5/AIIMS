@@ -1,0 +1,407 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1956695818",
+  "id": "1956695818",
+  "title": "Female infertility disorder (TM2)",
+  "code": "SM94",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Female infertility disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Female infertility disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vandhyā (b) Peṇ malaṭu (c) ‘Uqr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vandhyā (b) Peṇ malaṭu (c) ‘Uqr"
+        }
+      }
+    },
+    {
+      "text": "Female infertility (permanent infertility) disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/893355711",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Female infertility (permanent infertility) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/893355711"
+      }
+    },
+    {
+      "text": "(b) Cutta malaṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/893355711",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cutta malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/893355711"
+      }
+    },
+    {
+      "text": "A woman having borne only one child disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1806178592",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "A woman having borne only one child disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      }
+    },
+    {
+      "text": "(b) katali malaṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1806178592",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) katali malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      }
+    },
+    {
+      "text": "(a) Kākavandhyā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1806178592",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kākavandhyā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      }
+    },
+    {
+      "text": "A woman having borne only two children disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2145326742",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "A woman having borne only two children disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2145326742"
+      }
+    },
+    {
+      "text": "(b) Kāka malaṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2145326742",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāka malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2145326742"
+      }
+    },
+    {
+      "text": "Profluvium seminis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/87417575",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Profluvium seminis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/87417575"
+      }
+    },
+    {
+      "text": "(a) vāminī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/87417575",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāminī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/87417575"
+      }
+    },
+    {
+      "text": "Primary infertility disorder due to under developed reproductive system (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1791252558",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Primary infertility disorder due to under developed reproductive system (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1791252558"
+      }
+    },
+    {
+      "text": "(a) ṣaṇḍhī, (a) khaṇḍitā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1791252558",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṣaṇḍhī, (a) khaṇḍitā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1791252558"
+      }
+    },
+    {
+      "text": "Cervical retroversion or retroflexion disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/253752827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cervical retroversion or retroflexion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253752827"
+      }
+    },
+    {
+      "text": "(a) antarmukhī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/253752827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) antarmukhī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253752827"
+      }
+    },
+    {
+      "text": "Difficulty in conception disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1847361246",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Difficulty in conception disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      }
+    },
+    {
+      "text": "(c) osr-e habl",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1847361246",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) osr-e habl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      }
+    },
+    {
+      "text": "(c) ‘Usr-i-Ḥabl",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1847361246",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) ‘Usr-i-Ḥabl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1956695818",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:33.948285",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1956695818",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1956695818",
+    "code": "SM94",
+    "source": "http://id.who.int/icd/entity/1956695818",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Female infertility disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Female infertility disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vandhyā (b) Peṇ malaṭu (c) ‘Uqr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Female infertility (permanent infertility) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/893355711"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cutta malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/893355711"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "A woman having borne only one child disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) katali malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kākavandhyā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1806178592"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "A woman having borne only two children disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2145326742"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāka malaṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2145326742"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Profluvium seminis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/87417575"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāminī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/87417575"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Primary infertility disorder due to under developed reproductive system (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1791252558"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṣaṇḍhī, (a) khaṇḍitā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1791252558"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cervical retroversion or retroflexion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253752827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) antarmukhī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253752827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Difficulty in conception disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) osr-e habl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) ‘Usr-i-Ḥabl"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1847361246"
+      }
+    ]
+  }
+}

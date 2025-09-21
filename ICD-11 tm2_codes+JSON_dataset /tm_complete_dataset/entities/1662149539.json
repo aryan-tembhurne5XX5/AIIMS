@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1662149539",
+  "id": "1662149539",
+  "title": "Anal fissure disorder (TM2)",
+  "code": "SM51",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Anal fissure disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anal fissure disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) parikartikā (c) Shuqāq al-Maq‘ad",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) parikartikā (c) Shuqāq al-Maq‘ad"
+        }
+      }
+    },
+    {
+      "text": "(b) Kaḻalmuḷai nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaḻalmuḷai nōy"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1662149539",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1901778594"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:56.395027",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1662149539",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1662149539",
+    "code": "SM51",
+    "source": "http://id.who.int/icd/entity/1662149539",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Anal fissure disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anal fissure disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) parikartikā (c) Shuqāq al-Maq‘ad"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaḻalmuḷai nōy"
+        }
+      }
+    ]
+  }
+}

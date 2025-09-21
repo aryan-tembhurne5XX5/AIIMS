@@ -1,0 +1,75 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/627880448",
+  "id": "627880448",
+  "title": "Head, brain, nerve and movement disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1896371070",
+    "http://id.who.int/icd/release/11/2025-01/mms/2072376338",
+    "http://id.who.int/icd/release/11/2025-01/mms/623633507",
+    "http://id.who.int/icd/release/11/2025-01/mms/799425295",
+    "http://id.who.int/icd/release/11/2025-01/mms/1952938548",
+    "http://id.who.int/icd/release/11/2025-01/mms/85602009",
+    "http://id.who.int/icd/release/11/2025-01/mms/968797594",
+    "http://id.who.int/icd/release/11/2025-01/mms/668613342",
+    "http://id.who.int/icd/release/11/2025-01/mms/593997026",
+    "http://id.who.int/icd/release/11/2025-01/mms/1647929877",
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#627880448",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 12,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:03.201541",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/627880448",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1896371070",
+      "http://id.who.int/icd/release/11/2025-01/mms/2072376338",
+      "http://id.who.int/icd/release/11/2025-01/mms/623633507",
+      "http://id.who.int/icd/release/11/2025-01/mms/799425295",
+      "http://id.who.int/icd/release/11/2025-01/mms/1952938548",
+      "http://id.who.int/icd/release/11/2025-01/mms/85602009",
+      "http://id.who.int/icd/release/11/2025-01/mms/968797594",
+      "http://id.who.int/icd/release/11/2025-01/mms/668613342",
+      "http://id.who.int/icd/release/11/2025-01/mms/593997026",
+      "http://id.who.int/icd/release/11/2025-01/mms/1647929877",
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#627880448",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/627880448",
+    "classKind": "block",
+    "blockId": "BlockL3-SK0",
+    "codeRange": "SK00-SK5Z",
+    "title": {
+      "@language": "en",
+      "@value": "Head, brain, nerve and movement disorders (TM2)"
+    }
+  }
+}

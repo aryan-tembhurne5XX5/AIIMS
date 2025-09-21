@@ -1,0 +1,385 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1236474281",
+  "id": "1236474281",
+  "title": "Palpitation disorder (TM2)",
+  "code": "SL62",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Palpitation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) hṛddravaḥ (b) Tuṭi pittam (c) Khafaqān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hṛddravaḥ (b) Tuṭi pittam (c) Khafaqān"
+        }
+      }
+    },
+    {
+      "text": "(b) Naadi Padappu",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Naadi Padappu"
+        }
+      }
+    },
+    {
+      "text": "Palpitation disorder due to cold morbid temperament of heart (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1445326877",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to cold morbid temperament of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1445326877"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Bārid",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1445326877",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1445326877"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to Rīḥ and Bukhār (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1554536305",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to Rīḥ and Bukhār (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1554536305"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Rīḥī-o-Bukhārī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1554536305",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Rīḥī-o-Bukhārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1554536305"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to hot morbid temperament of heart (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/490151622",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to hot morbid temperament of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/490151622"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Ḥārr",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/490151622",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/490151622"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to increased sensitivity of heart (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1320066388",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to increased sensitivity of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1320066388"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Ḥissī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1320066388",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḥissī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1320066388"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to obstruction (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1524208346",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to obstruction (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1524208346"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Suddī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1524208346",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Suddī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1524208346"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to secondary causes (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/540239531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to secondary causes (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540239531"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Shirkī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/540239531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Shirkī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540239531"
+      }
+    },
+    {
+      "text": "Palpitation disorder due to weakness of heart (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1338170370",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to weakness of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1338170370"
+      }
+    },
+    {
+      "text": "(c) Khafaqān Ḍu‘fī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1338170370",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḍu‘fī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1338170370"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/21381775"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1236474281",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066",
+    "21381775"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:46.423747",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1236474281",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/21381775"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1236474281",
+    "code": "SL62",
+    "source": "http://id.who.int/icd/entity/1236474281",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Palpitation disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hṛddravaḥ (b) Tuṭi pittam (c) Khafaqān"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Naadi Padappu"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to cold morbid temperament of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1445326877"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1445326877"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to Rīḥ and Bukhār (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1554536305"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Rīḥī-o-Bukhārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1554536305"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to hot morbid temperament of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/490151622"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/490151622"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to increased sensitivity of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1320066388"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḥissī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1320066388"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to obstruction (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1524208346"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Suddī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1524208346"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to secondary causes (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540239531"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Shirkī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540239531"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Palpitation disorder due to weakness of heart (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1338170370"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Khafaqān Ḍu‘fī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1338170370"
+      }
+    ]
+  }
+}

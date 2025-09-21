@@ -1,0 +1,265 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1644364509",
+  "id": "1644364509",
+  "title": "Fever disorder with excessive salivation (TM2)",
+  "code": "SP52",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Fever disorder with excessive salivation (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder with excessive salivation (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaphajajvaraḥ (b) Kapa curam (c) Ḥummā Lathiqa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajajvaraḥ (b) Kapa curam (c) Ḥummā Lathiqa"
+        }
+      }
+    },
+    {
+      "text": "(c) Ḥummā Balghamiyya Lāzima",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Balghamiyya Lāzima"
+        }
+      }
+    },
+    {
+      "text": "Fever disorder caused due to cough (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1470330585",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder caused due to cough (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1470330585"
+      }
+    },
+    {
+      "text": "(b) Irumal curam",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1470330585",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irumal curam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1470330585"
+      }
+    },
+    {
+      "text": "Quotidian fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/154462584",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quotidian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/154462584"
+      }
+    },
+    {
+      "text": "(c) Ḥummā Muwāẓiba, (c) Astrābūs",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/154462584",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba, (c) Astrābūs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/154462584"
+      }
+    },
+    {
+      "text": "Doubling quotidian fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1724208081",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Doubling quotidian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1724208081"
+      }
+    },
+    {
+      "text": "(c) Ḥummā Muwāẓiba Muḍā‘ifa",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1724208081",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba Muḍā‘ifa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1724208081"
+      }
+    },
+    {
+      "text": "Quotidian fever disorder due to putrefaction of Balgham mixed with Ṣafrā’ (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/472885152",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quotidian fever disorder due to putrefaction of Balgham mixed with Ṣafrā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/472885152"
+      }
+    },
+    {
+      "text": "(c) Ḥummā Muwāẓiba Ṣafrāwiyya",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/472885152",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba Ṣafrāwiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/472885152"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1644364509",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:12.591504",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1644364509",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1644364509",
+    "code": "SP52",
+    "source": "http://id.who.int/icd/entity/1644364509",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Fever disorder with excessive salivation (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder with excessive salivation (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajajvaraḥ (b) Kapa curam (c) Ḥummā Lathiqa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Balghamiyya Lāzima"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder caused due to cough (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1470330585"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irumal curam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1470330585"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quotidian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/154462584"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba, (c) Astrābūs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/154462584"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Doubling quotidian fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1724208081"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba Muḍā‘ifa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1724208081"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quotidian fever disorder due to putrefaction of Balgham mixed with Ṣafrā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/472885152"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā Muwāẓiba Ṣafrāwiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/472885152"
+      }
+    ]
+  }
+}

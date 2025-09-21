@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1519020741",
+  "id": "1519020741",
+  "title": "Lung qi and yin deficiency pattern (TM1)",
+  "code": "SF83",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lung qi and yin deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lung qi and yin deficiency pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1519020741",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1266950345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:04.317133",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1519020741",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1519020741",
+    "code": "SF83",
+    "source": "http://id.who.int/icd/entity/1519020741",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lung qi and yin deficiency pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lung qi and yin deficiency pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/855322869",
+  "id": "855322869",
+  "title": "Excess of sweat pattern due to decreased vitality (TM2)",
+  "code": "SR8N",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Excess of sweat pattern due to decreased vitality (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Excess of sweat pattern due to decreased vitality (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Excessive sweating (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Excessive sweating (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Ifrāṭ al-‘Araq",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ifrāṭ al-‘Araq"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#855322869",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "936674819"
+  ],
+  "extractionTimestamp": "2025-09-21T01:18:16.662278",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/855322869",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#855322869",
+    "code": "SR8N",
+    "source": "http://id.who.int/icd/entity/855322869",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Excess of sweat pattern due to decreased vitality (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Excess of sweat pattern due to decreased vitality (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Excessive sweating (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ifrāṭ al-‘Araq"
+        }
+      }
+    ]
+  }
+}

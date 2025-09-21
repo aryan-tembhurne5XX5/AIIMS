@@ -1,0 +1,107 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/837500040",
+  "id": "837500040",
+  "title": "Severe vomiting and diarrhoea disorder (TM2)",
+  "code": "SM76",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Severe vomiting and diarrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Severe vomiting and diarrhoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) visūcikā (b) Ūẕi nōy (c) Hayḍa",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) visūcikā (b) Ūẕi nōy (c) Hayḍa"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Diarrhoea disorder (TM2)'}, 'foundationReference': 'http://id.who.int/icd/entity/213858904', 'linearizationReference': 'http://id.who.int/icd/release/11/2025-01/mms/213858904'}",
+    "{'label': {'@language': 'en', '@value': 'Cholera'}, 'foundationReference': 'http://id.who.int/icd/entity/257068234', 'linearizationReference': 'http://id.who.int/icd/release/11/2025-01/mms/257068234'}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#837500040",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:09.554591",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/837500040",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#837500040",
+    "code": "SM76",
+    "source": "http://id.who.int/icd/entity/837500040",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Severe vomiting and diarrhoea disorder (TM2)"
+    },
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diarrhoea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/213858904",
+        "linearizationReference": "http://id.who.int/icd/release/11/2025-01/mms/213858904"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cholera"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/257068234",
+        "linearizationReference": "http://id.who.int/icd/release/11/2025-01/mms/257068234"
+      }
+    ],
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Severe vomiting and diarrhoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) visūcikā (b) Ūẕi nōy (c) Hayḍa"
+        }
+      }
+    ]
+  }
+}

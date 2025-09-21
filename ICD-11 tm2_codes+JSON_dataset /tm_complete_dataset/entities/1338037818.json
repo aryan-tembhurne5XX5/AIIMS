@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1338037818",
+  "id": "1338037818",
+  "title": "Paraplegia disorder (TM2)",
+  "code": "SK21",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Paraplegia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Paraplegia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) paṅguḥ (c) Fālij Asfal",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paṅguḥ (c) Fālij Asfal"
+        }
+      }
+    },
+    {
+      "text": "lameness (bilateral) / lower limb paralysis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "lameness (bilateral) / lower limb paralysis (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pāṅgulyam (c) Fālij Aṭrāfī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāṅgulyam (c) Fālij Aṭrāfī"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/623633507"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1338037818",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "623633507"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:11.744730",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1338037818",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/623633507"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1338037818",
+    "code": "SK21",
+    "source": "http://id.who.int/icd/entity/1338037818",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Paraplegia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Paraplegia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paṅguḥ (c) Fālij Asfal"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "lameness (bilateral) / lower limb paralysis (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāṅgulyam (c) Fālij Aṭrāfī"
+        }
+      }
+    ]
+  }
+}

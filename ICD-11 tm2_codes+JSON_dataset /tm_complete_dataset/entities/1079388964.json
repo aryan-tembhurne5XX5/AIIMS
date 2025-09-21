@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1079388964",
+  "id": "1079388964",
+  "title": "Faeces with undigested food residues pattern (TM2)",
+  "code": "SR86",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Faeces with undigested food residues pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Faeces with undigested food residues pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sāmamalaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāmamalaḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1079388964",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "936674819"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:59.478686",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1079388964",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1079388964",
+    "code": "SR86",
+    "source": "http://id.who.int/icd/entity/1079388964",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Faeces with undigested food residues pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Faeces with undigested food residues pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāmamalaḥ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/577058754",
+  "id": "577058754",
+  "title": "Elevated digestive power pattern (TM2)",
+  "code": "SS12",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Elevated digestive power pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Elevated digestive power pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tīkṣṇāgniḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tīkṣṇāgniḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1314209579"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#577058754",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "862523453",
+    "1314209579"
+  ],
+  "extractionTimestamp": "2025-09-21T01:18:21.994296",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/577058754",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1314209579"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#577058754",
+    "code": "SS12",
+    "source": "http://id.who.int/icd/entity/577058754",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Elevated digestive power pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Elevated digestive power pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tīkṣṇāgniḥ"
+        }
+      }
+    ]
+  }
+}

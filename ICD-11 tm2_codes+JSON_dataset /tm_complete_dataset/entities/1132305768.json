@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1132305768",
+  "id": "1132305768",
+  "title": "Large intestine deficiency cold pattern (TM1)",
+  "code": "SF8J",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Large intestine deficiency cold pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Large intestine deficiency cold pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1132305768",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1266950345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:20.006023",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1132305768",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1132305768",
+    "code": "SF8J",
+    "source": "http://id.who.int/icd/entity/1132305768",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Large intestine deficiency cold pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Large intestine deficiency cold pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

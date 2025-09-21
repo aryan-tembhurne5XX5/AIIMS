@@ -1,0 +1,304 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1252530838",
+  "id": "1252530838",
+  "title": "Bronchial asthma disorder (TM2)",
+  "code": "SL40",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Bronchial asthma disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tamakaśvāsaḥ (b) Iraippu nōy (c) Ḍīq al-Nafas",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamakaśvāsaḥ (b) Iraippu nōy (c) Ḍīq al-Nafas"
+        }
+      }
+    },
+    {
+      "text": "(b) iraippu irumal (c) Dama, (c) Nafas Ḍayyiq, (c) rabw",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) iraippu irumal (c) Dama, (c) Nafas Ḍayyiq, (c) rabw"
+        }
+      }
+    },
+    {
+      "text": "Bronchial asthma with fever, fainting disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1328471674",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma with fever, fainting disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1328471674"
+      }
+    },
+    {
+      "text": "(c) pratamakaśvāsaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1328471674",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) pratamakaśvāsaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1328471674"
+      }
+    },
+    {
+      "text": "Bronchial asthma aggravating with darkness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/720729039",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma aggravating with darkness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/720729039"
+      }
+    },
+    {
+      "text": "(c) santamakaśvāsaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/720729039",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) santamakaśvāsaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/720729039"
+      }
+    },
+    {
+      "text": "Catarrh-induced asthma disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1380109122",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Catarrh-induced asthma disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      }
+    },
+    {
+      "text": "(c) Rabw Nazlī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1380109122",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rabw Nazlī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      }
+    },
+    {
+      "text": "(c) rabw-e nazli",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1380109122",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rabw-e nazli"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      }
+    },
+    {
+      "text": "Asthma due to Balgham disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/932800247",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Asthma due to Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      }
+    },
+    {
+      "text": "(c) Rabw Balghamī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/932800247",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rabw Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      }
+    },
+    {
+      "text": "(c) rabw-e balghami",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/932800247",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rabw-e balghami"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1252530838",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1274104313"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:38.956574",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1252530838",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1252530838",
+    "code": "SL40",
+    "source": "http://id.who.int/icd/entity/1252530838",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Bronchial asthma disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamakaśvāsaḥ (b) Iraippu nōy (c) Ḍīq al-Nafas"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) iraippu irumal (c) Dama, (c) Nafas Ḍayyiq, (c) rabw"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma with fever, fainting disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1328471674"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) pratamakaśvāsaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1328471674"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchial asthma aggravating with darkness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/720729039"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) santamakaśvāsaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/720729039"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Catarrh-induced asthma disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rabw Nazlī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rabw-e nazli"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1380109122"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Asthma due to Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rabw Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) rabw-e balghami"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/932800247"
+      }
+    ]
+  }
+}

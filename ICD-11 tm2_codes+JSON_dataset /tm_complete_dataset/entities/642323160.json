@@ -1,0 +1,61 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/642323160",
+  "id": "642323160",
+  "title": "Abscess disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/855857593",
+    "http://id.who.int/icd/release/11/2025-01/mms/1716523768",
+    "http://id.who.int/icd/release/11/2025-01/mms/642323160/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/642323160/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#642323160",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "12821860"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:52.100037",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/642323160",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/855857593",
+      "http://id.who.int/icd/release/11/2025-01/mms/1716523768",
+      "http://id.who.int/icd/release/11/2025-01/mms/642323160/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/642323160/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#642323160",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/642323160",
+    "classKind": "block",
+    "blockId": "BlockL5-SB6",
+    "codeRange": "SB60-SB6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Abscess disorders (TM1)"
+    }
+  }
+}

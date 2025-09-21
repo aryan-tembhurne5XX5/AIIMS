@@ -1,0 +1,325 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1821206400",
+  "id": "1821206400",
+  "title": "Rhinitis disorder (TM2)",
+  "code": "SK95",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Rhinitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pratiśyāyaḥ (b) Nīr mūkkaṭaippu (c) Iltihāb al-Anf",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratiśyāyaḥ (b) Nīr mūkkaṭaippu (c) Iltihāb al-Anf"
+        }
+      }
+    },
+    {
+      "text": "(a) pīnasaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pīnasaḥ"
+        }
+      }
+    },
+    {
+      "text": "Acute rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/58514729",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Acute rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/58514729"
+      }
+    },
+    {
+      "text": "(c) Iltihāb al-Anf Ḥādd",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/58514729",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Ḥādd"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/58514729"
+      }
+    },
+    {
+      "text": "Chronic rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2039884120",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      }
+    },
+    {
+      "text": "(a) apīnasaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2039884120",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apīnasaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      }
+    },
+    {
+      "text": "(c) Iltihāb al-Anf Muzmin",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/2039884120",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Muzmin"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      }
+    },
+    {
+      "text": "Sanguino purulent rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/593516421",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sanguino purulent rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/593516421"
+      }
+    },
+    {
+      "text": "(a) pūyaraktam, (a) pūyaśoṇitam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/593516421",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pūyaraktam, (a) pūyaśoṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/593516421"
+      }
+    },
+    {
+      "text": "Suppurative rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1186724400",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Suppurative rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1186724400"
+      }
+    },
+    {
+      "text": "(a) ghrāṇapākaḥ, (a) nāsāpākaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1186724400",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ghrāṇapākaḥ, (a) nāsāpākaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1186724400"
+      }
+    },
+    {
+      "text": "Hypertrophic rhinitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2060698381",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hypertrophic rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2060698381"
+      }
+    },
+    {
+      "text": "(c) Iltihāb al-Anf Takaththurī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/2060698381",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Takaththurī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2060698381"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1821206400",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "341642327"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:17.315988",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1821206400",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1821206400",
+    "code": "SK95",
+    "source": "http://id.who.int/icd/entity/1821206400",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Rhinitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Rhinitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratiśyāyaḥ (b) Nīr mūkkaṭaippu (c) Iltihāb al-Anf"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pīnasaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Acute rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/58514729"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Ḥādd"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/58514729"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apīnasaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Muzmin"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2039884120"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sanguino purulent rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/593516421"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pūyaraktam, (a) pūyaśoṇitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/593516421"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Suppurative rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1186724400"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ghrāṇapākaḥ, (a) nāsāpākaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1186724400"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hypertrophic rhinitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2060698381"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Anf Takaththurī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2060698381"
+      }
+    ]
+  }
+}

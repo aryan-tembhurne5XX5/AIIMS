@@ -1,0 +1,141 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1278087668",
+  "id": "1278087668",
+  "title": "Osteoporosis disorder (TM2)",
+  "code": "SP00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Osteoporosis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Osteoporosis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) asthiśoṣaḥ (c) Wahn al-‘Iẓām",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asthiśoṣaḥ (c) Wahn al-‘Iẓām"
+        }
+      }
+    },
+    {
+      "text": "(c) Takhalkhul al-‘Iẓām, (b) Takhaththur al-‘Iẓām",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Takhalkhul al-‘Iẓām, (b) Takhaththur al-‘Iẓām"
+        }
+      }
+    },
+    {
+      "text": "Osteopenia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Osteopenia (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Eṉpu kiranti",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eṉpu kiranti"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1450351129"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1278087668",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793",
+    "1450351129"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:50.184900",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1278087668",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1450351129"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1278087668",
+    "code": "SP00",
+    "source": "http://id.who.int/icd/entity/1278087668",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Osteoporosis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Osteoporosis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asthiśoṣaḥ (c) Wahn al-‘Iẓām"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Takhalkhul al-‘Iẓām, (b) Takhaththur al-‘Iẓām"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Osteopenia (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eṉpu kiranti"
+        }
+      }
+    ]
+  }
+}

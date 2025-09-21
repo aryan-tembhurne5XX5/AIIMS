@@ -1,0 +1,78 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1252104698",
+  "id": "1252104698",
+  "title": "Male Reproductive System disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/404581329",
+    "http://id.who.int/icd/release/11/2025-01/mms/1389908912",
+    "http://id.who.int/icd/release/11/2025-01/mms/594866573",
+    "http://id.who.int/icd/release/11/2025-01/mms/207552813",
+    "http://id.who.int/icd/release/11/2025-01/mms/114468417",
+    "http://id.who.int/icd/release/11/2025-01/mms/742624129",
+    "http://id.who.int/icd/release/11/2025-01/mms/644455581",
+    "http://id.who.int/icd/release/11/2025-01/mms/1877747555",
+    "http://id.who.int/icd/release/11/2025-01/mms/1800515933",
+    "http://id.who.int/icd/release/11/2025-01/mms/1169273053",
+    "http://id.who.int/icd/release/11/2025-01/mms/375446588",
+    "http://id.who.int/icd/release/11/2025-01/mms/1252104698/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1252104698/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1252104698",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 13,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:43.544940",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1252104698",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/404581329",
+      "http://id.who.int/icd/release/11/2025-01/mms/1389908912",
+      "http://id.who.int/icd/release/11/2025-01/mms/594866573",
+      "http://id.who.int/icd/release/11/2025-01/mms/207552813",
+      "http://id.who.int/icd/release/11/2025-01/mms/114468417",
+      "http://id.who.int/icd/release/11/2025-01/mms/742624129",
+      "http://id.who.int/icd/release/11/2025-01/mms/644455581",
+      "http://id.who.int/icd/release/11/2025-01/mms/1877747555",
+      "http://id.who.int/icd/release/11/2025-01/mms/1800515933",
+      "http://id.who.int/icd/release/11/2025-01/mms/1169273053",
+      "http://id.who.int/icd/release/11/2025-01/mms/375446588",
+      "http://id.who.int/icd/release/11/2025-01/mms/1252104698/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1252104698/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1252104698",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1252104698",
+    "classKind": "block",
+    "blockId": "BlockL4-SN0",
+    "codeRange": "SN00-SN0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Male Reproductive System disorders (TM2)"
+    }
+  }
+}

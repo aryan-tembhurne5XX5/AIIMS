@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/194966166",
+  "id": "194966166",
+  "title": "Uterine prolapse disorder (TM2)",
+  "code": "SM9A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Uterine prolapse disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Uterine prolapse disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mahāyoniḥ (b) Karuppai aṭittaḷḷal (c) Inzilāq al-Raḥim",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahāyoniḥ (b) Karuppai aṭittaḷḷal (c) Inzilāq al-Raḥim"
+        }
+      }
+    },
+    {
+      "text": "(a) vivṛtā (c) Nutū’ al-Raḥim",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vivṛtā (c) Nutū’ al-Raḥim"
+        }
+      }
+    },
+    {
+      "text": "Second degree uterine prolapse disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/253977770",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Second degree uterine prolapse disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253977770"
+      }
+    },
+    {
+      "text": "(a) prasraṃsiṇī, (a) prasrāviṇī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/253977770",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prasraṃsiṇī, (a) prasrāviṇī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253977770"
+      }
+    },
+    {
+      "text": "Prolapse of vaginal wall disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2084803842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Prolapse of vaginal wall disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2084803842"
+      }
+    },
+    {
+      "text": "(a) phalinī, (a) aṇḍalī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2084803842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phalinī, (a) aṇḍalī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2084803842"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#194966166",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:40.215504",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/194966166",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#194966166",
+    "code": "SM9A",
+    "source": "http://id.who.int/icd/entity/194966166",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Uterine prolapse disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Uterine prolapse disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahāyoniḥ (b) Karuppai aṭittaḷḷal (c) Inzilāq al-Raḥim"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vivṛtā (c) Nutū’ al-Raḥim"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Second degree uterine prolapse disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253977770"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prasraṃsiṇī, (a) prasrāviṇī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/253977770"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Prolapse of vaginal wall disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2084803842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phalinī, (a) aṇḍalī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2084803842"
+      }
+    ]
+  }
+}

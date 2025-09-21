@@ -1,0 +1,77 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/817731121",
+  "id": "817731121",
+  "title": "Principle-based patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1784846003",
+    "http://id.who.int/icd/release/11/2025-01/mms/1249733117",
+    "http://id.who.int/icd/release/11/2025-01/mms/2122661793",
+    "http://id.who.int/icd/release/11/2025-01/mms/1535874374",
+    "http://id.who.int/icd/release/11/2025-01/mms/197299336",
+    "http://id.who.int/icd/release/11/2025-01/mms/1776236394",
+    "http://id.who.int/icd/release/11/2025-01/mms/632404263",
+    "http://id.who.int/icd/release/11/2025-01/mms/1869399497",
+    "http://id.who.int/icd/release/11/2025-01/mms/1598663041",
+    "http://id.who.int/icd/release/11/2025-01/mms/834442164",
+    "http://id.who.int/icd/release/11/2025-01/mms/1301694476",
+    "http://id.who.int/icd/release/11/2025-01/mms/817731121/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/817731121/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#817731121",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 13,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:01.137231",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/817731121",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1784846003",
+      "http://id.who.int/icd/release/11/2025-01/mms/1249733117",
+      "http://id.who.int/icd/release/11/2025-01/mms/2122661793",
+      "http://id.who.int/icd/release/11/2025-01/mms/1535874374",
+      "http://id.who.int/icd/release/11/2025-01/mms/197299336",
+      "http://id.who.int/icd/release/11/2025-01/mms/1776236394",
+      "http://id.who.int/icd/release/11/2025-01/mms/632404263",
+      "http://id.who.int/icd/release/11/2025-01/mms/1869399497",
+      "http://id.who.int/icd/release/11/2025-01/mms/1598663041",
+      "http://id.who.int/icd/release/11/2025-01/mms/834442164",
+      "http://id.who.int/icd/release/11/2025-01/mms/1301694476",
+      "http://id.who.int/icd/release/11/2025-01/mms/817731121/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/817731121/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#817731121",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/817731121",
+    "classKind": "block",
+    "blockId": "BlockL3-SE7",
+    "codeRange": "SE70-SE7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Principle-based patterns (TM1)"
+    }
+  }
+}

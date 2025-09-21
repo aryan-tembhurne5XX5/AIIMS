@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/504580572",
+  "id": "504580572",
+  "title": "Facial paralysis disorder (TM1)",
+  "code": "SD00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Facial paralysis disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Facial paralysis disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Wry mouth disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Wry mouth disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/250371211"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#504580572",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "250371211"
+  ],
+  "extractionTimestamp": "2025-09-21T01:05:06.723166",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/504580572",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/250371211"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#504580572",
+    "code": "SD00",
+    "source": "http://id.who.int/icd/entity/504580572",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Facial paralysis disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Facial paralysis disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Wry mouth disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

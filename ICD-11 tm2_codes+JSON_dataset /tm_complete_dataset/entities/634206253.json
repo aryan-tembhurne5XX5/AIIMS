@@ -1,0 +1,64 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/634206253",
+  "id": "634206253",
+  "title": "Female reproductive system disorders (TM1) (including childbirth)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1216941414",
+    "http://id.who.int/icd/release/11/2025-01/mms/1159798626",
+    "http://id.who.int/icd/release/11/2025-01/mms/2063581907",
+    "http://id.who.int/icd/release/11/2025-01/mms/102778076",
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/111874651"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#634206253",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 6,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:09.150756",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/634206253",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/111874651"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1216941414",
+      "http://id.who.int/icd/release/11/2025-01/mms/1159798626",
+      "http://id.who.int/icd/release/11/2025-01/mms/2063581907",
+      "http://id.who.int/icd/release/11/2025-01/mms/102778076",
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#634206253",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/634206253",
+    "classKind": "block",
+    "blockId": "BlockL4-SB8",
+    "codeRange": "SB80-SC4Z",
+    "title": {
+      "@language": "en",
+      "@value": "Female reproductive system disorders (TM1) (including childbirth)"
+    }
+  }
+}

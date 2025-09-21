@@ -1,0 +1,65 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/111874651",
+  "id": "111874651",
+  "title": "Other body system disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860",
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253",
+    "http://id.who.int/icd/release/11/2025-01/mms/1063442626",
+    "http://id.who.int/icd/release/11/2025-01/mms/435568516",
+    "http://id.who.int/icd/release/11/2025-01/mms/250371211",
+    "http://id.who.int/icd/release/11/2025-01/mms/111874651/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/111874651/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/66486001"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#111874651",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:44.854174",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/111874651",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/66486001"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860",
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253",
+      "http://id.who.int/icd/release/11/2025-01/mms/1063442626",
+      "http://id.who.int/icd/release/11/2025-01/mms/435568516",
+      "http://id.who.int/icd/release/11/2025-01/mms/250371211",
+      "http://id.who.int/icd/release/11/2025-01/mms/111874651/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/111874651/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#111874651",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/111874651",
+    "classKind": "block",
+    "blockId": "BlockL3-SB3",
+    "codeRange": "SB30-SD6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Other body system disorders (TM1)"
+    }
+  }
+}

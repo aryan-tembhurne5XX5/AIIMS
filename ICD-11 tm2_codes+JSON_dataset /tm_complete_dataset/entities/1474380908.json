@@ -1,0 +1,206 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1474380908",
+  "id": "1474380908",
+  "title": "Pattern of abnormal positioning of organs and appendages (TM2)",
+  "code": "SR63",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pattern of abnormal positioning of organs and appendages (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of abnormal positioning of organs and appendages (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Amrāḍ al-Waḍ‘",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ al-Waḍ‘"
+        }
+      }
+    },
+    {
+      "text": "Pattern related with the position (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/842721753",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern related with the position (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842721753"
+      }
+    },
+    {
+      "text": "(c) Amrāḍ-i- Mawḍa‘",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/842721753",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i- Mawḍa‘"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842721753"
+      }
+    },
+    {
+      "text": "Complete displacement of body part pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1020702665",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Complete displacement of body part pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1020702665"
+      }
+    },
+    {
+      "text": "(c) Zawāl-i-‘Uḍw Kāmil",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1020702665",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zawāl-i-‘Uḍw Kāmil"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1020702665"
+      }
+    },
+    {
+      "text": "Incomplete displacement of body part pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/911935653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Incomplete displacement of body part pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/911935653"
+      }
+    },
+    {
+      "text": "(c) Zawāl-i-‘Uḍw Nāqiṣ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/911935653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zawāl-i-‘Uḍw Nāqiṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/911935653"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1474380908",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:44.706930",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1474380908",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1474380908",
+    "code": "SR63",
+    "source": "http://id.who.int/icd/entity/1474380908",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pattern of abnormal positioning of organs and appendages (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of abnormal positioning of organs and appendages (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ al-Waḍ‘"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern related with the position (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842721753"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i- Mawḍa‘"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842721753"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Complete displacement of body part pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1020702665"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zawāl-i-‘Uḍw Kāmil"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1020702665"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Incomplete displacement of body part pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/911935653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zawāl-i-‘Uḍw Nāqiṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/911935653"
+      }
+    ]
+  }
+}

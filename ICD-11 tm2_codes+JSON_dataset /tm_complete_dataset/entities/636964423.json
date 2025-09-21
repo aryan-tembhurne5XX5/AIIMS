@@ -1,0 +1,247 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/636964423",
+  "id": "636964423",
+  "title": "Trachoma disorder (TM2)",
+  "code": "SK6U",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Trachoma disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Trachoma disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pothakī (b) Kuvaḷaipaṭuvaṉ (c) Jarab al-‘Ayn",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pothakī (b) Kuvaḷaipaṭuvaṉ (c) Jarab al-‘Ayn"
+        }
+      }
+    },
+    {
+      "text": "Granulation of eyelids with eruptions similar to fig disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/258368391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Granulation of eyelids with eruptions similar to fig disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/258368391"
+      }
+    },
+    {
+      "text": "(c) Jarab Tīnī (c) Suqūsalīs",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/258368391",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Tīnī (c) Suqūsalīs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/258368391"
+      }
+    },
+    {
+      "text": "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/99337451",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/99337451"
+      }
+    },
+    {
+      "text": "(c) Jarab Ḥaṣafī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/99337451",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Ḥaṣafī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/99337451"
+      }
+    },
+    {
+      "text": "Diffused granulation of eyelids disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/88896667",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diffused granulation of eyelids disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88896667"
+      }
+    },
+    {
+      "text": "(c) Jarab Munbasiṭ",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/88896667",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Munbasiṭ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88896667"
+      }
+    },
+    {
+      "text": "Papillary trachoma disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1269174210",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Papillary trachoma disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269174210"
+      }
+    },
+    {
+      "text": "(a) arśovartma",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1269174210",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arśovartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269174210"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#636964423",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:55.155570",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/636964423",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#636964423",
+    "code": "SK6U",
+    "source": "http://id.who.int/icd/entity/636964423",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Trachoma disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Trachoma disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pothakī (b) Kuvaḷaipaṭuvaṉ (c) Jarab al-‘Ayn"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Granulation of eyelids with eruptions similar to fig disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/258368391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Tīnī (c) Suqūsalīs"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/258368391"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Granulation of eyelids with eruptions similar to prickly heat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/99337451"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Ḥaṣafī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/99337451"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diffused granulation of eyelids disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88896667"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Jarab Munbasiṭ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88896667"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Papillary trachoma disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269174210"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arśovartma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269174210"
+      }
+    ]
+  }
+}

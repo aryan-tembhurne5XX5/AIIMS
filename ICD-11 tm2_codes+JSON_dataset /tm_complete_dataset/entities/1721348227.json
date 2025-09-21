@@ -1,0 +1,202 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1721348227",
+  "id": "1721348227",
+  "title": "Syphillis disorder (TM2)",
+  "code": "SN31",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Syphillis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syphillis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) phiraṅgaroga (b) Veṭṭai nōy (c) Ātshak",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phiraṅgaroga (b) Veṭṭai nōy (c) Ātshak"
+        }
+      }
+    },
+    {
+      "text": "(c) Ābla Farang, (c) Ḍarma, (c) Sā‘ūr, (c) Al-Afranjī",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ābla Farang, (c) Ḍarma, (c) Sā‘ūr, (c) Al-Afranjī"
+        }
+      }
+    },
+    {
+      "text": "(c) Bād Farang, (c) Al-Khajīl, (c) Qarḥa Ṣulba, (c) Koft",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bād Farang, (c) Al-Khajīl, (c) Qarḥa Ṣulba, (c) Koft"
+        }
+      }
+    },
+    {
+      "text": "Syphilitic ulcer disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/157813290",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syphilitic ulcer disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/157813290"
+      }
+    },
+    {
+      "text": "(b) korukku pun",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/157813290",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) korukku pun"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/157813290"
+      }
+    },
+    {
+      "text": "Syphilitic abscess disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1823713183",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syphilitic abscess disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1823713183"
+      }
+    },
+    {
+      "text": "(b) Kiranti",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1823713183",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kiranti"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1823713183"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1721348227",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:01.528601",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1721348227",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1721348227",
+    "code": "SN31",
+    "source": "http://id.who.int/icd/entity/1721348227",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Syphillis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syphillis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phiraṅgaroga (b) Veṭṭai nōy (c) Ātshak"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ābla Farang, (c) Ḍarma, (c) Sā‘ūr, (c) Al-Afranjī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bād Farang, (c) Al-Khajīl, (c) Qarḥa Ṣulba, (c) Koft"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syphilitic ulcer disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/157813290"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) korukku pun"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/157813290"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syphilitic abscess disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1823713183"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kiranti"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1823713183"
+      }
+    ]
+  }
+}

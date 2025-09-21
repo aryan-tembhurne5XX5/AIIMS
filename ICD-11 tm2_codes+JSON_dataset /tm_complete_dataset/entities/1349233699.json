@@ -1,0 +1,465 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1349233699",
+  "id": "1349233699",
+  "title": "Sinusitis disorder (TM2)",
+  "code": "SK99",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Sinusitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Mūkkaṭaippu nōy (c) Iltihāb-i-Tajāwīf al-Anf",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūkkaṭaippu nōy (c) Iltihāb-i-Tajāwīf al-Anf"
+        }
+      }
+    },
+    {
+      "text": "(a) ardhāvabhedaka",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ardhāvabhedaka"
+        }
+      }
+    },
+    {
+      "text": "Infective sinusitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/900727192",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Infective sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/900727192"
+      }
+    },
+    {
+      "text": "(b) Cīẕ mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/900727192",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/900727192"
+      }
+    },
+    {
+      "text": "Sinusitis associated with blister in the nose disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/240878578",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis associated with blister in the nose disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/240878578"
+      }
+    },
+    {
+      "text": "(b) Muḷai mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/240878578",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muḷai mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/240878578"
+      }
+    },
+    {
+      "text": "Sinusitis caused by increased Aiyam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/81142942",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/81142942"
+      }
+    },
+    {
+      "text": "(b) Aiya mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/81142942",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/81142942"
+      }
+    },
+    {
+      "text": "Sinusitis caused by increased Aẕal disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/7058082",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/7058082"
+      }
+    },
+    {
+      "text": "(b) Aẕal mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/7058082",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/7058082"
+      }
+    },
+    {
+      "text": "Sinusitis caused by increased Vaḷi disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2055292625",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Vaḷi disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2055292625"
+      }
+    },
+    {
+      "text": "(b) Vaḷi mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2055292625",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2055292625"
+      }
+    },
+    {
+      "text": "Sinusitis associated with epistaxis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1861634393",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis associated with epistaxis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1861634393"
+      }
+    },
+    {
+      "text": "Kuruti mūkkaṭaippu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1861634393",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Kuruti mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1861634393"
+      }
+    },
+    {
+      "text": "Frontal ethmoidal sinusitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/187557102",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Frontal ethmoidal sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/187557102"
+      }
+    },
+    {
+      "text": "(b) Cūriyā varttam nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/187557102",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūriyā varttam nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/187557102"
+      }
+    },
+    {
+      "text": "Maxillary ethmoidal sinusitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/604378190",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Maxillary ethmoidal sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604378190"
+      }
+    },
+    {
+      "text": "(b) Cantirā varttam nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/604378190",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cantirā varttam nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604378190"
+      }
+    },
+    {
+      "text": "Maxillary sinusitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/780907298",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Maxillary sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/780907298"
+      }
+    },
+    {
+      "text": "(b) Pittattalai nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/780907298",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittattalai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/780907298"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1349233699",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "341642327"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:21.561931",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1349233699",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1349233699",
+    "code": "SK99",
+    "source": "http://id.who.int/icd/entity/1349233699",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Sinusitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūkkaṭaippu nōy (c) Iltihāb-i-Tajāwīf al-Anf"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ardhāvabhedaka"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Infective sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/900727192"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/900727192"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis associated with blister in the nose disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/240878578"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muḷai mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/240878578"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/81142942"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/81142942"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/7058082"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/7058082"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis caused by increased Vaḷi disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2055292625"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2055292625"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sinusitis associated with epistaxis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1861634393"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Kuruti mūkkaṭaippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1861634393"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Frontal ethmoidal sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/187557102"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūriyā varttam nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/187557102"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Maxillary ethmoidal sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604378190"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cantirā varttam nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604378190"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Maxillary sinusitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/780907298"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittattalai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/780907298"
+      }
+    ]
+  }
+}

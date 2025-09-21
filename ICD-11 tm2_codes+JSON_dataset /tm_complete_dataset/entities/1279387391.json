@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1279387391",
+  "id": "1279387391",
+  "title": "Liver qi stagnation pattern (TM1)",
+  "code": "SF57",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Liver qi stagnation pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver qi stagnation pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Liver meridian stagnated heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver meridian stagnated heat pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Liver depression and qi stagnation pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver depression and qi stagnation pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1279387391",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1628485143"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:55.855265",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1279387391",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1279387391",
+    "code": "SF57",
+    "source": "http://id.who.int/icd/entity/1279387391",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Liver qi stagnation pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver qi stagnation pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver meridian stagnated heat pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver depression and qi stagnation pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

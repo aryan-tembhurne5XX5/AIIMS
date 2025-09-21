@@ -1,0 +1,76 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1857550376",
+  "id": "1857550376",
+  "title": "Neck and throat disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/512470411",
+    "http://id.who.int/icd/release/11/2025-01/mms/328631581",
+    "http://id.who.int/icd/release/11/2025-01/mms/1293014912",
+    "http://id.who.int/icd/release/11/2025-01/mms/1736505922",
+    "http://id.who.int/icd/release/11/2025-01/mms/2122024590",
+    "http://id.who.int/icd/release/11/2025-01/mms/2059800754",
+    "http://id.who.int/icd/release/11/2025-01/mms/510786647",
+    "http://id.who.int/icd/release/11/2025-01/mms/1377008485",
+    "http://id.who.int/icd/release/11/2025-01/mms/1295619984",
+    "http://id.who.int/icd/release/11/2025-01/mms/587239726",
+    "http://id.who.int/icd/release/11/2025-01/mms/1857550376/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1857550376/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/823901578"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1857550376",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 12,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:23.890817",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1857550376",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/823901578"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/512470411",
+      "http://id.who.int/icd/release/11/2025-01/mms/328631581",
+      "http://id.who.int/icd/release/11/2025-01/mms/1293014912",
+      "http://id.who.int/icd/release/11/2025-01/mms/1736505922",
+      "http://id.who.int/icd/release/11/2025-01/mms/2122024590",
+      "http://id.who.int/icd/release/11/2025-01/mms/2059800754",
+      "http://id.who.int/icd/release/11/2025-01/mms/510786647",
+      "http://id.who.int/icd/release/11/2025-01/mms/1377008485",
+      "http://id.who.int/icd/release/11/2025-01/mms/1295619984",
+      "http://id.who.int/icd/release/11/2025-01/mms/587239726",
+      "http://id.who.int/icd/release/11/2025-01/mms/1857550376/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1857550376/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1857550376",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1857550376",
+    "classKind": "block",
+    "blockId": "BlockL4-SL0",
+    "codeRange": "SL00-SL0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Neck and throat disorders (TM2)"
+    }
+  }
+}

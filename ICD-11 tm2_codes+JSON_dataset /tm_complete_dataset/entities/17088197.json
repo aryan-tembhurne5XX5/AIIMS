@@ -1,0 +1,122 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/17088197",
+  "id": "17088197",
+  "title": "Sciatica disorder (TM2)",
+  "code": "SP41",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Sciatica disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sciatica disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) gṛdhrasī (c) ‘Irq al-Nasā",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gṛdhrasī (c) ‘Irq al-Nasā"
+        }
+      }
+    },
+    {
+      "text": "Lumbar radiculopathies",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbar radiculopathies"
+        }
+      }
+    },
+    {
+      "text": "(b) Vātastampam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātastampam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#17088197",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:03.016331",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/17088197",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#17088197",
+    "code": "SP41",
+    "source": "http://id.who.int/icd/entity/17088197",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Sciatica disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sciatica disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gṛdhrasī (c) ‘Irq al-Nasā"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbar radiculopathies"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātastampam"
+        }
+      }
+    ]
+  }
+}

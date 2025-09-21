@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1839285547",
+  "id": "1839285547",
+  "title": "Lack of sputum pattern (TM2)",
+  "code": "SR8L",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lack of sputum pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lack of sputum pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Al-Nafth al-Qalīl al-Miqdār",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Al-Nafth al-Qalīl al-Miqdār"
+        }
+      }
+    },
+    {
+      "text": "Scanty expectoration (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Scanty expectoration (TM2)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1839285547",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "936674819"
+  ],
+  "extractionTimestamp": "2025-09-21T01:18:14.563324",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1839285547",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1839285547",
+    "code": "SR8L",
+    "source": "http://id.who.int/icd/entity/1839285547",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lack of sputum pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lack of sputum pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Al-Nafth al-Qalīl al-Miqdār"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Scanty expectoration (TM2)"
+        }
+      }
+    ]
+  }
+}

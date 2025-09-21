@@ -1,0 +1,467 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/275085622",
+  "id": "275085622",
+  "title": "Depressive disorder (TM2)",
+  "code": "SQ04",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Depressive disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaphaja-unmādaḥ (b) Uṉmāta pittam (c) Mālankhūliyā",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-unmādaḥ (b) Uṉmāta pittam (c) Mālankhūliyā"
+        }
+      }
+    },
+    {
+      "text": "Depressive pyschosis disorder due to aggravated Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1614521849",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive pyschosis disorder due to aggravated Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1614521849"
+      }
+    },
+    {
+      "text": "(b) Tamanta pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1614521849",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tamanta pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1614521849"
+      }
+    },
+    {
+      "text": "Aggravated Aiyam with depressive psychosis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/449925514",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam with depressive psychosis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/449925514"
+      }
+    },
+    {
+      "text": "(b) Vikāram",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/449925514",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikāram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/449925514"
+      }
+    },
+    {
+      "text": "Aggravated Aiyam leading to catatonia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/523639309",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam leading to catatonia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/523639309"
+      }
+    },
+    {
+      "text": "(b) Veṟi",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/523639309",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veṟi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/523639309"
+      }
+    },
+    {
+      "text": "Transient depression disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/245784064",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Transient depression disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      }
+    },
+    {
+      "text": "(a) viṣādaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/245784064",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viṣādaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      }
+    },
+    {
+      "text": "(a) dīnatā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/245784064",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dīnatā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      }
+    },
+    {
+      "text": "Psychoneurosis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1803416501",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Psychoneurosis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1803416501"
+      }
+    },
+    {
+      "text": "(c) Mālankhūliya Marāqī, (c) Nafkh Marāqī, (c) Marāqiyya, (c) ‘Illat Nāfikha, (c) Sharsūfiya",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1803416501",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliya Marāqī, (c) Nafkh Marāqī, (c) Marāqiyya, (c) ‘Illat Nāfikha, (c) Sharsūfiya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1803416501"
+      }
+    },
+    {
+      "text": "Depressive disorder due to derangement of Ṣafrā (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1146487573",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Ṣafrā (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1146487573"
+      }
+    },
+    {
+      "text": "(c) Mālankhūliyā Ṣafrāwī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1146487573",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1146487573"
+      }
+    },
+    {
+      "text": "Depressive disorder due to derangement of Sawdā’ (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1323017337",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Sawdā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323017337"
+      }
+    },
+    {
+      "text": "(c) Mālankhūliyā Sawdāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1323017337",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323017337"
+      }
+    },
+    {
+      "text": "Depressive disorder due to derangement of Balgham (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1682606521",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682606521"
+      }
+    },
+    {
+      "text": "(c) Mālankhūliyā Balghamī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1682606521",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682606521"
+      }
+    },
+    {
+      "text": "Depressive disorder due to derangement of Dam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1858547413",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858547413"
+      }
+    },
+    {
+      "text": "(c) Mālankhūliyā Damawī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1858547413",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858547413"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#275085622",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "641502186"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:51.860873",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/275085622",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#275085622",
+    "code": "SQ04",
+    "source": "http://id.who.int/icd/entity/275085622",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Depressive disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-unmādaḥ (b) Uṉmāta pittam (c) Mālankhūliyā"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive pyschosis disorder due to aggravated Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1614521849"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tamanta pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1614521849"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam with depressive psychosis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/449925514"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikāram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/449925514"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam leading to catatonia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/523639309"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veṟi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/523639309"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Transient depression disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viṣādaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dīnatā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/245784064"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Psychoneurosis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1803416501"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliya Marāqī, (c) Nafkh Marāqī, (c) Marāqiyya, (c) ‘Illat Nāfikha, (c) Sharsūfiya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1803416501"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Ṣafrā (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1146487573"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1146487573"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Sawdā’ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323017337"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323017337"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682606521"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682606521"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depressive disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858547413"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mālankhūliyā Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858547413"
+      }
+    ]
+  }
+}

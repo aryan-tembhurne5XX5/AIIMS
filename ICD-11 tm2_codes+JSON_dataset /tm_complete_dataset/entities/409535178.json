@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/409535178",
+  "id": "409535178",
+  "title": "Middle yin stage pattern (TM1)",
+  "code": "SG64",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Middle yin stage pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle yin stage pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Shaoyin Patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Shaoyin Patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Lesser yin pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lesser yin pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/226861675"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#409535178",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "226861675"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:11.911430",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/409535178",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/226861675"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#409535178",
+    "code": "SG64",
+    "source": "http://id.who.int/icd/entity/409535178",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Middle yin stage pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle yin stage pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shaoyin Patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lesser yin pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

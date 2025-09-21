@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/324880820",
+  "id": "324880820",
+  "title": "Turbid urine disorder (TM1)",
+  "code": "SB03",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Turbid urine disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Turbid urine disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#324880820",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "214862500"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:32.014185",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/324880820",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#324880820",
+    "code": "SB03",
+    "source": "http://id.who.int/icd/entity/324880820",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Turbid urine disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Turbid urine disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

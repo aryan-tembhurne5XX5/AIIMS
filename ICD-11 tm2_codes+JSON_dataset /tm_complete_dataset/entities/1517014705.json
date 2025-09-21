@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1517014705",
+  "id": "1517014705",
+  "title": "Oral thrush in babies disorder (TM2)",
+  "code": "SR06",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Oral thrush in babies disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Oral thrush in babies disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Kumari akkaram (c) Qulā‘-i-Ṣibyān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kumari akkaram (c) Qulā‘-i-Ṣibyān"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1517014705",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "2007596156"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:21.700350",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1517014705",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1517014705",
+    "code": "SR06",
+    "source": "http://id.who.int/icd/entity/1517014705",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Oral thrush in babies disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Oral thrush in babies disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kumari akkaram (c) Qulā‘-i-Ṣibyān"
+        }
+      }
+    ]
+  }
+}

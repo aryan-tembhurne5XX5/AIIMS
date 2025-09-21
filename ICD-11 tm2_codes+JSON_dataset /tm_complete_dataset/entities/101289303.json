@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/101289303",
+  "id": "101289303",
+  "title": "Infantile epilepsy disorder (TM2)",
+  "code": "SR03",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Infantile epilepsy disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile epilepsy disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) Skanda Apasmara (b) Kākkai Vaḷippu (c) Ṣar‘ al-Aṭfāl",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Skanda Apasmara (b) Kākkai Vaḷippu (c) Ṣar‘ al-Aṭfāl"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#101289303",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "2007596156"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:18.568890",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/101289303",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#101289303",
+    "code": "SR03",
+    "source": "http://id.who.int/icd/entity/101289303",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Infantile epilepsy disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile epilepsy disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Skanda Apasmara (b) Kākkai Vaḷippu (c) Ṣar‘ al-Aṭfāl"
+        }
+      }
+    ]
+  }
+}

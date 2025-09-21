@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/641502186",
+  "id": "641502186",
+  "title": "Mental disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1976940353",
+    "http://id.who.int/icd/release/11/2025-01/mms/1691661851",
+    "http://id.who.int/icd/release/11/2025-01/mms/819872746",
+    "http://id.who.int/icd/release/11/2025-01/mms/441413164",
+    "http://id.who.int/icd/release/11/2025-01/mms/275085622",
+    "http://id.who.int/icd/release/11/2025-01/mms/1851825829",
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#641502186",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 8,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:46.709068",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/641502186",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1976940353",
+      "http://id.who.int/icd/release/11/2025-01/mms/1691661851",
+      "http://id.who.int/icd/release/11/2025-01/mms/819872746",
+      "http://id.who.int/icd/release/11/2025-01/mms/441413164",
+      "http://id.who.int/icd/release/11/2025-01/mms/275085622",
+      "http://id.who.int/icd/release/11/2025-01/mms/1851825829",
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#641502186",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/641502186",
+    "classKind": "block",
+    "blockId": "BlockL4-SQ0",
+    "codeRange": "SQ00-SQ0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Mental disorders (TM2)"
+    }
+  }
+}

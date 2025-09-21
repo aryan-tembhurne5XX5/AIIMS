@@ -1,0 +1,67 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1159798626",
+  "id": "1159798626",
+  "title": "Pregnancy associated disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/105047793",
+    "http://id.who.int/icd/release/11/2025-01/mms/2122522849",
+    "http://id.who.int/icd/release/11/2025-01/mms/508215378",
+    "http://id.who.int/icd/release/11/2025-01/mms/133635054",
+    "http://id.who.int/icd/release/11/2025-01/mms/1122223081",
+    "http://id.who.int/icd/release/11/2025-01/mms/1159798626/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1159798626/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1159798626",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:22.909543",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1159798626",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/105047793",
+      "http://id.who.int/icd/release/11/2025-01/mms/2122522849",
+      "http://id.who.int/icd/release/11/2025-01/mms/508215378",
+      "http://id.who.int/icd/release/11/2025-01/mms/133635054",
+      "http://id.who.int/icd/release/11/2025-01/mms/1122223081",
+      "http://id.who.int/icd/release/11/2025-01/mms/1159798626/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1159798626/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1159798626",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1159798626",
+    "classKind": "block",
+    "blockId": "BlockL5-SC0",
+    "codeRange": "SC00-SC0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Pregnancy associated disorders (TM1)"
+    }
+  }
+}

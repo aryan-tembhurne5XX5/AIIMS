@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1341223511",
+  "id": "1341223511",
+  "title": "Anal abscess disorder (TM2)",
+  "code": "SM56",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Anal abscess disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anal abscess disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) gudajavidradhi (b) Eruvāykkaṭṭi (c) Nawāṣīr Ghayr Nāfidha",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gudajavidradhi (b) Eruvāykkaṭṭi (c) Nawāṣīr Ghayr Nāfidha"
+        }
+      }
+    },
+    {
+      "text": "Abscess in the inguinal region disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1263330409",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abscess in the inguinal region disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1263330409"
+      }
+    },
+    {
+      "text": "(b) Toṭai iṭukku kaṭṭi",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1263330409",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Toṭai iṭukku kaṭṭi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1263330409"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1341223511",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1901778594"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:01.998165",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1341223511",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1341223511",
+    "code": "SM56",
+    "source": "http://id.who.int/icd/entity/1341223511",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Anal abscess disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anal abscess disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gudajavidradhi (b) Eruvāykkaṭṭi (c) Nawāṣīr Ghayr Nāfidha"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abscess in the inguinal region disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1263330409"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Toṭai iṭukku kaṭṭi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1263330409"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/721001453",
+  "id": "721001453",
+  "title": "Blood patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Blood phase patterns (TM1)'}}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2135055784",
+    "http://id.who.int/icd/release/11/2025-01/mms/1004763328",
+    "http://id.who.int/icd/release/11/2025-01/mms/1298058608",
+    "http://id.who.int/icd/release/11/2025-01/mms/1899900536",
+    "http://id.who.int/icd/release/11/2025-01/mms/899615584",
+    "http://id.who.int/icd/release/11/2025-01/mms/721001453/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/721001453/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#721001453",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 7,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:29.502245",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/721001453",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2135055784",
+      "http://id.who.int/icd/release/11/2025-01/mms/1004763328",
+      "http://id.who.int/icd/release/11/2025-01/mms/1298058608",
+      "http://id.who.int/icd/release/11/2025-01/mms/1899900536",
+      "http://id.who.int/icd/release/11/2025-01/mms/899615584",
+      "http://id.who.int/icd/release/11/2025-01/mms/721001453/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/721001453/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#721001453",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/721001453",
+    "classKind": "block",
+    "blockId": "BlockL4-SF0",
+    "codeRange": "SF00-SF0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Blood patterns (TM1)"
+    },
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood phase patterns (TM1)"
+        }
+      }
+    ]
+  }
+}

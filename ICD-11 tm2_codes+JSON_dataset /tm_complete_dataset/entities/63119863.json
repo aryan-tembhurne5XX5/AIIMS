@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/63119863",
+  "id": "63119863",
+  "title": "Achillodynia disorder (TM2)",
+  "code": "SP40",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Achillodynia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Achillodynia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vātakaṇṭakam (c) Waja‘ al-‘Aqib",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātakaṇṭakam (c) Waja‘ al-‘Aqib"
+        }
+      }
+    },
+    {
+      "text": "(b) Kutivātam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kutivātam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#63119863",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:01.984098",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/63119863",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#63119863",
+    "code": "SP40",
+    "source": "http://id.who.int/icd/entity/63119863",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Achillodynia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Achillodynia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātakaṇṭakam (c) Waja‘ al-‘Aqib"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kutivātam"
+        }
+      }
+    ]
+  }
+}

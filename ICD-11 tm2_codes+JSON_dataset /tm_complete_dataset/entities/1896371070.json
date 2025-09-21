@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1896371070",
+  "id": "1896371070",
+  "title": "Headache disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1488428775",
+    "http://id.who.int/icd/release/11/2025-01/mms/2096962667",
+    "http://id.who.int/icd/release/11/2025-01/mms/1896371070/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1896371070/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1896371070",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:04.189990",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1896371070",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1488428775",
+      "http://id.who.int/icd/release/11/2025-01/mms/2096962667",
+      "http://id.who.int/icd/release/11/2025-01/mms/1896371070/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1896371070/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1896371070",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1896371070",
+    "classKind": "block",
+    "blockId": "BlockL4-SK0",
+    "codeRange": "SK00-SK0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Headache disorders (TM2)"
+    }
+  }
+}

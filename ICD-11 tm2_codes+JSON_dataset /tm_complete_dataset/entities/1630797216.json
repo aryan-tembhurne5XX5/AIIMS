@@ -1,0 +1,207 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1630797216",
+  "id": "1630797216",
+  "title": "Epilepsy disorder (TM2)",
+  "code": "SK31",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Epilepsy disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) apasmāraḥ (b) Vaḷi ppu (c) Ṣar‘",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apasmāraḥ (b) Vaḷi ppu (c) Ṣar‘"
+        }
+      }
+    },
+    {
+      "text": "Epilepsy due to Aiyam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1807637236",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy due to Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807637236"
+      }
+    },
+    {
+      "text": "(b) Kākkai Vaḷippu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1807637236",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kākkai Vaḷippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807637236"
+      }
+    },
+    {
+      "text": "Epilepsy due to derangement of Sawdā’ disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1948824392",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1948824392"
+      }
+    },
+    {
+      "text": "(c) Ṣar‘ Dimāghī Sawdāwī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1948824392",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣar‘ Dimāghī Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1948824392"
+      }
+    },
+    {
+      "text": "Grandmal epilepsy disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2124747820",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Grandmal epilepsy disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2124747820"
+      }
+    },
+    {
+      "text": "(b) Vacaṉā vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2124747820",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vacaṉā vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2124747820"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/799425295"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1630797216",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "799425295"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:16.080914",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1630797216",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/799425295"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1630797216",
+    "code": "SK31",
+    "source": "http://id.who.int/icd/entity/1630797216",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Epilepsy disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apasmāraḥ (b) Vaḷi ppu (c) Ṣar‘"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy due to Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807637236"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kākkai Vaḷippu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807637236"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Epilepsy due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1948824392"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣar‘ Dimāghī Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1948824392"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Grandmal epilepsy disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2124747820"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vacaṉā vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2124747820"
+      }
+    ]
+  }
+}

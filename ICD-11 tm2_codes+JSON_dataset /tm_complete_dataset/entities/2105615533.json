@@ -1,0 +1,145 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2105615533",
+  "id": "2105615533",
+  "title": "Herpes disorder (TM2)",
+  "code": "SN4T",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Herpes disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Herpes disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kakṣāḥ (b) Akki (c) Namla",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kakṣāḥ (b) Akki (c) Namla"
+        }
+      }
+    },
+    {
+      "text": "(c) Sā‘iya",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sā‘iya"
+        }
+      }
+    },
+    {
+      "text": "Herpes labialis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1210142889",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Herpes labialis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1210142889"
+      }
+    },
+    {
+      "text": "(c) Namla Shafawiyya",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1210142889",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Namla Shafawiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1210142889"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2105615533",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:32.953004",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2105615533",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2105615533",
+    "code": "SN4T",
+    "source": "http://id.who.int/icd/entity/2105615533",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Herpes disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Herpes disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kakṣāḥ (b) Akki (c) Namla"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sā‘iya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Herpes labialis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1210142889"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Namla Shafawiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1210142889"
+      }
+    ]
+  }
+}

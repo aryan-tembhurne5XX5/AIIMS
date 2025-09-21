@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1970407217",
+  "id": "1970407217",
+  "title": "Anxiety ephemeral fever disorder (TM2)",
+  "code": "SQ10",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Anxiety ephemeral fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anxiety ephemeral fever disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mana-santāpaḥ (b) Paya Curam (c) Ḥummā al-Yawm Fikriyya",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mana-santāpaḥ (b) Paya Curam (c) Ḥummā al-Yawm Fikriyya"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/749808774"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1970407217",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "749808774"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:55.079206",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1970407217",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/749808774"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1970407217",
+    "code": "SQ10",
+    "source": "http://id.who.int/icd/entity/1970407217",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Anxiety ephemeral fever disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anxiety ephemeral fever disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mana-santāpaḥ (b) Paya Curam (c) Ḥummā al-Yawm Fikriyya"
+        }
+      }
+    ]
+  }
+}

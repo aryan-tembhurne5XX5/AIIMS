@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/175052027",
+  "id": "175052027",
+  "title": "Gallbladder meridian pattern (TM1)",
+  "code": "SG2A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Gallbladder meridian pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder meridian pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1400320922"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#175052027",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "677438911",
+    "1400320922"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:54.883491",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/175052027",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1400320922"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#175052027",
+    "code": "SG2A",
+    "source": "http://id.who.int/icd/entity/175052027",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Gallbladder meridian pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gallbladder meridian pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

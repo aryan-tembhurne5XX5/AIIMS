@@ -1,0 +1,225 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1589628210",
+  "id": "1589628210",
+  "title": "Dyspepsia disorder (TM2)",
+  "code": "SM39",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dyspepsia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) amlapittam (b) Cavviraṅka vātam (c) Fasād al-Haḍm",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) amlapittam (b) Cavviraṅka vātam (c) Fasād al-Haḍm"
+        }
+      }
+    },
+    {
+      "text": "(c) Sū’ al-Haḍm",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’ al-Haḍm"
+        }
+      }
+    },
+    {
+      "text": "Dyspepsia with upward tendency disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/827226009",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia with upward tendency disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      }
+    },
+    {
+      "text": "(a) ūrdhvagata-amlapittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/827226009",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvagata-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      }
+    },
+    {
+      "text": "(a) ūrdhvaga-amlapittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/827226009",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvaga-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      }
+    },
+    {
+      "text": "Dyspepsia with downward tendency disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1269072874",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia with downward tendency disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      }
+    },
+    {
+      "text": "(a) adhōga-amlapittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1269072874",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) adhōga-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      }
+    },
+    {
+      "text": "(a) adhogata-amlapittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1269072874",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) adhogata-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1589628210",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:35.223573",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1589628210",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1589628210",
+    "code": "SM39",
+    "source": "http://id.who.int/icd/entity/1589628210",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dyspepsia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) amlapittam (b) Cavviraṅka vātam (c) Fasād al-Haḍm"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’ al-Haḍm"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia with upward tendency disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvagata-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ūrdhvaga-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/827226009"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspepsia with downward tendency disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) adhōga-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) adhogata-amlapittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1269072874"
+      }
+    ]
+  }
+}

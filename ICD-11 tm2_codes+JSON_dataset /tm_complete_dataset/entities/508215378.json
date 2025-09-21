@@ -1,0 +1,148 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/508215378",
+  "id": "508215378",
+  "title": "Bladder pressure disorder (TM1)",
+  "code": "SC02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Bladder pressure disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bladder pressure disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Shifted colic disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted colic disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Shifted bladder disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted bladder disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Bladder colic disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bladder colic disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [
+    "{'label': {'@language': 'en', '@value': 'Shifted colic disorder (TM1)'}}",
+    "{'label': {'@language': 'en', '@value': 'Shifted bladder disorder (TM1)'}}",
+    "{'label': {'@language': 'en', '@value': 'Bladder colic disorder (TM1)'}}"
+  ],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1159798626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#508215378",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253",
+    "1159798626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:26.001984",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/508215378",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1159798626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#508215378",
+    "code": "SC02",
+    "source": "http://id.who.int/icd/entity/508215378",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Bladder pressure disorder (TM1)"
+    },
+    "inclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted colic disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted bladder disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bladder colic disorder (TM1)"
+        }
+      }
+    ],
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bladder pressure disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted colic disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shifted bladder disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bladder colic disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

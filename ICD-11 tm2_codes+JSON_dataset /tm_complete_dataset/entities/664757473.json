@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/664757473",
+  "id": "664757473",
+  "title": "Small yang type yin depletion pattern (TM1)",
+  "code": "SH51",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Small yang type yin depletion pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Small yang type yin depletion pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1765250141"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#664757473",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1723048222",
+    "1765250141"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:43.723916",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/664757473",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1765250141"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#664757473",
+    "code": "SH51",
+    "source": "http://id.who.int/icd/entity/664757473",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Small yang type yin depletion pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Small yang type yin depletion pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

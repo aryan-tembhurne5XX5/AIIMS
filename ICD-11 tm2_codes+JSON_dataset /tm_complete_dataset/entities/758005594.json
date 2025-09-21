@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/758005594",
+  "id": "758005594",
+  "title": "Intestine cold stagnation pattern (TM1)",
+  "code": "SF7J",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Intestine cold stagnation pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intestine cold stagnation pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1590586280"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#758005594",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1590586280"
+  ],
+  "extractionTimestamp": "2025-09-21T01:07:55.800318",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/758005594",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1590586280"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#758005594",
+    "code": "SF7J",
+    "source": "http://id.who.int/icd/entity/758005594",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Intestine cold stagnation pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intestine cold stagnation pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

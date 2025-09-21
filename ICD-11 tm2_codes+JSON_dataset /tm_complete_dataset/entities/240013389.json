@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/240013389",
+  "id": "240013389",
+  "title": "Hypernasal speech disorder (TM2)",
+  "code": "SL21",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hypernasal speech disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hypernasal speech disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) minminaḥ (c) Khunān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) minminaḥ (c) Khunān"
+        }
+      }
+    },
+    {
+      "text": "(b) Nācikāpīṭam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nācikāpīṭam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/823901578"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#240013389",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:36.748142",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/240013389",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/823901578"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#240013389",
+    "code": "SL21",
+    "source": "http://id.who.int/icd/entity/240013389",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hypernasal speech disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hypernasal speech disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) minminaḥ (c) Khunān"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nācikāpīṭam"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/847718854",
+  "id": "847718854",
+  "title": "Upper energizer stage patterns (TM1)",
+  "code": "SG70",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Upper energizer stage patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer stage patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Upper energizer patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Upper Burner Patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper Burner Patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Upper Region Patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper Region Patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Upper energizer dryness and heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/461232411",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer dryness and heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461232411"
+      }
+    },
+    {
+      "text": "Upper energizer dryness-heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/461232411",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer dryness-heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461232411"
+      }
+    },
+    {
+      "text": "Dampness and heat in the upper energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1608317955",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the upper energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1608317955"
+      }
+    },
+    {
+      "text": "Toxin congesting the upper energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1673273099",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Toxin congesting the upper energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1673273099"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#847718854",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1234235520"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:15.146904",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/847718854",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#847718854",
+    "code": "SG70",
+    "source": "http://id.who.int/icd/entity/847718854",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Upper energizer stage patterns (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer stage patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper Burner Patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper Region Patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer dryness and heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461232411"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Upper energizer dryness-heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461232411"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the upper energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1608317955"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Toxin congesting the upper energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1673273099"
+      }
+    ]
+  }
+}

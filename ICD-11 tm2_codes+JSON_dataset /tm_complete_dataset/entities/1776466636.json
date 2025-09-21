@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1776466636",
+  "id": "1776466636",
+  "title": "Food retention disorder (TM1)",
+  "code": "SA54",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Food retention disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Food retention disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Food accumulation disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Food accumulation disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Food reverse flow disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1750550487",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Food reverse flow disorder (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1750550487"
+      }
+    },
+    {
+      "text": "Indigestion disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1465671397",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Indigestion disorder (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1465671397"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/806244022"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1776466636",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "806244022"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:04.451803",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1776466636",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/806244022"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1776466636",
+    "code": "SA54",
+    "source": "http://id.who.int/icd/entity/1776466636",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Food retention disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Food retention disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Food accumulation disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Food reverse flow disorder (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1750550487"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Indigestion disorder (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1465671397"
+      }
+    ]
+  }
+}

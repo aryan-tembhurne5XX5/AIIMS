@@ -1,0 +1,224 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/353597412",
+  "id": "353597412",
+  "title": "Elephantiasis disorder (TM2)",
+  "code": "SM01",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Elephantiasis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Elephantiasis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ślīpadaḥ (b) Yāṉaikkāl (c) Dā’ al-Fīl",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ślīpadaḥ (b) Yāṉaikkāl (c) Dā’ al-Fīl"
+        }
+      }
+    },
+    {
+      "text": "Filariasis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Filariasis (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Elephantiasis of the scrotum disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1516011744",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Elephantiasis of the scrotum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1516011744"
+      }
+    },
+    {
+      "text": "(b) Catai vitai nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1516011744",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Catai vitai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1516011744"
+      }
+    },
+    {
+      "text": "Filarial scrotum disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1065823595",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Filarial scrotum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1065823595"
+      }
+    },
+    {
+      "text": "(b) Acuva vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1065823595",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Acuva vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1065823595"
+      }
+    },
+    {
+      "text": "Burning sensation disorder due to trauma to vulnerable area (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/645484324",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Burning sensation disorder due to trauma to vulnerable area (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/645484324"
+      }
+    },
+    {
+      "text": "(a) marmābhighātajadāhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/645484324",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) marmābhighātajadāhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/645484324"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#353597412",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:56.209423",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/353597412",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#353597412",
+    "code": "SM01",
+    "source": "http://id.who.int/icd/entity/353597412",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Elephantiasis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Elephantiasis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ślīpadaḥ (b) Yāṉaikkāl (c) Dā’ al-Fīl"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Filariasis (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Elephantiasis of the scrotum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1516011744"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Catai vitai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1516011744"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Filarial scrotum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1065823595"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Acuva vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1065823595"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Burning sensation disorder due to trauma to vulnerable area (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/645484324"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) marmābhighātajadāhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/645484324"
+      }
+    ]
+  }
+}

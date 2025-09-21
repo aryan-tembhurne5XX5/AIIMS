@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/799425295",
+  "id": "799425295",
+  "title": "Paroxysmal disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/462864539",
+    "http://id.who.int/icd/release/11/2025-01/mms/1630797216",
+    "http://id.who.int/icd/release/11/2025-01/mms/799425295/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/799425295/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#799425295",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:14.018838",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/799425295",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/462864539",
+      "http://id.who.int/icd/release/11/2025-01/mms/1630797216",
+      "http://id.who.int/icd/release/11/2025-01/mms/799425295/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/799425295/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#799425295",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/799425295",
+    "classKind": "block",
+    "blockId": "BlockL4-SK3",
+    "codeRange": "SK30-SK3Z",
+    "title": {
+      "@language": "en",
+      "@value": "Paroxysmal disorders (TM2)"
+    }
+  }
+}

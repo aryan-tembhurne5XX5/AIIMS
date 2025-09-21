@@ -1,0 +1,145 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1293014912",
+  "id": "1293014912",
+  "title": "Hoarseness of voice disorder (TM2)",
+  "code": "SL02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hoarseness of voice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hoarseness of voice disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaṇṭhodhvaṃsaḥ (b) Kural kammal (c) Buḥḥa al-Ṣawt",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṇṭhodhvaṃsaḥ (b) Kural kammal (c) Buḥḥa al-Ṣawt"
+        }
+      }
+    },
+    {
+      "text": "(c) Buḥūḥa al-Ṣawt",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Buḥūḥa al-Ṣawt"
+        }
+      }
+    },
+    {
+      "text": "Hoarseness of voice caused by increased lymph disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1201434860",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hoarseness of voice caused by increased lymph disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1201434860"
+      }
+    },
+    {
+      "text": "(b) Niṇak kural kammal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1201434860",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Niṇak kural kammal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1201434860"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1857550376"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1293014912",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1857550376"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:27.126438",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1293014912",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1857550376"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1293014912",
+    "code": "SL02",
+    "source": "http://id.who.int/icd/entity/1293014912",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hoarseness of voice disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hoarseness of voice disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṇṭhodhvaṃsaḥ (b) Kural kammal (c) Buḥḥa al-Ṣawt"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Buḥūḥa al-Ṣawt"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hoarseness of voice caused by increased lymph disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1201434860"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Niṇak kural kammal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1201434860"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1386056187",
+  "id": "1386056187",
+  "title": "Poisoning disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1892211281",
+    "http://id.who.int/icd/release/11/2025-01/mms/1358456158",
+    "http://id.who.int/icd/release/11/2025-01/mms/1386056187/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1386056187/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/761201319"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1386056187",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "761201319"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:09.983987",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1386056187",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/761201319"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1892211281",
+      "http://id.who.int/icd/release/11/2025-01/mms/1358456158",
+      "http://id.who.int/icd/release/11/2025-01/mms/1386056187/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1386056187/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1386056187",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1386056187",
+    "classKind": "block",
+    "blockId": "BlockL4-SQ6",
+    "codeRange": "SQ60-SQ6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Poisoning disorders (TM2)"
+    }
+  }
+}

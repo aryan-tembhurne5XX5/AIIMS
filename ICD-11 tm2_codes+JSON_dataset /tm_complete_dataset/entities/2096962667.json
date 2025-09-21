@@ -1,0 +1,225 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2096962667",
+  "id": "2096962667",
+  "title": "Migraine disorder (TM2)",
+  "code": "SK01",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Migraine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ardhāvabhedakaḥ (c) Shaqīqa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ardhāvabhedakaḥ (c) Shaqīqa"
+        }
+      }
+    },
+    {
+      "text": "(b) Kapāla aẕaṟkuṇam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapāla aẕaṟkuṇam"
+        }
+      }
+    },
+    {
+      "text": "Acute migraine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/651630068",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Acute migraine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      }
+    },
+    {
+      "text": "(c) Shaqīqa Ḥārra",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/651630068",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Shaqīqa Ḥārra"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      }
+    },
+    {
+      "text": "Migraine due to hot humours (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/651630068",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine due to hot humours (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      }
+    },
+    {
+      "text": "Chronic migraine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/577405900",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic migraine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      }
+    },
+    {
+      "text": "(c) Shaqīqa Bārida",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/577405900",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Shaqīqa Bārida"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      }
+    },
+    {
+      "text": "Migraine due to cold humours (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/577405900",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine due to cold humours (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1896371070"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2096962667",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "1896371070"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:06.268652",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2096962667",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1896371070"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2096962667",
+    "code": "SK01",
+    "source": "http://id.who.int/icd/entity/2096962667",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Migraine disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ardhāvabhedakaḥ (c) Shaqīqa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapāla aẕaṟkuṇam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Acute migraine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Shaqīqa Ḥārra"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine due to hot humours (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651630068"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic migraine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Shaqīqa Bārida"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Migraine due to cold humours (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577405900"
+      }
+    ]
+  }
+}

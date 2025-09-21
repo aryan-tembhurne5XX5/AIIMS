@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2133870995",
+  "id": "2133870995",
+  "title": "Lentigo disorder (TM2)",
+  "code": "SN4E",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lentigo disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lentigo disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tilakaḥ (c) Barash",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tilakaḥ (c) Barash"
+        }
+      }
+    },
+    {
+      "text": "(a) tilakālaka",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tilakālaka"
+        }
+      }
+    },
+    {
+      "text": "(b) Kapāla viṭak kuṭṭam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapāla viṭak kuṭṭam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2133870995",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:19.247255",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2133870995",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2133870995",
+    "code": "SN4E",
+    "source": "http://id.who.int/icd/entity/2133870995",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lentigo disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lentigo disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tilakaḥ (c) Barash"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tilakālaka"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapāla viṭak kuṭṭam"
+        }
+      }
+    ]
+  }
+}

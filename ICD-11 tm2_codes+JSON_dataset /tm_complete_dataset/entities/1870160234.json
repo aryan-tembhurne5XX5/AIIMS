@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1870160234",
+  "id": "1870160234",
+  "title": "Dry-phlegm pattern (TM1)",
+  "code": "SF12",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dry-phlegm pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dry-phlegm pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1870160234",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "208501929"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:39.886115",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1870160234",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1870160234",
+    "code": "SF12",
+    "source": "http://id.who.int/icd/entity/1870160234",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dry-phlegm pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dry-phlegm pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1902618610",
+  "id": "1902618610",
+  "title": "Fluid deficiency pattern (TM1)",
+  "code": "SF10",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Fluid deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fluid deficiency pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Fluid decrease pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fluid decrease pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Essence deficiency pattern (TM1)'}}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1902618610",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "208501929"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:37.825726",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1902618610",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1902618610",
+    "code": "SF10",
+    "source": "http://id.who.int/icd/entity/1902618610",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Fluid deficiency pattern (TM1)"
+    },
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Essence deficiency pattern (TM1)"
+        }
+      }
+    ],
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fluid deficiency pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fluid decrease pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

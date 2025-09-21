@@ -1,0 +1,307 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1886136086",
+  "id": "1886136086",
+  "title": "Abdominal distension disorder (TM2)",
+  "code": "SM31",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Abdominal distension disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal distension disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ādhmānam (b) Mantam (c) Nafkh al-Mi‘da",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ādhmānam (b) Mantam (c) Nafkh al-Mi‘da"
+        }
+      }
+    },
+    {
+      "text": "Tympanites disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2061598842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tympanites disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      }
+    },
+    {
+      "text": "(a) pratyādhmānaḥ, (a) pratyānāhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2061598842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratyādhmānaḥ, (a) pratyānāhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      }
+    },
+    {
+      "text": "Meteorism (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2061598842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Meteorism (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      }
+    },
+    {
+      "text": "Borborygmus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2051420168",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Borborygmus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      }
+    },
+    {
+      "text": "(c) Nafkh-o-Qarāqir",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2051420168",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Nafkh-o-Qarāqir"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      }
+    },
+    {
+      "text": "Gurgling (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2051420168",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gurgling (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      }
+    },
+    {
+      "text": "Flatulence disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/543963543",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Flatulence disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/543963543"
+      }
+    },
+    {
+      "text": "(b) Porumal",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/543963543",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Porumal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/543963543"
+      }
+    },
+    {
+      "text": "Bloating disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1890393526",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bloating disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      }
+    },
+    {
+      "text": "(c) entefakh-e batn",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1890393526",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) entefakh-e batn"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      }
+    },
+    {
+      "text": "(c) Intifākh al-Baṭn",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1890393526",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Intifākh al-Baṭn"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1886136086",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:26.837433",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1886136086",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1886136086",
+    "code": "SM31",
+    "source": "http://id.who.int/icd/entity/1886136086",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Abdominal distension disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal distension disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ādhmānam (b) Mantam (c) Nafkh al-Mi‘da"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tympanites disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratyādhmānaḥ, (a) pratyānāhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Meteorism (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2061598842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Borborygmus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Nafkh-o-Qarāqir"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gurgling (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2051420168"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Flatulence disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/543963543"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Porumal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/543963543"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bloating disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) entefakh-e batn"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Intifākh al-Baṭn"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890393526"
+      }
+    ]
+  }
+}

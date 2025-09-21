@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/528915496",
+  "id": "528915496",
+  "title": "Nasal obstruction disorder (TM2)",
+  "code": "SK97",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Nasal obstruction disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Nasal obstruction disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) nāsānāhaḥ (b) Kaẕuttu mūkkaṭaippu (c) Sudda-i-Khayshūm",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nāsānāhaḥ (b) Kaẕuttu mūkkaṭaippu (c) Sudda-i-Khayshūm"
+        }
+      }
+    },
+    {
+      "text": "(a) pratīnāhaḥ (c) soddeh-ye khayshoum",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratīnāhaḥ (c) soddeh-ye khayshoum"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#528915496",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "341642327"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:19.441751",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/528915496",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#528915496",
+    "code": "SK97",
+    "source": "http://id.who.int/icd/entity/528915496",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Nasal obstruction disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Nasal obstruction disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nāsānāhaḥ (b) Kaẕuttu mūkkaṭaippu (c) Sudda-i-Khayshūm"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pratīnāhaḥ (c) soddeh-ye khayshoum"
+        }
+      }
+    ]
+  }
+}

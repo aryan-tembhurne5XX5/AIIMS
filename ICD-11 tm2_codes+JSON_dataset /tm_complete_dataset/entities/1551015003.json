@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1551015003",
+  "id": "1551015003",
+  "title": "Fever disorder due to external factor (TM2)",
+  "code": "SP59",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Fever disorder due to external factor (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder due to external factor (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) āgantujvaraḥ (b) Piṟavaẕi curam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āgantujvaraḥ (b) Piṟavaẕi curam"
+        }
+      }
+    },
+    {
+      "text": "(c) Ḥummā al-Yawm",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Yawm"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1551015003",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:19.994900",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1551015003",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1551015003",
+    "code": "SP59",
+    "source": "http://id.who.int/icd/entity/1551015003",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Fever disorder due to external factor (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fever disorder due to external factor (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āgantujvaraḥ (b) Piṟavaẕi curam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Yawm"
+        }
+      }
+    ]
+  }
+}

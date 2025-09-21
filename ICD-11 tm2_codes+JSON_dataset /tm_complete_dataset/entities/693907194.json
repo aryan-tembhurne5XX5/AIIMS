@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/693907194",
+  "id": "693907194",
+  "title": "Dampness factor pattern (TM1)",
+  "code": "SE82",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dampness factor pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness factor pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/672608669"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#693907194",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "672608669"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:16.777900",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/693907194",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/672608669"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#693907194",
+    "code": "SE82",
+    "source": "http://id.who.int/icd/entity/693907194",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dampness factor pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness factor pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

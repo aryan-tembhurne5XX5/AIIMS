@@ -1,0 +1,64 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/964894896",
+  "id": "964894896",
+  "title": "Hair disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1130046240",
+    "http://id.who.int/icd/release/11/2025-01/mms/470952586",
+    "http://id.who.int/icd/release/11/2025-01/mms/151610450",
+    "http://id.who.int/icd/release/11/2025-01/mms/2087934559",
+    "http://id.who.int/icd/release/11/2025-01/mms/964894896/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/964894896/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1367002461"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#964894896",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 6,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:39.547677",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/964894896",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1367002461"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1130046240",
+      "http://id.who.int/icd/release/11/2025-01/mms/470952586",
+      "http://id.who.int/icd/release/11/2025-01/mms/151610450",
+      "http://id.who.int/icd/release/11/2025-01/mms/2087934559",
+      "http://id.who.int/icd/release/11/2025-01/mms/964894896/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/964894896/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#964894896",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/964894896",
+    "classKind": "block",
+    "blockId": "BlockL4-SN7",
+    "codeRange": "SN70-SN7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Hair disorders (TM2)"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/229718107",
+  "id": "229718107",
+  "title": "Essence patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/58077538",
+    "http://id.who.int/icd/release/11/2025-01/mms/229718107/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/229718107/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#229718107",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:44.204934",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/229718107",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/662161366"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/58077538",
+      "http://id.who.int/icd/release/11/2025-01/mms/229718107/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/229718107/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#229718107",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/229718107",
+    "classKind": "block",
+    "blockId": "BlockL4-SF2",
+    "codeRange": "SF20-SF2Z",
+    "title": {
+      "@language": "en",
+      "@value": "Essence patterns (TM1)"
+    }
+  }
+}

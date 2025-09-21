@@ -1,0 +1,167 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/716890575",
+  "id": "716890575",
+  "title": "Dental abscess disorder (TM2)",
+  "code": "SM11",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dental abscess disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dental abscess disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) dantavidradhiḥ (b) Pallaṭi Kaṭṭi (c) Fārūlas",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantavidradhiḥ (b) Pallaṭi Kaṭṭi (c) Fārūlas"
+        }
+      }
+    },
+    {
+      "text": "Apical abscess, root abscess disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/540493475",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Apical abscess, root abscess disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540493475"
+      }
+    },
+    {
+      "text": "(a) śauṣiraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/540493475",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śauṣiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540493475"
+      }
+    },
+    {
+      "text": "Dental root disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1067560727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dental root disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1067560727"
+      }
+    },
+    {
+      "text": "(a) mahāśauṣiraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1067560727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahāśauṣiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1067560727"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#716890575",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:00.463982",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/716890575",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#716890575",
+    "code": "SM11",
+    "source": "http://id.who.int/icd/entity/716890575",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dental abscess disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dental abscess disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantavidradhiḥ (b) Pallaṭi Kaṭṭi (c) Fārūlas"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Apical abscess, root abscess disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540493475"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śauṣiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/540493475"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dental root disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1067560727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahāśauṣiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1067560727"
+      }
+    ]
+  }
+}

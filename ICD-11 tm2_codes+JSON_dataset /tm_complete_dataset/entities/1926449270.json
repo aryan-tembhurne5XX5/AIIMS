@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1926449270",
+  "id": "1926449270",
+  "title": "Childhood malnutrition disorder (TM2)",
+  "code": "SR05",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Childhood malnutrition disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Childhood malnutrition disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pārigarbhikaḥ (b) Nīrāmakkaṇam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pārigarbhikaḥ (b) Nīrāmakkaṇam"
+        }
+      }
+    },
+    {
+      "text": "Protein energy malnutrition",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Protein energy malnutrition"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1926449270",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "2007596156"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:20.655808",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1926449270",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1926449270",
+    "code": "SR05",
+    "source": "http://id.who.int/icd/entity/1926449270",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Childhood malnutrition disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Childhood malnutrition disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pārigarbhikaḥ (b) Nīrāmakkaṇam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Protein energy malnutrition"
+        }
+      }
+    ]
+  }
+}

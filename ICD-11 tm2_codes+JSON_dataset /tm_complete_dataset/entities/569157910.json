@@ -1,0 +1,267 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/569157910",
+  "id": "569157910",
+  "title": "Cataract disorder (TM2)",
+  "code": "SK65",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Cataract disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cataract disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kācaḥ (b) Vaḷi kācam (c) Nuzūl al-Mā’",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kācaḥ (b) Vaḷi kācam (c) Nuzūl al-Mā’"
+        }
+      }
+    },
+    {
+      "text": "Partial or total blindness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1310528445",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Partial or total blindness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      }
+    },
+    {
+      "text": "(a) timiraḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1310528445",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) timiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      }
+    },
+    {
+      "text": "Amaurosis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1310528445",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Amaurosis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      }
+    },
+    {
+      "text": "Ametropia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1310528445",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ametropia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      }
+    },
+    {
+      "text": "Partial obstruction of vision (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1310528445",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Partial obstruction of vision (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      }
+    },
+    {
+      "text": "Cataract due to kapha disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1047219329",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cataract due to kapha disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1047219329"
+      }
+    },
+    {
+      "text": "(a) ślaiṣmika-kācaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1047219329",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ślaiṣmika-kācaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1047219329"
+      }
+    },
+    {
+      "text": "Cararact due to three dosha disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1538318644",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cararact due to three dosha disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538318644"
+      }
+    },
+    {
+      "text": "(a) sānnipātika-kācaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1538318644",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sānnipātika-kācaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538318644"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#569157910",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:30.979807",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/569157910",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#569157910",
+    "code": "SK65",
+    "source": "http://id.who.int/icd/entity/569157910",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Cataract disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cataract disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kācaḥ (b) Vaḷi kācam (c) Nuzūl al-Mā’"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Partial or total blindness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) timiraḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Amaurosis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ametropia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Partial obstruction of vision (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1310528445"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cataract due to kapha disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1047219329"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ślaiṣmika-kācaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1047219329"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cararact due to three dosha disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538318644"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sānnipātika-kācaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1538318644"
+      }
+    ]
+  }
+}

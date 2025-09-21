@@ -1,0 +1,77 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1104895717",
+  "id": "1104895717",
+  "title": "Gastro-intestinal disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462",
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626",
+    "http://id.who.int/icd/release/11/2025-01/mms/1978089630",
+    "http://id.who.int/icd/release/11/2025-01/mms/1901778594",
+    "http://id.who.int/icd/release/11/2025-01/mms/1759348926",
+    "http://id.who.int/icd/release/11/2025-01/mms/1289319696",
+    "http://id.who.int/icd/release/11/2025-01/mms/1450947418",
+    "http://id.who.int/icd/release/11/2025-01/mms/1767268402",
+    "http://id.who.int/icd/release/11/2025-01/mms/1290811390",
+    "http://id.who.int/icd/release/11/2025-01/mms/460984650",
+    "http://id.who.int/icd/release/11/2025-01/mms/837500040",
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1104895717",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 13,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:57.426238",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1104895717",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462",
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626",
+      "http://id.who.int/icd/release/11/2025-01/mms/1978089630",
+      "http://id.who.int/icd/release/11/2025-01/mms/1901778594",
+      "http://id.who.int/icd/release/11/2025-01/mms/1759348926",
+      "http://id.who.int/icd/release/11/2025-01/mms/1289319696",
+      "http://id.who.int/icd/release/11/2025-01/mms/1450947418",
+      "http://id.who.int/icd/release/11/2025-01/mms/1767268402",
+      "http://id.who.int/icd/release/11/2025-01/mms/1290811390",
+      "http://id.who.int/icd/release/11/2025-01/mms/460984650",
+      "http://id.who.int/icd/release/11/2025-01/mms/837500040",
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1104895717",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1104895717",
+    "classKind": "block",
+    "blockId": "BlockL3-SM1",
+    "codeRange": "SM10-SM7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Gastro-intestinal disorders (TM2)"
+    }
+  }
+}

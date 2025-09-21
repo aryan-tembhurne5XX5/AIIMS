@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/524351110",
+  "id": "524351110",
+  "title": "Ageusia disorder (TM2)",
+  "code": "SM1P",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Ageusia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ageusia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) arasajñatā (b) Cuvaiyiṉmai nōy (c) Buṭlān al-Dhawq",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arasajñatā (b) Cuvaiyiṉmai nōy (c) Buṭlān al-Dhawq"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#524351110",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:23.593272",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/524351110",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#524351110",
+    "code": "SM1P",
+    "source": "http://id.who.int/icd/entity/524351110",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Ageusia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ageusia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arasajñatā (b) Cuvaiyiṉmai nōy (c) Buṭlān al-Dhawq"
+        }
+      }
+    ]
+  }
+}

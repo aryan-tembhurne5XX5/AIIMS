@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/544306293",
+  "id": "544306293",
+  "title": "Disruption of innate heat pattern (TM2)",
+  "code": "SS3F",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Disruption of innate heat pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Disruption of innate heat pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) soqout-e harArat-e gharizi",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) soqout-e harArat-e gharizi"
+        }
+      }
+    },
+    {
+      "text": "(c) Suqūṭ-i-Ḥarārat Gharīzī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Suqūṭ-i-Ḥarārat Gharīzī"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/832742988"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#544306293",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "862523453",
+    "832742988"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:09.655523",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/544306293",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/832742988"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#544306293",
+    "code": "SS3F",
+    "source": "http://id.who.int/icd/entity/544306293",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Disruption of innate heat pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Disruption of innate heat pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) soqout-e harArat-e gharizi"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Suqūṭ-i-Ḥarārat Gharīzī"
+        }
+      }
+    ]
+  }
+}

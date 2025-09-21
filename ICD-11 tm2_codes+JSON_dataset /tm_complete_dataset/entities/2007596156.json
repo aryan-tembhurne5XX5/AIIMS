@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2007596156",
+  "id": "2007596156",
+  "title": "Childhood disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/296673756",
+    "http://id.who.int/icd/release/11/2025-01/mms/2014079686",
+    "http://id.who.int/icd/release/11/2025-01/mms/370126495",
+    "http://id.who.int/icd/release/11/2025-01/mms/101289303",
+    "http://id.who.int/icd/release/11/2025-01/mms/2019487514",
+    "http://id.who.int/icd/release/11/2025-01/mms/1926449270",
+    "http://id.who.int/icd/release/11/2025-01/mms/1517014705",
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2007596156",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 9,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:14.431156",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2007596156",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/296673756",
+      "http://id.who.int/icd/release/11/2025-01/mms/2014079686",
+      "http://id.who.int/icd/release/11/2025-01/mms/370126495",
+      "http://id.who.int/icd/release/11/2025-01/mms/101289303",
+      "http://id.who.int/icd/release/11/2025-01/mms/2019487514",
+      "http://id.who.int/icd/release/11/2025-01/mms/1926449270",
+      "http://id.who.int/icd/release/11/2025-01/mms/1517014705",
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2007596156",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/2007596156",
+    "classKind": "block",
+    "blockId": "BlockL3-SR0",
+    "codeRange": "SR00-SR0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Childhood disorders (TM2)"
+    }
+  }
+}

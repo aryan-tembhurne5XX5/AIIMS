@@ -1,0 +1,65 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2063581907",
+  "id": "2063581907",
+  "title": "Puerperium associated disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1326313936",
+    "http://id.who.int/icd/release/11/2025-01/mms/195876056",
+    "http://id.who.int/icd/release/11/2025-01/mms/1093143450",
+    "http://id.who.int/icd/release/11/2025-01/mms/971623818",
+    "http://id.who.int/icd/release/11/2025-01/mms/2063581907/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/2063581907/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2063581907",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 6,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:29.362756",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2063581907",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1326313936",
+      "http://id.who.int/icd/release/11/2025-01/mms/195876056",
+      "http://id.who.int/icd/release/11/2025-01/mms/1093143450",
+      "http://id.who.int/icd/release/11/2025-01/mms/971623818",
+      "http://id.who.int/icd/release/11/2025-01/mms/2063581907/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/2063581907/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2063581907",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/2063581907",
+    "classKind": "block",
+    "blockId": "BlockL5-SC1",
+    "codeRange": "SC10-SC1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Puerperium associated disorders (TM1)"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/782160949",
+  "id": "782160949",
+  "title": "Haematuria disorder (TM2)",
+  "code": "SM8A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Haematuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haematuria disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) lohitamehaḥ (b) Aẕal Nīrccurukku (c) Bawl al-Dam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitamehaḥ (b) Aẕal Nīrccurukku (c) Bawl al-Dam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#782160949",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:23.326441",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/782160949",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#782160949",
+    "code": "SM8A",
+    "source": "http://id.who.int/icd/entity/782160949",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Haematuria disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haematuria disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitamehaḥ (b) Aẕal Nīrccurukku (c) Bawl al-Dam"
+        }
+      }
+    ]
+  }
+}

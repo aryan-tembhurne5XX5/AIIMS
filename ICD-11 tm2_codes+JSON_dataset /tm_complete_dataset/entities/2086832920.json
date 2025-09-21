@@ -1,0 +1,122 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2086832920",
+  "id": "2086832920",
+  "title": "Generalised oedema disorder (TM2)",
+  "code": "SP91",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Generalised oedema disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Generalised oedema disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sarvasara-śōthaḥ (b) Cōkai (c) Istisqā’ Laḥmī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvasara-śōthaḥ (b) Cōkai (c) Istisqā’ Laḥmī"
+        }
+      }
+    },
+    {
+      "text": "Anasarca",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anasarca"
+        }
+      }
+    },
+    {
+      "text": "(b) Ūtal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ūtal nōy"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2086832920",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:35.093011",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2086832920",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2086832920",
+    "code": "SP91",
+    "source": "http://id.who.int/icd/entity/2086832920",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Generalised oedema disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Generalised oedema disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvasara-śōthaḥ (b) Cōkai (c) Istisqā’ Laḥmī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anasarca"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ūtal nōy"
+        }
+      }
+    ]
+  }
+}

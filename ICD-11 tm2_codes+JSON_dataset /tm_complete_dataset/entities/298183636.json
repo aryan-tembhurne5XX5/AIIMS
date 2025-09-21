@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/298183636",
+  "id": "298183636",
+  "title": "Diabetes mellitus disorder (TM2)",
+  "code": "SP60",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Diabetes mellitus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diabetes mellitus disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) madhumehaḥ (b) Nīriẕivu (c) Dhayābīṭus",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madhumehaḥ (b) Nīriẕivu (c) Dhayābīṭus"
+        }
+      }
+    },
+    {
+      "text": "(a) kṣaudramehaḥ (b) iṉippu maṇa nīr , (b) Nīriḻivu",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣaudramehaḥ (b) iṉippu maṇa nīr , (b) Nīriḻivu"
+        }
+      }
+    },
+    {
+      "text": "(c) Dūlābiya , (c) Mu‘aṭṭisha , (c) Dawwāriyya , (c) Parkāriyya",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dūlābiya , (c) Mu‘aṭṭisha , (c) Dawwāriyya , (c) Parkāriyya"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/858244402"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#298183636",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "858244402"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:24.340409",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/298183636",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/858244402"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#298183636",
+    "code": "SP60",
+    "source": "http://id.who.int/icd/entity/298183636",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Diabetes mellitus disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diabetes mellitus disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madhumehaḥ (b) Nīriẕivu (c) Dhayābīṭus"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣaudramehaḥ (b) iṉippu maṇa nīr , (b) Nīriḻivu"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Dūlābiya , (c) Mu‘aṭṭisha , (c) Dawwāriyya , (c) Parkāriyya"
+        }
+      }
+    ]
+  }
+}

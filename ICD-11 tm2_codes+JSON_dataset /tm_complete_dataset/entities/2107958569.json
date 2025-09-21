@@ -1,0 +1,283 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2107958569",
+  "id": "2107958569",
+  "title": "Constipation disorder (TM2)",
+  "code": "SM34",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Constipation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Constipation disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vibandha (b) Malakkaṭṭu (c) Qabḍ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vibandha (b) Malakkaṭṭu (c) Qabḍ"
+        }
+      }
+    },
+    {
+      "text": "(b) Malakkaṭṭu (c) I‘tiqāl al-Baṭn / Ḥuṣr / Iḥtibās al-Baṭn / Iḥtibās al-Ṭabī‘a / I‘tiqāl al-Ṭabī‘a / Imsāk al-Baṭn",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Malakkaṭṭu (c) I‘tiqāl al-Baṭn / Ḥuṣr / Iḥtibās al-Baṭn / Iḥtibās al-Ṭabī‘a / I‘tiqāl al-Ṭabī‘a / Imsāk al-Baṭn"
+        }
+      }
+    },
+    {
+      "text": "(a) malavibandha",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) malavibandha"
+        }
+      }
+    },
+    {
+      "text": "Habitual constipation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1737019901",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Habitual constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1737019901"
+      }
+    },
+    {
+      "text": "(c) Ḥuṣr Mu‘tād, (c) Ḥuṣr Dā’imī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1737019901",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥuṣr Mu‘tād, (c) Ḥuṣr Dā’imī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1737019901"
+      }
+    },
+    {
+      "text": "Secondary constipation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1476571877",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Secondary constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476571877"
+      }
+    },
+    {
+      "text": "(c) Ḥuṣr ‘Arḍī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1476571877",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥuṣr ‘Arḍī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476571877"
+      }
+    },
+    {
+      "text": "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/34682026",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/34682026"
+      }
+    },
+    {
+      "text": "(c) Rīḥ al-Bawāsīr",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/34682026",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rīḥ al-Bawāsīr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/34682026"
+      }
+    },
+    {
+      "text": "Slow transit constipation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/677765624",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Slow transit constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/677765624"
+      }
+    },
+    {
+      "text": "(a) vilambikā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/677765624",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vilambikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/677765624"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2107958569",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:29.986427",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2107958569",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2107958569",
+    "code": "SM34",
+    "source": "http://id.who.int/icd/entity/2107958569",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Constipation disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Constipation disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vibandha (b) Malakkaṭṭu (c) Qabḍ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Malakkaṭṭu (c) I‘tiqāl al-Baṭn / Ḥuṣr / Iḥtibās al-Baṭn / Iḥtibās al-Ṭabī‘a / I‘tiqāl al-Ṭabī‘a / Imsāk al-Baṭn"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) malavibandha"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Habitual constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1737019901"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥuṣr Mu‘tād, (c) Ḥuṣr Dā’imī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1737019901"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Secondary constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476571877"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥuṣr ‘Arḍī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476571877"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Accumulation of excess Rīḥ in the alimentary canal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/34682026"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Rīḥ al-Bawāsīr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/34682026"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Slow transit constipation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/677765624"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vilambikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/677765624"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/590014910",
+  "id": "590014910",
+  "title": "Dysmenorrhoea disorder (TM2)",
+  "code": "SM96",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dysmenorrhoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysmenorrhoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) udāvartinī (b) Cūtaka Vaḷi (c) ‘Usr al-Tamth",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udāvartinī (b) Cūtaka Vaḷi (c) ‘Usr al-Tamth"
+        }
+      }
+    },
+    {
+      "text": "(a) Kashtartawa",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kashtartawa"
+        }
+      }
+    },
+    {
+      "text": "Intermenstrual bleeeding (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1558016223",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intermenstrual bleeeding (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1558016223"
+      }
+    },
+    {
+      "text": "(b) Iṭai pūppu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1558016223",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Iṭai pūppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1558016223"
+      }
+    },
+    {
+      "text": "Dysmennorrhea disorder due to reproductive organ diseases (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1237728775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysmennorrhea disorder due to reproductive organ diseases (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1237728775"
+      }
+    },
+    {
+      "text": "(b) Aka cūtaka Vaḷi",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1237728775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aka cūtaka Vaḷi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1237728775"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#590014910",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:35.992733",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/590014910",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#590014910",
+    "code": "SM96",
+    "source": "http://id.who.int/icd/entity/590014910",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dysmenorrhoea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysmenorrhoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udāvartinī (b) Cūtaka Vaḷi (c) ‘Usr al-Tamth"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Kashtartawa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intermenstrual bleeeding (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1558016223"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Iṭai pūppu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1558016223"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysmennorrhea disorder due to reproductive organ diseases (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1237728775"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aka cūtaka Vaḷi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1237728775"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/463674457",
+  "id": "463674457",
+  "title": "Increase of Aẕal pattern (TM2)",
+  "code": "SR1G",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Increase of Aẕal pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Increase of Aẕal pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Aḻal mikukuṇam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aḻal mikukuṇam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#463674457",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:42.532329",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/463674457",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#463674457",
+    "code": "SR1G",
+    "source": "http://id.who.int/icd/entity/463674457",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Increase of Aẕal pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Increase of Aẕal pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aḻal mikukuṇam"
+        }
+      }
+    ]
+  }
+}

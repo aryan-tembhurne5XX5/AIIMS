@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/976696142",
+  "id": "976696142",
+  "title": "Body constitution with a predominance of all three dosha pattern (TM2)",
+  "code": "SS56",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Body constitution with a predominance of all three dosha pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Body constitution with a predominance of all three dosha pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tridōṣajaprakr̥tiḥ, (a) samaprakr̥tiḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tridōṣajaprakr̥tiḥ, (a) samaprakr̥tiḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1873479241"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#976696142",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "1873479241"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:22.422532",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/976696142",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1873479241"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#976696142",
+    "code": "SS56",
+    "source": "http://id.who.int/icd/entity/976696142",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Body constitution with a predominance of all three dosha pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Body constitution with a predominance of all three dosha pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tridōṣajaprakr̥tiḥ, (a) samaprakr̥tiḥ"
+        }
+      }
+    ]
+  }
+}

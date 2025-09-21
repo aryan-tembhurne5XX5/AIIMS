@@ -1,0 +1,386 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1576590672",
+  "id": "1576590672",
+  "title": "Pruritus disorder (TM2)",
+  "code": "SP99",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pruritus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaṇḍūḥ (b) Pitta Viṭapākam (c) Ḥikka",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṇḍūḥ (b) Pitta Viṭapākam (c) Ḥikka"
+        }
+      }
+    },
+    {
+      "text": "Pruritus ani disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/57623279",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus ani disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/57623279"
+      }
+    },
+    {
+      "text": "(c) Ḥikka al-Maq‘ad",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/57623279",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Maq‘ad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/57623279"
+      }
+    },
+    {
+      "text": "Pruritis of fingers disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1822357574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritis of fingers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      }
+    },
+    {
+      "text": "(c) Ḥikka al-Aṣābi‘",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1822357574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Aṣābi‘"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      }
+    },
+    {
+      "text": "Itchy fingers (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1822357574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Itchy fingers (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      }
+    },
+    {
+      "text": "Senile pruritus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/376704055",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Senile pruritus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/376704055"
+      }
+    },
+    {
+      "text": "(c) Ḥikka al-Mashāyikh",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/376704055",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Mashāyikh"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/376704055"
+      }
+    },
+    {
+      "text": "Pruritus tongue disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/951930713",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus tongue disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/951930713"
+      }
+    },
+    {
+      "text": "(c) Ḥikka al-Lisān",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/951930713",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Lisān"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/951930713"
+      }
+    },
+    {
+      "text": "Pruritus uteri disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1567023854",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus uteri disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567023854"
+      }
+    },
+    {
+      "text": "(c) Ḥikka al-Raḥim, (c) Farīsmūs al-Nisā’",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1567023854",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Raḥim, (c) Farīsmūs al-Nisā’"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567023854"
+      }
+    },
+    {
+      "text": "Itching in external genitalia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/54919169",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Itching in external genitalia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/54919169"
+      }
+    },
+    {
+      "text": "(b) Kuri namai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/54919169",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuri namai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/54919169"
+      }
+    },
+    {
+      "text": "Pain all over the body and fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/483453365",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pain all over the body and fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/483453365"
+      }
+    },
+    {
+      "text": "(b) Cura cūlai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/483453365",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cura cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/483453365"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1576590672",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:43.466296",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1576590672",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1576590672",
+    "code": "SP99",
+    "source": "http://id.who.int/icd/entity/1576590672",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pruritus disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaṇḍūḥ (b) Pitta Viṭapākam (c) Ḥikka"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus ani disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/57623279"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Maq‘ad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/57623279"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritis of fingers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Aṣābi‘"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Itchy fingers (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1822357574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Senile pruritus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/376704055"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Mashāyikh"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/376704055"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus tongue disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/951930713"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Lisān"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/951930713"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pruritus uteri disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567023854"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥikka al-Raḥim, (c) Farīsmūs al-Nisā’"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567023854"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Itching in external genitalia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/54919169"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuri namai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/54919169"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pain all over the body and fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/483453365"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cura cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/483453365"
+      }
+    ]
+  }
+}

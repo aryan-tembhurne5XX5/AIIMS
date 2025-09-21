@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/292928901",
+  "id": "292928901",
+  "title": "Depletion of reproductive tissues and semen pattern (TM2)",
+  "code": "SR4E",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Depletion of reproductive tissues and semen pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depletion of reproductive tissues and semen pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śukrakṣayaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukrakṣayaḥ"
+        }
+      }
+    },
+    {
+      "text": "(b) Veṇṇīr kuṟaikuṇam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veṇṇīr kuṟaikuṇam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#292928901",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:16.260506",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/292928901",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#292928901",
+    "code": "SR4E",
+    "source": "http://id.who.int/icd/entity/292928901",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Depletion of reproductive tissues and semen pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depletion of reproductive tissues and semen pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukrakṣayaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veṇṇīr kuṟaikuṇam"
+        }
+      }
+    ]
+  }
+}

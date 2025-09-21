@@ -1,0 +1,126 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/370126495",
+  "id": "370126495",
+  "title": "Infantile dysentry disorder (TM2)",
+  "code": "SR02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Infantile dysentry disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile dysentry disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Māntak kaẕiccal (c) Zaḥīr al-Aṭfāl",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Māntak kaẕiccal (c) Zaḥīr al-Aṭfāl"
+        }
+      }
+    },
+    {
+      "text": "Dysentery disorder due to respiratory disorders (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/598727323",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder due to respiratory disorders (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/598727323"
+      }
+    },
+    {
+      "text": "(b) Kaṇa kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/598727323",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṇa kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/598727323"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#370126495",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "2007596156"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:17.515028",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/370126495",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#370126495",
+    "code": "SR02",
+    "source": "http://id.who.int/icd/entity/370126495",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Infantile dysentry disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Infantile dysentry disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Māntak kaẕiccal (c) Zaḥīr al-Aṭfāl"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder due to respiratory disorders (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/598727323"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṇa kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/598727323"
+      }
+    ]
+  }
+}

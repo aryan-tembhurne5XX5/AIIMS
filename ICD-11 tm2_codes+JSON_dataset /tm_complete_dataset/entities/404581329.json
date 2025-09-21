@@ -1,0 +1,145 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/404581329",
+  "id": "404581329",
+  "title": "Balanitis disorder (TM2)",
+  "code": "SN00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Balanitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Balanitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) meḍhrapākaḥ (b) Aiya Kallaṭaippu (c) Waram al-Qaḍīb",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) meḍhrapākaḥ (b) Aiya Kallaṭaippu (c) Waram al-Qaḍīb"
+        }
+      }
+    },
+    {
+      "text": "inflammation of the penis",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "inflammation of the penis"
+        }
+      }
+    },
+    {
+      "text": "Inflammation of penis disorder due to application of ointments etc., (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2023033138",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation of penis disorder due to application of ointments etc., (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2023033138"
+      }
+    },
+    {
+      "text": "(a) śūkarogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2023033138",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śūkarogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2023033138"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1252104698"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#404581329",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1252104698"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:44.536804",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/404581329",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1252104698"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#404581329",
+    "code": "SN00",
+    "source": "http://id.who.int/icd/entity/404581329",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Balanitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Balanitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) meḍhrapākaḥ (b) Aiya Kallaṭaippu (c) Waram al-Qaḍīb"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "inflammation of the penis"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammation of penis disorder due to application of ointments etc., (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2023033138"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śūkarogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2023033138"
+      }
+    ]
+  }
+}

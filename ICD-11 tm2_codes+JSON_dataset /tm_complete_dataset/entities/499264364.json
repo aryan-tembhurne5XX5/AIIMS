@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/499264364",
+  "id": "499264364",
+  "title": "Consumptive disorder (TM2)",
+  "code": "SP5B",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Consumptive disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Consumptive disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) rājayakṣmā (b) Iḷaippu nōy (c) Ḥummā Diqqiyya",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rājayakṣmā (b) Iḷaippu nōy (c) Ḥummā Diqqiyya"
+        }
+      }
+    },
+    {
+      "text": "(c) Diqq",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Diqq"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#499264364",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:22.103552",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/499264364",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#499264364",
+    "code": "SP5B",
+    "source": "http://id.who.int/icd/entity/499264364",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Consumptive disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Consumptive disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rājayakṣmā (b) Iḷaippu nōy (c) Ḥummā Diqqiyya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Diqq"
+        }
+      }
+    ]
+  }
+}

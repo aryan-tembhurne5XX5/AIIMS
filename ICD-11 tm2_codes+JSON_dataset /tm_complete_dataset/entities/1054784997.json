@@ -1,0 +1,247 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1054784997",
+  "id": "1054784997",
+  "title": "Dysentery disorder (TM2)",
+  "code": "SM38",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dysentery disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pravāhikā (b) Niṇak kaẕiccal (c) Zaḥīr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pravāhikā (b) Niṇak kaẕiccal (c) Zaḥīr"
+        }
+      }
+    },
+    {
+      "text": "Dysentery disorder presenting persistent moisture around anus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/877861513",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder presenting persistent moisture around anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/877861513"
+      }
+    },
+    {
+      "text": "(b) Ericcal niṇak kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/877861513",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ericcal niṇak kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/877861513"
+      }
+    },
+    {
+      "text": "Loose stools disorder with blood and pus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/734393149",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder with blood and pus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/734393149"
+      }
+    },
+    {
+      "text": "(b) Kaṭuppukkaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/734393149",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṭuppukkaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/734393149"
+      }
+    },
+    {
+      "text": "Dysentery disorder occuring in pregnancy (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/558388305",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder occuring in pregnancy (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558388305"
+      }
+    },
+    {
+      "text": "(b) Cūl niṇak kaẕiccal",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/558388305",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl niṇak kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558388305"
+      }
+    },
+    {
+      "text": "Aggravated Aiyam disorder leading to dysentery (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/350756949",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam disorder leading to dysentery (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/350756949"
+      }
+    },
+    {
+      "text": "(b) Aticāram",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/350756949",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aticāram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/350756949"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1054784997",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:34.185388",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1054784997",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1054784997",
+    "code": "SM38",
+    "source": "http://id.who.int/icd/entity/1054784997",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dysentery disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pravāhikā (b) Niṇak kaẕiccal (c) Zaḥīr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder presenting persistent moisture around anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/877861513"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ericcal niṇak kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/877861513"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Loose stools disorder with blood and pus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/734393149"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaṭuppukkaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/734393149"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysentery disorder occuring in pregnancy (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558388305"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl niṇak kaẕiccal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/558388305"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam disorder leading to dysentery (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/350756949"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aticāram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/350756949"
+      }
+    ]
+  }
+}

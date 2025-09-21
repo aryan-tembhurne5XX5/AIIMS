@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1018739524",
+  "id": "1018739524",
+  "title": "Derangement of digestive tract pattern (TM2)",
+  "code": "SR59",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Derangement of digestive tract pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Derangement of digestive tract pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) annavahasrotoduṣṭiḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) annavahasrotoduṣṭiḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/177315691"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1018739524",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439",
+    "177315691"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:35.142671",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1018739524",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/177315691"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1018739524",
+    "code": "SR59",
+    "source": "http://id.who.int/icd/entity/1018739524",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Derangement of digestive tract pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Derangement of digestive tract pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) annavahasrotoduṣṭiḥ"
+        }
+      }
+    ]
+  }
+}

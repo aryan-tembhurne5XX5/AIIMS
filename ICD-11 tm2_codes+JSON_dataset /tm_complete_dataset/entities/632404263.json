@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/632404263",
+  "id": "632404263",
+  "title": "Exterior pattern (TM1)",
+  "code": "SE76",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Exterior pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Exterior pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/817731121"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#632404263",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "817731121"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:08.337558",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/632404263",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/817731121"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#632404263",
+    "code": "SE76",
+    "source": "http://id.who.int/icd/entity/632404263",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Exterior pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Exterior pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

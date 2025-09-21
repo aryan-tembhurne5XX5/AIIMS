@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1792202077",
+  "id": "1792202077",
+  "title": "Vaḷi-predominant Aiyam body constitution pattern (TM2)",
+  "code": "SS5B",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Vaḷi-predominant Aiyam body constitution pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaḷi-predominant Aiyam body constitution pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Vaḷi aiya uṭalikkaṇam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi aiya uṭalikkaṇam"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1873479241"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1792202077",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "1873479241"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:27.694766",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1792202077",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1873479241"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1792202077",
+    "code": "SS5B",
+    "source": "http://id.who.int/icd/entity/1792202077",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Vaḷi-predominant Aiyam body constitution pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaḷi-predominant Aiyam body constitution pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi aiya uṭalikkaṇam"
+        }
+      }
+    ]
+  }
+}

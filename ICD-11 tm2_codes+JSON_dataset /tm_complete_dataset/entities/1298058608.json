@@ -1,0 +1,79 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1298058608",
+  "id": "1298058608",
+  "title": "Blood heat pattern (TM1)",
+  "code": "SF02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Blood heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood heat pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Blood cold pattern (TM)'}}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/721001453"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1298058608",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "721001453"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:33.554637",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1298058608",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/721001453"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1298058608",
+    "code": "SF02",
+    "source": "http://id.who.int/icd/entity/1298058608",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Blood heat pattern (TM1)"
+    },
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood cold pattern (TM)"
+        }
+      }
+    ],
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood heat pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

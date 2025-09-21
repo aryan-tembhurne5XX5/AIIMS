@@ -1,0 +1,167 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1461120625",
+  "id": "1461120625",
+  "title": "Dental caries disorder (TM2)",
+  "code": "SM1E",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dental caries disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dental caries disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kṛmidantakaḥ (b) Pal puẕu (c) Ta’akkul al-Asnān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmidantakaḥ (b) Pal puẕu (c) Ta’akkul al-Asnān"
+        }
+      }
+    },
+    {
+      "text": "Dental cavities disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/852313030",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dental cavities disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852313030"
+      }
+    },
+    {
+      "text": "(a) kapālikā (b) Pallaṭi tuḷai (c) Tanaqqub al-Asnān",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/852313030",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālikā (b) Pallaṭi tuḷai (c) Tanaqqub al-Asnān"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852313030"
+      }
+    },
+    {
+      "text": "Pyorrhoea alveolaris disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1770720011",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pyorrhoea alveolaris disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1770720011"
+      }
+    },
+    {
+      "text": "(a) dantanāḍī (c) Nawāṣīr al-Litha",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1770720011",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantanāḍī (c) Nawāṣīr al-Litha"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1770720011"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1461120625",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:14.179504",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1461120625",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1461120625",
+    "code": "SM1E",
+    "source": "http://id.who.int/icd/entity/1461120625",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dental caries disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dental caries disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmidantakaḥ (b) Pal puẕu (c) Ta’akkul al-Asnān"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dental cavities disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852313030"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālikā (b) Pallaṭi tuḷai (c) Tanaqqub al-Asnān"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852313030"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pyorrhoea alveolaris disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1770720011"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantanāḍī (c) Nawāṣīr al-Litha"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1770720011"
+      }
+    ]
+  }
+}

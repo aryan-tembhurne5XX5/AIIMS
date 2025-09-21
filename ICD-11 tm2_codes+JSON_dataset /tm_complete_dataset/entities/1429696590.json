@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1429696590",
+  "id": "1429696590",
+  "title": "Pregnancy and childbirth related disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/480312815",
+    "http://id.who.int/icd/release/11/2025-01/mms/412899090",
+    "http://id.who.int/icd/release/11/2025-01/mms/313933836",
+    "http://id.who.int/icd/release/11/2025-01/mms/1429696590/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1429696590/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1429696590",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:56.205305",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1429696590",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1542941233"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/480312815",
+      "http://id.who.int/icd/release/11/2025-01/mms/412899090",
+      "http://id.who.int/icd/release/11/2025-01/mms/313933836",
+      "http://id.who.int/icd/release/11/2025-01/mms/1429696590/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1429696590/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1429696590",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1429696590",
+    "classKind": "block",
+    "blockId": "BlockL4-SN1",
+    "codeRange": "SN10-SN1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Pregnancy and childbirth related disorders (TM2)"
+    }
+  }
+}

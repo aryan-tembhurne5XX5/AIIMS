@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/412899090",
+  "id": "412899090",
+  "title": "Vitiated breast milk disorder (TM2)",
+  "code": "SN11",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Vitiated breast milk disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vitiated breast milk disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) stanyaduṣṭiḥ (b) Pāl etireṭuttal",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) stanyaduṣṭiḥ (b) Pāl etireṭuttal"
+        }
+      }
+    },
+    {
+      "text": "Milk aversion disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2003692985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Milk aversion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2003692985"
+      }
+    },
+    {
+      "text": "(b) Pāl kuṭiyāmai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2003692985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pāl kuṭiyāmai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2003692985"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1429696590"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#412899090",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1429696590"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:58.226060",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/412899090",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1429696590"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#412899090",
+    "code": "SN11",
+    "source": "http://id.who.int/icd/entity/412899090",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Vitiated breast milk disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vitiated breast milk disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) stanyaduṣṭiḥ (b) Pāl etireṭuttal"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Milk aversion disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2003692985"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pāl kuṭiyāmai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2003692985"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1660768124",
+  "id": "1660768124",
+  "title": "Intertrigo disorder (TM2)",
+  "code": "SN48",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Intertrigo disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intertrigo disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) alasaḥ (c) Mazaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) alasaḥ (c) Mazaḥ"
+        }
+      }
+    },
+    {
+      "text": "(b) Cēṟṟup puṇ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cēṟṟup puṇ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1660768124",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:13.000609",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1660768124",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1660768124",
+    "code": "SN48",
+    "source": "http://id.who.int/icd/entity/1660768124",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Intertrigo disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intertrigo disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) alasaḥ (c) Mazaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cēṟṟup puṇ"
+        }
+      }
+    ]
+  }
+}

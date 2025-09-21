@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1196419841",
+  "id": "1196419841",
+  "title": "Dyspnoea disorder (TM2)",
+  "code": "SL42",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dyspnoea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspnoea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śvāsaḥ (b) Iraippu nōy (c) ’ Usr al-Tanaffus",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śvāsaḥ (b) Iraippu nōy (c) ’ Usr al-Tanaffus"
+        }
+      }
+    },
+    {
+      "text": "Breathlessness (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Breathlessness (TM2)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1196419841",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1274104313"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:41.085199",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1196419841",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1196419841",
+    "code": "SL42",
+    "source": "http://id.who.int/icd/entity/1196419841",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dyspnoea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dyspnoea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śvāsaḥ (b) Iraippu nōy (c) ’ Usr al-Tanaffus"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Breathlessness (TM2)"
+        }
+      }
+    ]
+  }
+}

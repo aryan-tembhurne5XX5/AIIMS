@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1871753118",
+  "id": "1871753118",
+  "title": "Impacted cerumen disorder (TM2)",
+  "code": "SK85",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Impacted cerumen disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Impacted cerumen disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) karṇa-gūthakaḥ (c) Wasakh al-Udhun",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇa-gūthakaḥ (c) Wasakh al-Udhun"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2753503"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1871753118",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "2753503"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:05.718351",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1871753118",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2753503"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1871753118",
+    "code": "SK85",
+    "source": "http://id.who.int/icd/entity/1871753118",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Impacted cerumen disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Impacted cerumen disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇa-gūthakaḥ (c) Wasakh al-Udhun"
+        }
+      }
+    ]
+  }
+}

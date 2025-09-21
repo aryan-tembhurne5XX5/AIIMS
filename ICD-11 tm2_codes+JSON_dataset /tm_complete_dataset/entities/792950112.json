@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/792950112",
+  "id": "792950112",
+  "title": "Depletion of kapha pattern (TM2)",
+  "code": "SR1E",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Depletion of kapha pattern (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Depletion of kapha pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kaphakṣayaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphakṣayaḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#792950112",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:40.394008",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/792950112",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#792950112",
+    "code": "SR1E",
+    "source": "http://id.who.int/icd/entity/792950112",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Depletion of kapha pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Depletion of kapha pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphakṣayaḥ"
+        }
+      }
+    ]
+  }
+}

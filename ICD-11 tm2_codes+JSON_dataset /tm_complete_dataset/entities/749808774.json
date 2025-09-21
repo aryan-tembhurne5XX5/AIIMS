@@ -1,0 +1,58 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/749808774",
+  "id": "749808774",
+  "title": "Emotional disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1970407217",
+    "http://id.who.int/icd/release/11/2025-01/mms/749808774/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/749808774/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#749808774",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:54.088451",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/749808774",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1471542998"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1970407217",
+      "http://id.who.int/icd/release/11/2025-01/mms/749808774/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/749808774/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#749808774",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/749808774",
+    "classKind": "block",
+    "blockId": "BlockL4-SQ1",
+    "codeRange": "SQ10-SQ1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Emotional disorders (TM2)"
+    }
+  }
+}

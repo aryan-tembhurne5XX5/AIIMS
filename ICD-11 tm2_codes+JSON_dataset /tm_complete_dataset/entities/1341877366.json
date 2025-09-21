@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1341877366",
+  "id": "1341877366",
+  "title": "Predominance of Ṣafrā’ pattern (TM2)",
+  "code": "SR1N",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Predominance of Ṣafrā’ pattern (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Predominance of Ṣafrā’ pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Ghalaba’-i-Ṣafrā’",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghalaba’-i-Ṣafrā’"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1341877366",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:48.826443",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1341877366",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1341877366",
+    "code": "SR1N",
+    "source": "http://id.who.int/icd/entity/1341877366",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Predominance of Ṣafrā’ pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Predominance of Ṣafrā’ pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghalaba’-i-Ṣafrā’"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/140697391",
+  "id": "140697391",
+  "title": "Pattern of quantity (TM2)",
+  "code": "SR69",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pattern of quantity (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of quantity (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) maraz-e kamm",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) maraz-e kamm"
+        }
+      }
+    },
+    {
+      "text": "(c) Amrāḍ-i-Miqdār",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i-Miqdār"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#140697391",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:50.998419",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/140697391",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#140697391",
+    "code": "SR69",
+    "source": "http://id.who.int/icd/entity/140697391",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pattern of quantity (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of quantity (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) maraz-e kamm"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i-Miqdār"
+        }
+      }
+    ]
+  }
+}

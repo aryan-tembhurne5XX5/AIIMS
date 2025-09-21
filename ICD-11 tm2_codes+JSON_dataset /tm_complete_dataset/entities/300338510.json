@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/300338510",
+  "id": "300338510",
+  "title": "Day blindness disorder (TM2)",
+  "code": "SK63",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Day blindness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Day blindness disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pittavidagdhadṛṣṭi (b) Tūyakaṇ Kurutu (c) Jahar",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittavidagdhadṛṣṭi (b) Tūyakaṇ Kurutu (c) Jahar"
+        }
+      }
+    },
+    {
+      "text": "(a) divāndhyam (c) Rozkorī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) divāndhyam (c) Rozkorī"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#300338510",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:28.893861",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/300338510",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#300338510",
+    "code": "SK63",
+    "source": "http://id.who.int/icd/entity/300338510",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Day blindness disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Day blindness disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittavidagdhadṛṣṭi (b) Tūyakaṇ Kurutu (c) Jahar"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) divāndhyam (c) Rozkorī"
+        }
+      }
+    ]
+  }
+}

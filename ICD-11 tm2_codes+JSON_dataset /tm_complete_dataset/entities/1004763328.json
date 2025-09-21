@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1004763328",
+  "id": "1004763328",
+  "title": "Blood stasis pattern (TM1)",
+  "code": "SF01",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Blood stasis pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood stasis pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Blood stagnation pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood stagnation pattern (TM)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/721001453"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1004763328",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "721001453"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:32.517017",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1004763328",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/721001453"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1004763328",
+    "code": "SF01",
+    "source": "http://id.who.int/icd/entity/1004763328",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Blood stasis pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood stasis pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood stagnation pattern (TM)"
+        }
+      }
+    ]
+  }
+}

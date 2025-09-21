@@ -1,0 +1,70 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/51084411",
+  "id": "51084411",
+  "title": "Metrorrhagia disorder (TM1)",
+  "code": "SB93",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Metrorrhagia disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Metrorrhagia disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1216941414"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#51084411",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253",
+    "1216941414"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:18.509504",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/51084411",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1216941414"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#51084411",
+    "code": "SB93",
+    "source": "http://id.who.int/icd/entity/51084411",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Metrorrhagia disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Metrorrhagia disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

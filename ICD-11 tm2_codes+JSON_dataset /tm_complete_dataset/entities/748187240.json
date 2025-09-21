@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/748187240",
+  "id": "748187240",
+  "title": "Joint disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/383282991",
+    "http://id.who.int/icd/release/11/2025-01/mms/1436346745",
+    "http://id.who.int/icd/release/11/2025-01/mms/1911639957",
+    "http://id.who.int/icd/release/11/2025-01/mms/315196872",
+    "http://id.who.int/icd/release/11/2025-01/mms/1997678707",
+    "http://id.who.int/icd/release/11/2025-01/mms/1234160905",
+    "http://id.who.int/icd/release/11/2025-01/mms/748187240/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/748187240/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#748187240",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 8,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:51.390286",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/748187240",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/383282991",
+      "http://id.who.int/icd/release/11/2025-01/mms/1436346745",
+      "http://id.who.int/icd/release/11/2025-01/mms/1911639957",
+      "http://id.who.int/icd/release/11/2025-01/mms/315196872",
+      "http://id.who.int/icd/release/11/2025-01/mms/1997678707",
+      "http://id.who.int/icd/release/11/2025-01/mms/1234160905",
+      "http://id.who.int/icd/release/11/2025-01/mms/748187240/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/748187240/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#748187240",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/748187240",
+    "classKind": "block",
+    "blockId": "BlockL4-SP1",
+    "codeRange": "SP10-SP1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Joint disorders (TM2)"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/412234144",
+  "id": "412234144",
+  "title": "High fever disorder with yellow discouloration (TM2)",
+  "code": "SP53",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "High fever disorder with yellow discouloration (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "High fever disorder with yellow discouloration (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) paittikajvaraḥ (b) Pitta curam (c) Ḥummā al-Ghibb",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paittikajvaraḥ (b) Pitta curam (c) Ḥummā al-Ghibb"
+        }
+      }
+    },
+    {
+      "text": "(c) Ṭraṭā’ūs",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭraṭā’ūs"
+        }
+      }
+    },
+    {
+      "text": "Continuous fever disorder due to putrefaction of Ṣafrā’ inside the vessels (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/304060148",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder due to putrefaction of Ṣafrā’ inside the vessels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/304060148"
+      }
+    },
+    {
+      "text": "(c) Ḥummā al-Ghibb Lāzima",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/304060148",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Ghibb Lāzima"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/304060148"
+      }
+    },
+    {
+      "text": "High grade putrefaction of Ṣafrā’ disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1765708707",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "High grade putrefaction of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765708707"
+      }
+    },
+    {
+      "text": "(c) Ḥummā al-Ghibb Muḥarriqa",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1765708707",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Ghibb Muḥarriqa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765708707"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#412234144",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "1737130163"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:13.656237",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/412234144",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#412234144",
+    "code": "SP53",
+    "source": "http://id.who.int/icd/entity/412234144",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "High fever disorder with yellow discouloration (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "High fever disorder with yellow discouloration (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paittikajvaraḥ (b) Pitta curam (c) Ḥummā al-Ghibb"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭraṭā’ūs"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Continuous fever disorder due to putrefaction of Ṣafrā’ inside the vessels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/304060148"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Ghibb Lāzima"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/304060148"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "High grade putrefaction of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765708707"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Ghibb Muḥarriqa"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765708707"
+      }
+    ]
+  }
+}

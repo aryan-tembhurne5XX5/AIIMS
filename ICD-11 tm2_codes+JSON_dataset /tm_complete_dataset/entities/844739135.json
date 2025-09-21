@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/844739135",
+  "id": "844739135",
+  "title": "Temperament based patterns (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/570509115",
+    "http://id.who.int/icd/release/11/2025-01/mms/220903323",
+    "http://id.who.int/icd/release/11/2025-01/mms/758529335",
+    "http://id.who.int/icd/release/11/2025-01/mms/666606171",
+    "http://id.who.int/icd/release/11/2025-01/mms/656157227",
+    "http://id.who.int/icd/release/11/2025-01/mms/2039199114",
+    "http://id.who.int/icd/release/11/2025-01/mms/844739135/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/844739135/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#844739135",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 8,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:37.408755",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/844739135",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/570509115",
+      "http://id.who.int/icd/release/11/2025-01/mms/220903323",
+      "http://id.who.int/icd/release/11/2025-01/mms/758529335",
+      "http://id.who.int/icd/release/11/2025-01/mms/666606171",
+      "http://id.who.int/icd/release/11/2025-01/mms/656157227",
+      "http://id.who.int/icd/release/11/2025-01/mms/2039199114",
+      "http://id.who.int/icd/release/11/2025-01/mms/844739135/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/844739135/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#844739135",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/844739135",
+    "classKind": "block",
+    "blockId": "BlockL4-SS7",
+    "codeRange": "SS70-SS7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Temperament based patterns (TM2)"
+    }
+  }
+}

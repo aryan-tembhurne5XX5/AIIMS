@@ -1,0 +1,362 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/85602009",
+  "id": "85602009",
+  "title": "Cervicobrachial pain disorder (TM2)",
+  "code": "SK51",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Cervicobrachial pain disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cervicobrachial pain disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) viśvācī (b) Cirakkampa vātam (c) Waja‘ al-‘Unuq ‘Aṣabī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viśvācī (b) Cirakkampa vātam (c) Waja‘ al-‘Unuq ‘Aṣabī"
+        }
+      }
+    },
+    {
+      "text": "(c) Wābila",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Wābila"
+        }
+      }
+    },
+    {
+      "text": "Cervicobrachial neuralgia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cervicobrachial neuralgia (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Peripheral neuritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/364625249",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/364625249"
+      }
+    },
+    {
+      "text": "(a) Vātakarṣaṇam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/364625249",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Vātakarṣaṇam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/364625249"
+      }
+    },
+    {
+      "text": "Three humours affected leading to seizure disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/170742997",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Three humours affected leading to seizure disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/170742997"
+      }
+    },
+    {
+      "text": "(b) Cuka caṉṉi",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/170742997",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuka caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/170742997"
+      }
+    },
+    {
+      "text": "Tetanus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/10548153",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tetanus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/10548153"
+      }
+    },
+    {
+      "text": "(b) Aṣṭa tantira vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/10548153",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aṣṭa tantira vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/10548153"
+      }
+    },
+    {
+      "text": "Aggrevation of Aẕal causing neuralgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1640417330",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggrevation of Aẕal causing neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1640417330"
+      }
+    },
+    {
+      "text": "(b) Timir pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1640417330",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Timir pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1640417330"
+      }
+    },
+    {
+      "text": "Peripheral neuralgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/749069122",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/749069122"
+      }
+    },
+    {
+      "text": "(b) Eripittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/749069122",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eripittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/749069122"
+      }
+    },
+    {
+      "text": "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/640173102",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/640173102"
+      }
+    },
+    {
+      "text": "(b) Vāta upakatam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/640173102",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vāta upakatam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/640173102"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#85602009",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:18.332165",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/85602009",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#85602009",
+    "code": "SK51",
+    "source": "http://id.who.int/icd/entity/85602009",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Cervicobrachial pain disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cervicobrachial pain disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viśvācī (b) Cirakkampa vātam (c) Waja‘ al-‘Unuq ‘Aṣabī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Wābila"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cervicobrachial neuralgia (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuritis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/364625249"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Vātakarṣaṇam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/364625249"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Three humours affected leading to seizure disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/170742997"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuka caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/170742997"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tetanus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/10548153"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aṣṭa tantira vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/10548153"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggrevation of Aẕal causing neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1640417330"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Timir pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1640417330"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/749069122"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eripittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/749069122"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Peripheral neuritis due to derangement of Vaḷi disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/640173102"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vāta upakatam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/640173102"
+      }
+    ]
+  }
+}

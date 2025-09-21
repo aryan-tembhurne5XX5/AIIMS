@@ -1,0 +1,285 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/712135242",
+  "id": "712135242",
+  "title": "Personality with a confused, negative mindset (TM2)",
+  "code": "SS62",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Personality with a confused, negative mindset (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with a confused, negative mindset (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Tamas predominant pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tamas predominant pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) tāmasikakāya",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tāmasikakāya"
+        }
+      }
+    },
+    {
+      "text": "Person with coward, unintelligent temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1462377456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with coward, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      }
+    },
+    {
+      "text": "(a) pāśavakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1462377456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāśavakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      }
+    },
+    {
+      "text": "(a) pāśavasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1462377456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāśavasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      }
+    },
+    {
+      "text": "Person with timid, unintelligent temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1468902274",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with timid, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      }
+    },
+    {
+      "text": "(a) matsyakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1468902274",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) matsyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      }
+    },
+    {
+      "text": "(a) mātsyasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1468902274",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mātsyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      }
+    },
+    {
+      "text": "Person with lazy, unintelligent temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/126767641",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with lazy, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      }
+    },
+    {
+      "text": "(a) vānaspatyakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/126767641",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vānaspatyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      }
+    },
+    {
+      "text": "(a) vānaspatyasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/126767641",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vānaspatyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#712135242",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "640597431"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:36.208699",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/712135242",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#712135242",
+    "code": "SS62",
+    "source": "http://id.who.int/icd/entity/712135242",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Personality with a confused, negative mindset (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with a confused, negative mindset (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tamas predominant pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tāmasikakāya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with coward, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāśavakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pāśavasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1462377456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with timid, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) matsyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mātsyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1468902274"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with lazy, unintelligent temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vānaspatyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vānaspatyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/126767641"
+      }
+    ]
+  }
+}

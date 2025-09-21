@@ -1,0 +1,225 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1059449428",
+  "id": "1059449428",
+  "title": "Alcoholism disorder (TM2)",
+  "code": "SQ20",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Alcoholism disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholism disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) madātyayaḥ (b) Kuṭi veṟi nōy (c) Kathrat-i-Sharāb Noshī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madātyayaḥ (b) Kuṭi veṟi nōy (c) Kathrat-i-Sharāb Noshī"
+        }
+      }
+    },
+    {
+      "text": "(a) pānātyayaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pānātyayaḥ"
+        }
+      }
+    },
+    {
+      "text": "Alcoholic headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/934805539",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/934805539"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Khumārī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/934805539",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Khumārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/934805539"
+      }
+    },
+    {
+      "text": "Intoxicating ephemeral fever disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1481226890",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intoxicating ephemeral fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1481226890"
+      }
+    },
+    {
+      "text": "(c) Ḥummā al-Yawm Sharābiyya",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1481226890",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Yawm Sharābiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1481226890"
+      }
+    },
+    {
+      "text": "Alcoholic tremors disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1032984383",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic tremors disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1032984383"
+      }
+    },
+    {
+      "text": "(c) Ra‘sha Sharābiyya",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1032984383",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ra‘sha Sharābiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1032984383"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/420567170"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1059449428",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "420567170"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:57.844740",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1059449428",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/420567170"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1059449428",
+    "code": "SQ20",
+    "source": "http://id.who.int/icd/entity/1059449428",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Alcoholism disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholism disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madātyayaḥ (b) Kuṭi veṟi nōy (c) Kathrat-i-Sharāb Noshī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pānātyayaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/934805539"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Khumārī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/934805539"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intoxicating ephemeral fever disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1481226890"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥummā al-Yawm Sharābiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1481226890"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic tremors disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1032984383"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ra‘sha Sharābiyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1032984383"
+      }
+    ]
+  }
+}

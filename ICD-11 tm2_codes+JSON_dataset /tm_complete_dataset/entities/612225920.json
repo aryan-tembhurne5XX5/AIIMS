@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/612225920",
+  "id": "612225920",
+  "title": "Coryza and catarrh disorder (TM2)",
+  "code": "SK96",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Coryza and catarrh disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Coryza and catarrh disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ghrāṇasrāvaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ghrāṇasrāvaḥ"
+        }
+      }
+    },
+    {
+      "text": "(a) nāsāsrāvaḥ (b) Mūkku nīrppāyccal (c) Nazla",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nāsāsrāvaḥ (b) Mūkku nīrppāyccal (c) Nazla"
+        }
+      }
+    },
+    {
+      "text": "Coryza disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/787510292",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Coryza disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/787510292"
+      }
+    },
+    {
+      "text": "(c) Zukām",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/787510292",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zukām"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/787510292"
+      }
+    },
+    {
+      "text": "Thick saltish nasal discharge disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1439789379",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Thick saltish nasal discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1439789379"
+      }
+    },
+    {
+      "text": "(a) bhraṃśathuḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1439789379",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bhraṃśathuḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1439789379"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#612225920",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "341642327"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:18.378348",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/612225920",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/341642327"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#612225920",
+    "code": "SK96",
+    "source": "http://id.who.int/icd/entity/612225920",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Coryza and catarrh disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Coryza and catarrh disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ghrāṇasrāvaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nāsāsrāvaḥ (b) Mūkku nīrppāyccal (c) Nazla"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Coryza disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/787510292"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Zukām"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/787510292"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Thick saltish nasal discharge disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1439789379"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bhraṃśathuḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1439789379"
+      }
+    ]
+  }
+}

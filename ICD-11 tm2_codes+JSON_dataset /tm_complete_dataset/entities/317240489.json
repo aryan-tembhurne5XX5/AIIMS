@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/317240489",
+  "id": "317240489",
+  "title": "Enuresis disorder (TM1)",
+  "code": "SB02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Enuresis disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Enuresis disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#317240489",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "214862500"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:30.984991",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/317240489",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#317240489",
+    "code": "SB02",
+    "source": "http://id.who.int/icd/entity/317240489",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Enuresis disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Enuresis disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1798710974",
+  "id": "1798710974",
+  "title": "Endocervicitis disorder (TM2)",
+  "code": "SM91",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Endocervicitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Endocervicitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) karṇinī (b) Karuppaik kaẕuntu uḷpuṟa aẕaṟci",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇinī (b) Karuppaik kaẕuntu uḷpuṟa aẕaṟci"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1798710974",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:30.799294",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1798710974",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1798710974",
+    "code": "SM91",
+    "source": "http://id.who.int/icd/entity/1798710974",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Endocervicitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Endocervicitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) karṇinī (b) Karuppaik kaẕuntu uḷpuṟa aẕaṟci"
+        }
+      }
+    ]
+  }
+}

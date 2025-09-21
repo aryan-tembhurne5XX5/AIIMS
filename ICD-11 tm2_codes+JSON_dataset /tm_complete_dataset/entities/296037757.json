@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/296037757",
+  "id": "296037757",
+  "title": "Lumbo-sacroiliac disorder (TM2)",
+  "code": "SP43",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lumbo-sacroiliac disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbo-sacroiliac disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Vātastampam (c) Waja‘ al-Khāṣira",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātastampam (c) Waja‘ al-Khāṣira"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#296037757",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:05.113276",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/296037757",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#296037757",
+    "code": "SP43",
+    "source": "http://id.who.int/icd/entity/296037757",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lumbo-sacroiliac disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lumbo-sacroiliac disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātastampam (c) Waja‘ al-Khāṣira"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/920582243",
+  "id": "920582243",
+  "title": "Integumentary disorder (TM2)",
+  "code": "SN49",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Integumentary disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) dhātugatakuṣṭhaḥ (b) Ciraṅkup perunōy (c) Judhām",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dhātugatakuṣṭhaḥ (b) Ciraṅkup perunōy (c) Judhām"
+        }
+      }
+    },
+    {
+      "text": "(b) Pāma kuṭṭam (c) Al-‘Illa al-Kubrā",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pāma kuṭṭam (c) Al-‘Illa al-Kubrā"
+        }
+      }
+    },
+    {
+      "text": "Integumentary disorder due to vata (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/557452938",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/557452938"
+      }
+    },
+    {
+      "text": "(a) kapālaḥ, (a) aruṇa-kuṣṭhaḥ, (a) vātikakuṣṭhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/557452938",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālaḥ, (a) aruṇa-kuṣṭhaḥ, (a) vātikakuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/557452938"
+      }
+    },
+    {
+      "text": "Integumentary disorder due to kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/733456870",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/733456870"
+      }
+    },
+    {
+      "text": "(a) maṇḍalakuṣṭhaḥ, (a) kaphajakuṣṭhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/733456870",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) maṇḍalakuṣṭhaḥ, (a) kaphajakuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/733456870"
+      }
+    },
+    {
+      "text": "Integumentary disorder due to pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1336407411",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336407411"
+      }
+    },
+    {
+      "text": "(a) udumbara-kuṣṭhaḥ, (a) paittika-kuṣṭhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1336407411",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udumbara-kuṣṭhaḥ, (a) paittika-kuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336407411"
+      }
+    },
+    {
+      "text": "Integumentary disorder due to pitta and kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1160401439",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to pitta and kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1160401439"
+      }
+    },
+    {
+      "text": "(a) puṇḍarīkaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1160401439",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) puṇḍarīkaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1160401439"
+      }
+    },
+    {
+      "text": "Integumentary disorder due to vata and pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1166926447",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to vata and pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1166926447"
+      }
+    },
+    {
+      "text": "(a) ṛṣyajihvakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1166926447",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṛṣyajihvakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1166926447"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#920582243",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:14.055297",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/920582243",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#920582243",
+    "code": "SN49",
+    "source": "http://id.who.int/icd/entity/920582243",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Integumentary disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dhātugatakuṣṭhaḥ (b) Ciraṅkup perunōy (c) Judhām"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pāma kuṭṭam (c) Al-‘Illa al-Kubrā"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/557452938"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kapālaḥ, (a) aruṇa-kuṣṭhaḥ, (a) vātikakuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/557452938"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/733456870"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) maṇḍalakuṣṭhaḥ, (a) kaphajakuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/733456870"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336407411"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udumbara-kuṣṭhaḥ, (a) paittika-kuṣṭhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1336407411"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to pitta and kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1160401439"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) puṇḍarīkaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1160401439"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Integumentary disorder due to vata and pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1166926447"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṛṣyajihvakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1166926447"
+      }
+    ]
+  }
+}

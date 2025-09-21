@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/375213785",
+  "id": "375213785",
+  "title": "General debility disorder (TM2)",
+  "code": "SP9A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "General debility disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "General debility disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) daurbalyam (b) Tēka vaṉmai kuṟaivu (c) Ḍu‘f-i-‘Ām",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daurbalyam (b) Tēka vaṉmai kuṟaivu (c) Ḍu‘f-i-‘Ām"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#375213785",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:44.506059",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/375213785",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#375213785",
+    "code": "SP9A",
+    "source": "http://id.who.int/icd/entity/375213785",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "General debility disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "General debility disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) daurbalyam (b) Tēka vaṉmai kuṟaivu (c) Ḍu‘f-i-‘Ām"
+        }
+      }
+    ]
+  }
+}

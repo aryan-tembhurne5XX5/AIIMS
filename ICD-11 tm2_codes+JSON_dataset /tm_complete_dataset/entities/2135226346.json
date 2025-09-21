@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2135226346",
+  "id": "2135226346",
+  "title": "Kidney deficiency with marrow depletion pattern (TM1)",
+  "code": "SF95",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Kidney deficiency with marrow depletion pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Kidney deficiency with marrow depletion pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/561238214"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2135226346",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "561238214"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:27.418914",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2135226346",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/561238214"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2135226346",
+    "code": "SF95",
+    "source": "http://id.who.int/icd/entity/2135226346",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Kidney deficiency with marrow depletion pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Kidney deficiency with marrow depletion pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

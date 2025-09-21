@@ -1,0 +1,847 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2032525894",
+  "id": "2032525894",
+  "title": "Jaundice disorder (TM2)",
+  "code": "SM41",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Jaundice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kāmalā (b) Mañcaḷ nōy (c) Yarqān Aṣfar",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kāmalā (b) Mañcaḷ nōy (c) Yarqān Aṣfar"
+        }
+      }
+    },
+    {
+      "text": "Severe jaundice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/159071881",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Severe jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/159071881"
+      }
+    },
+    {
+      "text": "(a) lakharaka",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/159071881",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lakharaka"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/159071881"
+      }
+    },
+    {
+      "text": "Hepatocellular jaundice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1835754012",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatocellular jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835754012"
+      }
+    },
+    {
+      "text": "(a) koṣṭhāśrita-kāmalā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1835754012",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) koṣṭhāśrita-kāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835754012"
+      }
+    },
+    {
+      "text": "Jaundice disorder with dry and hardened bodily tissues (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1743177072",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with dry and hardened bodily tissues (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743177072"
+      }
+    },
+    {
+      "text": "(a) kumbhakāmalā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1743177072",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kumbhakāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743177072"
+      }
+    },
+    {
+      "text": "Obstructive jaundice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/37578949",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Obstructive jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/37578949"
+      }
+    },
+    {
+      "text": "(a) śākhāśrita-kāmalā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/37578949",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākhāśrita-kāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/37578949"
+      }
+    },
+    {
+      "text": "Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1214940578",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1214940578"
+      }
+    },
+    {
+      "text": "(b) Mukkuṟṟa mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1214940578",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1214940578"
+      }
+    },
+    {
+      "text": "Advanced stage of jaundice disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1122443982",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Advanced stage of jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1122443982"
+      }
+    },
+    {
+      "text": "(a) halīmaka",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1122443982",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) halīmaka"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1122443982"
+      }
+    },
+    {
+      "text": "Jaundice disorder of children (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/940431037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder of children (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940431037"
+      }
+    },
+    {
+      "text": "(b) Kāmālai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/940431037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāmālai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940431037"
+      }
+    },
+    {
+      "text": "Jaundice disorder with abdominal pain (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1476160534",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with abdominal pain (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476160534"
+      }
+    },
+    {
+      "text": "(b) Kuṉma mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1476160534",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuṉma mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476160534"
+      }
+    },
+    {
+      "text": "Jaundice disorder with dysentery (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/316584861",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with dysentery (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316584861"
+      }
+    },
+    {
+      "text": "(b) Kumpa mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/316584861",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kumpa mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316584861"
+      }
+    },
+    {
+      "text": "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2074245727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2074245727"
+      }
+    },
+    {
+      "text": "(b) Vaḷi aiya mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2074245727",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2074245727"
+      }
+    },
+    {
+      "text": "Jaundice disorder with gait disturbances and night blindness (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1898962227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with gait disturbances and night blindness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1898962227"
+      }
+    },
+    {
+      "text": "(b) Vaṟaḷ mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1898962227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaṟaḷ mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1898962227"
+      }
+    },
+    {
+      "text": "Jaundice disorder due to combination two humors (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1539240179",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to combination two humors (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1539240179"
+      }
+    },
+    {
+      "text": "(b) Tonta mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1539240179",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tonta mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1539240179"
+      }
+    },
+    {
+      "text": "Jaundice disorder with male sterility (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1909073315",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with male sterility (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1909073315"
+      }
+    },
+    {
+      "text": "(b) Peru mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1909073315",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Peru mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1909073315"
+      }
+    },
+    {
+      "text": "Jaundice disorder with cardiac dysfunction (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/336693270",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with cardiac dysfunction (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/336693270"
+      }
+    },
+    {
+      "text": "(b) Ceṅkamala mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/336693270",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ceṅkamala mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/336693270"
+      }
+    },
+    {
+      "text": "Jaundice disorder caused by increased Aẕal Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2126452559",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Aẕal Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2126452559"
+      }
+    },
+    {
+      "text": "(b) Aẕal aiya mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2126452559",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2126452559"
+      }
+    },
+    {
+      "text": "Jaundice disorder caused by increased Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1422639647",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1422639647"
+      }
+    },
+    {
+      "text": "(b) Vaḷi mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1422639647",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1422639647"
+      }
+    },
+    {
+      "text": "Jaundice disorder due to aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1264397227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1264397227"
+      }
+    },
+    {
+      "text": "(b) Aiya mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1264397227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1264397227"
+      }
+    },
+    {
+      "text": "Jaundice disorder with urethritis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1630142203",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with urethritis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1630142203"
+      }
+    },
+    {
+      "text": "(b) Aẕaku mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1630142203",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕaku mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1630142203"
+      }
+    },
+    {
+      "text": "Jaundice disorder caused by increased Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/604709236",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604709236"
+      }
+    },
+    {
+      "text": "(b) Aẕal mañcaḷ nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/604709236",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604709236"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1978089630"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2032525894",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1978089630"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:49.997326",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2032525894",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1978089630"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2032525894",
+    "code": "SM41",
+    "source": "http://id.who.int/icd/entity/2032525894",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Jaundice disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kāmalā (b) Mañcaḷ nōy (c) Yarqān Aṣfar"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Severe jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/159071881"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lakharaka"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/159071881"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatocellular jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835754012"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) koṣṭhāśrita-kāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835754012"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with dry and hardened bodily tissues (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743177072"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kumbhakāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743177072"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Obstructive jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/37578949"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākhāśrita-kāmalā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/37578949"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to increased Vaḷi, Aẕal and Aiya kutram (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1214940578"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1214940578"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Advanced stage of jaundice disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1122443982"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) halīmaka"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1122443982"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder of children (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940431037"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāmālai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940431037"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with abdominal pain (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476160534"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuṉma mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1476160534"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with dysentery (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316584861"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kumpa mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316584861"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to increased Vaḷi and Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2074245727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2074245727"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with gait disturbances and night blindness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1898962227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaṟaḷ mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1898962227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to combination two humors (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1539240179"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tonta mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1539240179"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with male sterility (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1909073315"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Peru mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1909073315"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with cardiac dysfunction (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/336693270"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ceṅkamala mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/336693270"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Aẕal Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2126452559"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2126452559"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1422639647"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1422639647"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder due to aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1264397227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1264397227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder with urethritis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1630142203"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕaku mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1630142203"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Jaundice disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604709236"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal mañcaḷ nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604709236"
+      }
+    ]
+  }
+}

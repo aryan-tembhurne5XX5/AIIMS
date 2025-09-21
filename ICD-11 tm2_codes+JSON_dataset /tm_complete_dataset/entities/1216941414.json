@@ -1,0 +1,73 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1216941414",
+  "id": "1216941414",
+  "title": "Menstruation associated disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1156594276",
+    "http://id.who.int/icd/release/11/2025-01/mms/2003357330",
+    "http://id.who.int/icd/release/11/2025-01/mms/823651501",
+    "http://id.who.int/icd/release/11/2025-01/mms/1974913461",
+    "http://id.who.int/icd/release/11/2025-01/mms/51084411",
+    "http://id.who.int/icd/release/11/2025-01/mms/868871050",
+    "http://id.who.int/icd/release/11/2025-01/mms/1932827470",
+    "http://id.who.int/icd/release/11/2025-01/mms/46039400",
+    "http://id.who.int/icd/release/11/2025-01/mms/1216941414/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1216941414/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1216941414",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 10,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:10.137994",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1216941414",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/634206253"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1156594276",
+      "http://id.who.int/icd/release/11/2025-01/mms/2003357330",
+      "http://id.who.int/icd/release/11/2025-01/mms/823651501",
+      "http://id.who.int/icd/release/11/2025-01/mms/1974913461",
+      "http://id.who.int/icd/release/11/2025-01/mms/51084411",
+      "http://id.who.int/icd/release/11/2025-01/mms/868871050",
+      "http://id.who.int/icd/release/11/2025-01/mms/1932827470",
+      "http://id.who.int/icd/release/11/2025-01/mms/46039400",
+      "http://id.who.int/icd/release/11/2025-01/mms/1216941414/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1216941414/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1216941414",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1216941414",
+    "classKind": "block",
+    "blockId": "BlockL5-SB8",
+    "codeRange": "SB80-SB9Z",
+    "title": {
+      "@language": "en",
+      "@value": "Menstruation associated disorders (TM1)"
+    }
+  }
+}

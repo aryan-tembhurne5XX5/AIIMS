@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1752148615",
+  "id": "1752148615",
+  "title": "Liver-gallbladder dampness-heat pattern (TM1)",
+  "code": "SF5A",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Liver-gallbladder dampness-heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver-gallbladder dampness-heat pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Damp-heat in liver-gallbladder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Damp-heat in liver-gallbladder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1752148615",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1628485143"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:58.969499",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1752148615",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1752148615",
+    "code": "SF5A",
+    "source": "http://id.who.int/icd/entity/1752148615",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Liver-gallbladder dampness-heat pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver-gallbladder dampness-heat pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Damp-heat in liver-gallbladder (TM1)"
+        }
+      }
+    ]
+  }
+}

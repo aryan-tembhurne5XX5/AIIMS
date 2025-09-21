@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/330029133",
+  "id": "330029133",
+  "title": "Childhood age pattern (TM2)",
+  "code": "SS83",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Childhood age pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Childhood age pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) Pālaṉ",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pālaṉ"
+        }
+      }
+    },
+    {
+      "text": "(b) Kāppu Cĕṅkīrai Tālāṭṭu Cappāṇi Muttam Varukai Ampuli Ciṟṟil, (b) nīrāṭal Ciṟupaṟai",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāppu Cĕṅkīrai Tālāṭṭu Cappāṇi Muttam Varukai Ampuli Ciṟṟil, (b) nīrāṭal Ciṟupaṟai"
+        }
+      }
+    },
+    {
+      "text": "(b) ammāṉai Ciṟuter, (b) ūcal Pālaṉ, (b) petai",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) ammāṉai Ciṟuter, (b) ūcal Pālaṉ, (b) petai"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#330029133",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "1219708494"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:49.060211",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/330029133",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#330029133",
+    "code": "SS83",
+    "source": "http://id.who.int/icd/entity/330029133",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Childhood age pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Childhood age pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pālaṉ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kāppu Cĕṅkīrai Tālāṭṭu Cappāṇi Muttam Varukai Ampuli Ciṟṟil, (b) nīrāṭal Ciṟupaṟai"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) ammāṉai Ciṟuter, (b) ūcal Pālaṉ, (b) petai"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/559754689",
+  "id": "559754689",
+  "title": "Hemiplegia disorder (TM2)",
+  "code": "SK22",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hemiplegia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hemiplegia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pakṣāghāta (b) Pakṣavātam (c) Fālij",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pakṣāghāta (b) Pakṣavātam (c) Fālij"
+        }
+      }
+    },
+    {
+      "text": "(a) pakṣavadhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pakṣavadhaḥ"
+        }
+      }
+    },
+    {
+      "text": "Incomplete hemiplegia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/735087277",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Incomplete hemiplegia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/735087277"
+      }
+    },
+    {
+      "text": "(b) Pakka vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/735087277",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pakka vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/735087277"
+      }
+    },
+    {
+      "text": "Hemiplegia in children disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/729234141",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hemiplegia in children disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/729234141"
+      }
+    },
+    {
+      "text": "(a) bāla-pakṣāghātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/729234141",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bāla-pakṣāghātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/729234141"
+      }
+    },
+    {
+      "text": "Monoplegia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1629542330",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Monoplegia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1629542330"
+      }
+    },
+    {
+      "text": "(a) ekāṅgavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1629542330",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ekāṅgavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1629542330"
+      }
+    },
+    {
+      "text": "Total body paralysis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1003923813",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Total body paralysis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      }
+    },
+    {
+      "text": "(a) sarvāṅgavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1003923813",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvāṅgavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      }
+    },
+    {
+      "text": "Quadriplegia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1003923813",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Quadriplegia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      }
+    },
+    {
+      "text": "(a) sarvāṅgarogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1003923813",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvāṅgarogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      }
+    },
+    {
+      "text": "Tongue paralysis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1094475028",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tongue paralysis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1094475028"
+      }
+    },
+    {
+      "text": "(a) jihvāstambhaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1094475028",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) jihvāstambhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1094475028"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/623633507"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#559754689",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "623633507"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:12.792604",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/559754689",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/623633507"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#559754689",
+    "code": "SK22",
+    "source": "http://id.who.int/icd/entity/559754689",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hemiplegia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hemiplegia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pakṣāghāta (b) Pakṣavātam (c) Fālij"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pakṣavadhaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Incomplete hemiplegia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/735087277"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pakka vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/735087277"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hemiplegia in children disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/729234141"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bāla-pakṣāghātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/729234141"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Monoplegia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1629542330"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ekāṅgavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1629542330"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Total body paralysis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvāṅgavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Quadriplegia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarvāṅgarogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1003923813"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tongue paralysis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1094475028"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) jihvāstambhaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1094475028"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/914462183",
+  "id": "914462183",
+  "title": "Phlyctenular nodule disorder (TM2)",
+  "code": "SK6T",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Phlyctenular nodule disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Phlyctenular nodule disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sirājapiḍakā (c) Ramad Buthūrī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirājapiḍakā (c) Ramad Buthūrī"
+        }
+      }
+    },
+    {
+      "text": "(a) sirāpiḍakā (c) Wadaqa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirāpiḍakā (c) Wadaqa"
+        }
+      }
+    },
+    {
+      "text": "(b) Parumuḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Parumuḷai"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#914462183",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:54.108924",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/914462183",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#914462183",
+    "code": "SK6T",
+    "source": "http://id.who.int/icd/entity/914462183",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Phlyctenular nodule disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Phlyctenular nodule disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirājapiḍakā (c) Ramad Buthūrī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sirāpiḍakā (c) Wadaqa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Parumuḷai"
+        }
+      }
+    ]
+  }
+}

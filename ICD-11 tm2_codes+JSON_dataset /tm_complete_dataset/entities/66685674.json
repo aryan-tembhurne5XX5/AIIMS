@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/66685674",
+  "id": "66685674",
+  "title": "Blood phase pattern (TM1)",
+  "code": "SH10",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Blood phase pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood phase pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Blood and heat pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blood and heat pattern (TM)"
+        }
+      }
+    },
+    {
+      "text": "Interior harassing pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Interior harassing pattern (TM)"
+        }
+      }
+    },
+    {
+      "text": "Excess heat in the blood aspect pattern (TM)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Excess heat in the blood aspect pattern (TM)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/284041108"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#66685674",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "626065726",
+    "284041108"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:32.275700",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/66685674",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/284041108"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#66685674",
+    "code": "SH10",
+    "source": "http://id.who.int/icd/entity/66685674",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Blood phase pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood phase pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blood and heat pattern (TM)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Interior harassing pattern (TM)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Excess heat in the blood aspect pattern (TM)"
+        }
+      }
+    ]
+  }
+}

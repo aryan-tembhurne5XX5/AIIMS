@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/655567499",
+  "id": "655567499",
+  "title": "Vitiligo disorder (TM2)",
+  "code": "SN4D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Vitiligo disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vitiligo disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Leucoderma (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śvitraḥ (b) Veṇpuḷḷi (c) Baraṣ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śvitraḥ (b) Veṇpuḷḷi (c) Baraṣ"
+        }
+      }
+    },
+    {
+      "text": "Leucoderma disorder caused by increased Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/199920818",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199920818"
+      }
+    },
+    {
+      "text": "(b) Pitta veṇpaṭai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/199920818",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta veṇpaṭai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199920818"
+      }
+    },
+    {
+      "text": "Leucoderma disorder caused by increased heat (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/23538654",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma disorder caused by increased heat (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/23538654"
+      }
+    },
+    {
+      "text": "(b) Mēka veṇpaṭai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/23538654",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mēka veṇpaṭai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/23538654"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#655567499",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:18.213756",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/655567499",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#655567499",
+    "code": "SN4D",
+    "source": "http://id.who.int/icd/entity/655567499",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Vitiligo disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vitiligo disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śvitraḥ (b) Veṇpuḷḷi (c) Baraṣ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199920818"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta veṇpaṭai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/199920818"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Leucoderma disorder caused by increased heat (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/23538654"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mēka veṇpaṭai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/23538654"
+      }
+    ]
+  }
+}

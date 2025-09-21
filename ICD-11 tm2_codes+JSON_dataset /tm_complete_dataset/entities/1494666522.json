@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1494666522",
+  "id": "1494666522",
+  "title": "Lymphadenopathy disorder (TM2)",
+  "code": "SM00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lymphadenopathy disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lymphadenopathy disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) apacī (b) Akkuḷ nilappūcaṇi kaṭṭi",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apacī (b) Akkuḷ nilappūcaṇi kaṭṭi"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1494666522",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:55.176869",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1494666522",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1494666522",
+    "code": "SM00",
+    "source": "http://id.who.int/icd/entity/1494666522",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lymphadenopathy disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lymphadenopathy disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) apacī (b) Akkuḷ nilappūcaṇi kaṭṭi"
+        }
+      }
+    ]
+  }
+}

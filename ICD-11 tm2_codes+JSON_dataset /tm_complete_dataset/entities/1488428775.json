@@ -1,0 +1,1385 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1488428775",
+  "id": "1488428775",
+  "title": "Cephalalgia disorder (TM2)",
+  "code": "SK00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Cephalalgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cephalalgia disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śiraḥśūla, (b) Maṇṭaikkuttiyal, (c) Ṣudā‘",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śiraḥśūla, (b) Maṇṭaikkuttiyal, (c) Ṣudā‘"
+        }
+      }
+    },
+    {
+      "text": "(a) śiroruk",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śiroruk"
+        }
+      }
+    },
+    {
+      "text": "Heaviness of head disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/316699522",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Heaviness of head disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316699522"
+      }
+    },
+    {
+      "text": "(b) Maṇṭai kaṇappu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/316699522",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai kaṇappu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316699522"
+      }
+    },
+    {
+      "text": "Scalp pain disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1209404767",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp pain disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1209404767"
+      }
+    },
+    {
+      "text": "(b) Maṇṭai cūlai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1209404767",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1209404767"
+      }
+    },
+    {
+      "text": "Aiya aggravation and headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2065018174",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aiya aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065018174"
+      }
+    },
+    {
+      "text": "(b) Cilēṭṭuma talai nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2065018174",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilēṭṭuma talai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065018174"
+      }
+    },
+    {
+      "text": "Mukkuṟṟam aggravation and headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/633060687",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Mukkuṟṟam aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633060687"
+      }
+    },
+    {
+      "text": "(b) Caṉṉivāta nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/633060687",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Caṉṉivāta nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633060687"
+      }
+    },
+    {
+      "text": "Vaḷi aggravation and headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/792074787",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaḷi aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792074787"
+      }
+    },
+    {
+      "text": "(b) Vātattalai nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/792074787",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātattalai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792074787"
+      }
+    },
+    {
+      "text": "Cluster headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1410801524",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cluster headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1410801524"
+      }
+    },
+    {
+      "text": "(b) Oru talaiyiṉ vartam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1410801524",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Oru talaiyiṉ vartam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1410801524"
+      }
+    },
+    {
+      "text": "Circumferential headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/507572759",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Circumferential headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      }
+    },
+    {
+      "text": "(c) Bayḍa-o-Khūdha",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/507572759",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bayḍa-o-Khūdha"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      }
+    },
+    {
+      "text": "Organic Headache (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/507572759",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Organic Headache (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      }
+    },
+    {
+      "text": "Helmet Headache (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/507572759",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Helmet Headache (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      }
+    },
+    {
+      "text": "Catarrhal headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1907443904",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Catarrhal headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1907443904"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Nazlī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1907443904",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Nazlī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1907443904"
+      }
+    },
+    {
+      "text": "Headache due to weakness of brain disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/190561487",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to weakness of brain disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/190561487"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Ḍu‘f Dimāghī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/190561487",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḍu‘f Dimāghī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/190561487"
+      }
+    },
+    {
+      "text": "Occipital headache due to hypertension disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1370341906",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Occipital headache due to hypertension disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1370341906"
+      }
+    },
+    {
+      "text": "(b) SIratta pitta nōkkāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1370341906",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) SIratta pitta nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1370341906"
+      }
+    },
+    {
+      "text": "Head disorder due to depletion of fundamental structural components disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/880177063",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Head disorder due to depletion of fundamental structural components disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880177063"
+      }
+    },
+    {
+      "text": "(a) kṣayajaśirorogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/880177063",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣayajaśirorogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880177063"
+      }
+    },
+    {
+      "text": "Temporal headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/262008259",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Temporal headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/262008259"
+      }
+    },
+    {
+      "text": "(a) śaṅkhakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/262008259",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śaṅkhakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/262008259"
+      }
+    },
+    {
+      "text": "Throbbing headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/84953775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Throbbing headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/84953775"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Ḍarabānī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/84953775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḍarabānī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/84953775"
+      }
+    },
+    {
+      "text": "Headache due to smell disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/28171409",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to smell disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28171409"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Shammī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/28171409",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shammī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28171409"
+      }
+    },
+    {
+      "text": "Trigeminal neuralgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2068261090",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Trigeminal neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2068261090"
+      }
+    },
+    {
+      "text": "(a) anantavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2068261090",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anantavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2068261090"
+      }
+    },
+    {
+      "text": "Referred headache due to the involvement of the liver disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1865426792",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the liver disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1865426792"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Shirkī Kabidī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1865426792",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shirkī Kabidī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1865426792"
+      }
+    },
+    {
+      "text": "Referred headache due to the involvement of the peritoneum disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/183208669",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the peritoneum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/183208669"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Marāqī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/183208669",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Marāqī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/183208669"
+      }
+    },
+    {
+      "text": "Referred headache due to the involvement of the stomach disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/633371261",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the stomach disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633371261"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Shirkī Mi‘dī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/633371261",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shirkī Mi‘dī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633371261"
+      }
+    },
+    {
+      "text": "Headache due to derangement of Ṣafrā’ disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/793632017",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/793632017"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Ṣafrāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/793632017",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/793632017"
+      }
+    },
+    {
+      "text": "Headache due to derangement of Balgham disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/98365649",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/98365649"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Balghamī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/98365649",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/98365649"
+      }
+    },
+    {
+      "text": "Inflammatory headache disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/256989117",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammatory headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/256989117"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Waramī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/256989117",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Waramī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/256989117"
+      }
+    },
+    {
+      "text": "Headache due to external Bukhārāt disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/267839437",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to external Bukhārāt disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267839437"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Bukhārī Khārijī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/267839437",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bukhārī Khārijī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267839437"
+      }
+    },
+    {
+      "text": "Headache due to excessive coldness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1550804057",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to excessive coldness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1550804057"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Bārid",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1550804057",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1550804057"
+      }
+    },
+    {
+      "text": "Headache due to excessive hotness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923491639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to excessive hotness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923491639"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Ḥārr",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1923491639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923491639"
+      }
+    },
+    {
+      "text": "Headache due to external Rīḥ disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/139252550",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to external Rīḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139252550"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Rīḥī Khārijī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/139252550",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Rīḥī Khārijī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139252550"
+      }
+    },
+    {
+      "text": "Headache due to derangement of Dam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/473685200",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/473685200"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Damawī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/473685200",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/473685200"
+      }
+    },
+    {
+      "text": "Headache due to derangement of Sawdā’ disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2044752251",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2044752251"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Sawdāwī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2044752251",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2044752251"
+      }
+    },
+    {
+      "text": "Headache due to internal Bukhārāt disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1456177627",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to internal Bukhārāt disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1456177627"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Bukhārī Dākhilī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1456177627",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bukhārī Dākhilī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1456177627"
+      }
+    },
+    {
+      "text": "Headache due to internal Rīḥ disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1548101303",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to internal Rīḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548101303"
+      }
+    },
+    {
+      "text": "(c) Ṣudā‘ Rīḥī Dākhilī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1548101303",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Rīḥī Dākhilī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548101303"
+      }
+    },
+    {
+      "text": "Sunshine induced cephalalgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1993804663",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sunshine induced cephalalgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1993804663"
+      }
+    },
+    {
+      "text": "(a) sūryāvartaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1993804663",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sūryāvartaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1993804663"
+      }
+    },
+    {
+      "text": "Headache due to infestation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2086317083",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to infestation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2086317083"
+      }
+    },
+    {
+      "text": "(a) kṛmija-śirorogaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2086317083",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmija-śirorogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2086317083"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1896371070"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1488428775",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "627880448",
+    "1896371070"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:05.227723",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1488428775",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1896371070"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1488428775",
+    "code": "SK00",
+    "source": "http://id.who.int/icd/entity/1488428775",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Cephalalgia disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cephalalgia disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śiraḥśūla, (b) Maṇṭaikkuttiyal, (c) Ṣudā‘"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śiroruk"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Heaviness of head disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316699522"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai kaṇappu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316699522"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Scalp pain disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1209404767"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Maṇṭai cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1209404767"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aiya aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065018174"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilēṭṭuma talai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065018174"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Mukkuṟṟam aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633060687"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Caṉṉivāta nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633060687"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaḷi aggravation and headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792074787"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātattalai nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/792074787"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cluster headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1410801524"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Oru talaiyiṉ vartam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1410801524"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Circumferential headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Bayḍa-o-Khūdha"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Organic Headache (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Helmet Headache (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/507572759"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Catarrhal headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1907443904"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Nazlī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1907443904"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to weakness of brain disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/190561487"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḍu‘f Dimāghī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/190561487"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Occipital headache due to hypertension disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1370341906"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) SIratta pitta nōkkāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1370341906"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Head disorder due to depletion of fundamental structural components disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880177063"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣayajaśirorogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880177063"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Temporal headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/262008259"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śaṅkhakaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/262008259"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Throbbing headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/84953775"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḍarabānī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/84953775"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to smell disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28171409"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shammī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28171409"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Trigeminal neuralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2068261090"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anantavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2068261090"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the liver disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1865426792"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shirkī Kabidī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1865426792"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the peritoneum disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/183208669"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Marāqī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/183208669"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Referred headache due to the involvement of the stomach disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633371261"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Shirkī Mi‘dī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/633371261"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Ṣafrā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/793632017"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/793632017"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Balgham disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/98365649"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/98365649"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Inflammatory headache disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/256989117"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Waramī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/256989117"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to external Bukhārāt disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267839437"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bukhārī Khārijī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/267839437"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to excessive coldness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1550804057"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bārid"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1550804057"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to excessive hotness disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923491639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1923491639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to external Rīḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139252550"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Rīḥī Khārijī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/139252550"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Dam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/473685200"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/473685200"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to derangement of Sawdā’ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2044752251"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2044752251"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to internal Bukhārāt disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1456177627"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Bukhārī Dākhilī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1456177627"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to internal Rīḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548101303"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣudā‘ Rīḥī Dākhilī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548101303"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sunshine induced cephalalgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1993804663"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sūryāvartaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1993804663"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Headache due to infestation disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2086317083"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛmija-śirorogaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2086317083"
+      }
+    ]
+  }
+}

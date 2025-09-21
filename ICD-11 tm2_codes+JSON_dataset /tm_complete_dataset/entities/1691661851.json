@@ -1,0 +1,187 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1691661851",
+  "id": "1691661851",
+  "title": "Hallucination disorder (TM2)",
+  "code": "SQ01",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hallucination disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hallucination disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) buddhisaṁmōhaḥ (b) Piramai (c) khiyAlAt-e bAteleh",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) buddhisaṁmōhaḥ (b) Piramai (c) khiyAlAt-e bAteleh"
+        }
+      }
+    },
+    {
+      "text": "Visual hallucinations disorder (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1889778067",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Visual hallucinations disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1889778067"
+      }
+    },
+    {
+      "text": "(c) Takhayyulāt",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1889778067",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Takhayyulāt"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1889778067"
+      }
+    },
+    {
+      "text": "Hallucination disorder due to aggravated Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/978576518",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hallucination disorder due to aggravated Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      }
+    },
+    {
+      "text": "(b) Mārkka pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/978576518",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mārkka pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      }
+    },
+    {
+      "text": "(b) Vikāra pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/978576518",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikāra pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1691661851",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "641502186"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:48.735124",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1691661851",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1691661851",
+    "code": "SQ01",
+    "source": "http://id.who.int/icd/entity/1691661851",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hallucination disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hallucination disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) buddhisaṁmōhaḥ (b) Piramai (c) khiyAlAt-e bAteleh"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Visual hallucinations disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1889778067"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Takhayyulāt"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1889778067"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hallucination disorder due to aggravated Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mārkka pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikāra pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/978576518"
+      }
+    ]
+  }
+}

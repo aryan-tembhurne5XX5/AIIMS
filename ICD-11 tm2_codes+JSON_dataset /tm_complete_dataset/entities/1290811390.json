@@ -1,0 +1,366 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1290811390",
+  "id": "1290811390",
+  "title": "Hiccough disorder (TM2)",
+  "code": "SM74",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hiccough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) hikkā (b) Vikkal nōy (c) Fuwāq",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hikkā (b) Vikkal nōy (c) Fuwāq"
+        }
+      }
+    },
+    {
+      "text": "Hiccough disorder due to Rīḥ (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/308160397",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder due to Rīḥ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/308160397"
+      }
+    },
+    {
+      "text": "(c) Fuwāq Rīḥī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/308160397",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Fuwāq Rīḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/308160397"
+      }
+    },
+    {
+      "text": "Hiccough disorder due to gastroesophageal reflux (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/416514273",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder due to gastroesophageal reflux (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/416514273"
+      }
+    },
+    {
+      "text": "(b) Ceriyā vikkal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/416514273",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ceriyā vikkal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/416514273"
+      }
+    },
+    {
+      "text": "Vyapeta hiccough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1030035985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vyapeta hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030035985"
+      }
+    },
+    {
+      "text": "(a) vyapetāhikkā, (a) yamalāhikkā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1030035985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vyapetāhikkā, (a) yamalāhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030035985"
+      }
+    },
+    {
+      "text": "High sound continous hiccough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1385472186",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "High sound continous hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385472186"
+      }
+    },
+    {
+      "text": "(a) mahatīhikkā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1385472186",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahatīhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385472186"
+      }
+    },
+    {
+      "text": "Hiccough disorder with severe intensity (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/679367881",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder with severe intensity (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/679367881"
+      }
+    },
+    {
+      "text": "(a) gambhīrāhikkā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/679367881",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gambhīrāhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/679367881"
+      }
+    },
+    {
+      "text": "Hiccough disorder alleviating with food intake (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1921526292",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder alleviating with food intake (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1921526292"
+      }
+    },
+    {
+      "text": "(a) kṣudrā hikkā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1921526292",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣudrā hikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1921526292"
+      }
+    },
+    {
+      "text": "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/391350177",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/391350177"
+      }
+    },
+    {
+      "text": "(b) Vikkal pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/391350177",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikkal pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/391350177"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1290811390",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:07.465637",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1290811390",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1290811390",
+    "code": "SM74",
+    "source": "http://id.who.int/icd/entity/1290811390",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hiccough disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hikkā (b) Vikkal nōy (c) Fuwāq"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder due to Rīḥ (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/308160397"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Fuwāq Rīḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/308160397"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder due to gastroesophageal reflux (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/416514273"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Ceriyā vikkal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/416514273"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vyapeta hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030035985"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vyapetāhikkā, (a) yamalāhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030035985"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "High sound continous hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385472186"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mahatīhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385472186"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder with severe intensity (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/679367881"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gambhīrāhikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/679367881"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hiccough disorder alleviating with food intake (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1921526292"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣudrā hikkā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1921526292"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggrevation of Aẕal leading to recurrent hiccough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/391350177"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vikkal pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/391350177"
+      }
+    ]
+  }
+}

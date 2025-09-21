@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/421953313",
+  "id": "421953313",
+  "title": "Adult age pattern (TM2)",
+  "code": "SS84",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Adult age pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Adult age pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(b) mīl̤i",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) mīl̤i"
+        }
+      }
+    },
+    {
+      "text": "(b) pĕtumpai maṟavoṉ, (b) maṅkai Tiṟavoṉ, (b) maṭantai Viṭalai, (b) arivai Kāl̤ai",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) pĕtumpai maṟavoṉ, (b) maṅkai Tiṟavoṉ, (b) maṭantai Viṭalai, (b) arivai Kāl̤ai"
+        }
+      }
+    },
+    {
+      "text": "(b) tĕrivai mutumakaṉ, (b) peril̤am pĕṇ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) tĕrivai mutumakaṉ, (b) peril̤am pĕṇ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#421953313",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "1219708494"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:50.103002",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/421953313",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1219708494"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#421953313",
+    "code": "SS84",
+    "source": "http://id.who.int/icd/entity/421953313",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Adult age pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Adult age pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) mīl̤i"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) pĕtumpai maṟavoṉ, (b) maṅkai Tiṟavoṉ, (b) maṭantai Viṭalai, (b) arivai Kāl̤ai"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) tĕrivai mutumakaṉ, (b) peril̤am pĕṇ"
+        }
+      }
+    ]
+  }
+}

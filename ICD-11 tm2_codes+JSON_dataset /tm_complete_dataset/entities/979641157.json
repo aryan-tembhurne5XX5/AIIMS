@@ -1,0 +1,966 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/979641157",
+  "id": "979641157",
+  "title": "Pattern of occlusion (TM2)",
+  "code": "SR20",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pattern of occlusion (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of occlusion (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) āvaraṇa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āvaraṇa"
+        }
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1437171985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1437171985"
+      }
+    },
+    {
+      "text": "(a) pittāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1437171985",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1437171985"
+      }
+    },
+    {
+      "text": "Pattern of primary impulse of vata occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1105104537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of primary impulse of vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1105104537"
+      }
+    },
+    {
+      "text": "(a) pittāvṛtaprāṇavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1105104537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtaprāṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1105104537"
+      }
+    },
+    {
+      "text": "Pattern of ascending vata occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/604316460",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of ascending vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604316460"
+      }
+    },
+    {
+      "text": "(a) pittāvṛta-udānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/604316460",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-udānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604316460"
+      }
+    },
+    {
+      "text": "Pattern of circulating vata occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/150766871",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of circulating vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/150766871"
+      }
+    },
+    {
+      "text": "(a) pittāvṛtavyānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/150766871",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtavyānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/150766871"
+      }
+    },
+    {
+      "text": "Pattern of kindling vata occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/40968827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of kindling vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40968827"
+      }
+    },
+    {
+      "text": "(a) pittāvṛta-samānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/40968827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-samānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40968827"
+      }
+    },
+    {
+      "text": "Pattern of descending vata occluded by pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/685772731",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of descending vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/685772731"
+      }
+    },
+    {
+      "text": "(a) pittāvṛta-apānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/685772731",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-apānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/685772731"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/577611991",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577611991"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/577611991",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577611991"
+      }
+    },
+    {
+      "text": "Pattern of primary impulse of vata occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/583669927",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of primary impulse of vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/583669927"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛtaprāṇavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/583669927",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtaprāṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/583669927"
+      }
+    },
+    {
+      "text": "Pattern of ascending vata occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1755182532",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of ascending vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1755182532"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛta-udānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1755182532",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛta-udānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1755182532"
+      }
+    },
+    {
+      "text": "Pattern of circulating vata occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1179956910",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of circulating vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1179956910"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛtavyānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1179956910",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtavyānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1179956910"
+      }
+    },
+    {
+      "text": "Pattern of kindling vata occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1019101917",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of kindling vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1019101917"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛtasamānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1019101917",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtasamānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1019101917"
+      }
+    },
+    {
+      "text": "Pattern of descending vata occluded by kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/684281173",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of descending vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/684281173"
+      }
+    },
+    {
+      "text": "(a) kaphāvṛta-apānavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/684281173",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛta-apānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/684281173"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by all primary structural components of the body (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1962898168",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by all primary structural components of the body (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1962898168"
+      }
+    },
+    {
+      "text": "sarvadhātvāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1962898168",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "sarvadhātvāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1962898168"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by blood (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/453953631",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/453953631"
+      }
+    },
+    {
+      "text": "(a) raktāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/453953631",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/453953631"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by muscle tissue (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1642347568",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by muscle tissue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1642347568"
+      }
+    },
+    {
+      "text": "(a) māṃsāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1642347568",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) māṃsāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1642347568"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by bone tissue (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1590292296",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by bone tissue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1590292296"
+      }
+    },
+    {
+      "text": "(a) asthyāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1590292296",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asthyāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1590292296"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by bone marrow (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1910644712",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by bone marrow (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910644712"
+      }
+    },
+    {
+      "text": "(a) majjāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1910644712",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) majjāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910644712"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by reproductive tisses (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2070919308",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by reproductive tisses (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2070919308"
+      }
+    },
+    {
+      "text": "(a) śukrāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2070919308",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukrāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2070919308"
+      }
+    },
+    {
+      "text": "Pattern of occlusion of vāta by faeces (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1261040316",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of occlusion of vāta by faeces (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261040316"
+      }
+    },
+    {
+      "text": "(a) malāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1261040316",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) malāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261040316"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by urine (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/3873895",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by urine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/3873895"
+      }
+    },
+    {
+      "text": "(a) mūtrāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/3873895",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/3873895"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by food (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1104548238",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by food (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1104548238"
+      }
+    },
+    {
+      "text": "(a) annāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1104548238",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) annāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1104548238"
+      }
+    },
+    {
+      "text": "Pattern of vāta occluded by fat (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/991052531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by fat (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/991052531"
+      }
+    },
+    {
+      "text": "(a) medasāvṛtavātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/991052531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) medasāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/991052531"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#979641157",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "309514703"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:59.398299",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/979641157",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#979641157",
+    "code": "SR20",
+    "source": "http://id.who.int/icd/entity/979641157",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pattern of occlusion (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of occlusion (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āvaraṇa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1437171985"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1437171985"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of primary impulse of vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1105104537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtaprāṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1105104537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of ascending vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604316460"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-udānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604316460"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of circulating vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/150766871"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛtavyānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/150766871"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of kindling vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40968827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-samānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/40968827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of descending vata occluded by pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/685772731"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittāvṛta-apānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/685772731"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577611991"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/577611991"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of primary impulse of vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/583669927"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtaprāṇavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/583669927"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of ascending vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1755182532"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛta-udānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1755182532"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of circulating vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1179956910"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtavyānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1179956910"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of kindling vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1019101917"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛtasamānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1019101917"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of descending vata occluded by kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/684281173"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphāvṛta-apānavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/684281173"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by all primary structural components of the body (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1962898168"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "sarvadhātvāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1962898168"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/453953631"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/453953631"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by muscle tissue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1642347568"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) māṃsāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1642347568"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by bone tissue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1590292296"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asthyāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1590292296"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by bone marrow (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910644712"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) majjāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910644712"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by reproductive tisses (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2070919308"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukrāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2070919308"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of occlusion of vāta by faeces (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261040316"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) malāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1261040316"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by urine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/3873895"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/3873895"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by food (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1104548238"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) annāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1104548238"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of vāta occluded by fat (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/991052531"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) medasāvṛtavātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/991052531"
+      }
+    ]
+  }
+}

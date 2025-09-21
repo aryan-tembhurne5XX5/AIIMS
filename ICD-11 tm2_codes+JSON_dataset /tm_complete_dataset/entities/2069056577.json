@@ -1,0 +1,946 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2069056577",
+  "id": "2069056577",
+  "title": "Syncope disorder (TM2)",
+  "code": "SP98",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Syncope disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mūrcchā (b) Mūrccai (c) Ghashī",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūrcchā (b) Mūrccai (c) Ghashī"
+        }
+      }
+    },
+    {
+      "text": "Syncope disorder due to Vata (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1910434605",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910434605"
+      }
+    },
+    {
+      "text": "(a) vataja mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1910434605",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vataja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910434605"
+      }
+    },
+    {
+      "text": "Syncope disorder due to Pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1149148969",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1149148969"
+      }
+    },
+    {
+      "text": "(a) pittaja mūrcchā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1149148969",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1149148969"
+      }
+    },
+    {
+      "text": "Syncope disorder due to Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/234562775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/234562775"
+      }
+    },
+    {
+      "text": "(a) kaphaja mūrcchā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/234562775",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/234562775"
+      }
+    },
+    {
+      "text": "Syncope disorder due to all the three dosha (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1644863104",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to all the three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1644863104"
+      }
+    },
+    {
+      "text": "(a) sannipataja mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1644863104",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipataja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1644863104"
+      }
+    },
+    {
+      "text": "Syncope disorder due to vitiated blood (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/417360399",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to vitiated blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/417360399"
+      }
+    },
+    {
+      "text": "(a) raktaka mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/417360399",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktaka mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/417360399"
+      }
+    },
+    {
+      "text": "Syncope disorder due to alcohol intake (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/908667233",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to alcohol intake (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908667233"
+      }
+    },
+    {
+      "text": "(a) madyaja mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/908667233",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madyaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908667233"
+      }
+    },
+    {
+      "text": "Syncope disorder due to poisoning (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1408402644",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to poisoning (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1408402644"
+      }
+    },
+    {
+      "text": "(a) vishaja mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1408402644",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vishaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1408402644"
+      }
+    },
+    {
+      "text": "Syncope disorder due to fatigue (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/123715925",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to fatigue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/123715925"
+      }
+    },
+    {
+      "text": "(a) glanija mūrcchā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/123715925",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) glanija mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/123715925"
+      }
+    },
+    {
+      "text": "Fainting disorder due to hysteria (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/231892537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to hysteria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      }
+    },
+    {
+      "text": "(c) Ghashī Ikhtināqī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/231892537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Ikhtināqī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      }
+    },
+    {
+      "text": "(c) Ghashī Az Ikhtināq al-Raḥim",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/231892537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Az Ikhtināq al-Raḥim"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      }
+    },
+    {
+      "text": "Fainting disorder due to poisoning (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/306483085",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to poisoning (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/306483085"
+      }
+    },
+    {
+      "text": "(c) Ghashī Sammī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/306483085",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Sammī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/306483085"
+      }
+    },
+    {
+      "text": "Fainting disorder due to excessive emotions (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/415836385",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to excessive emotions (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/415836385"
+      }
+    },
+    {
+      "text": "(c) Ghashī Nafsānī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/415836385",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Nafsānī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/415836385"
+      }
+    },
+    {
+      "text": "Fainting disorder due to severe starvation (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/761879781",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to severe starvation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/761879781"
+      }
+    },
+    {
+      "text": "(c) Ghashī Jū‘ī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/761879781",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Jū‘ī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/761879781"
+      }
+    },
+    {
+      "text": "Fainting disorder due to congestion (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2104141182",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to congestion (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2104141182"
+      }
+    },
+    {
+      "text": "(c) Ghashī Imtilā’ī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2104141182",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Imtilā’ī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2104141182"
+      }
+    },
+    {
+      "text": "Fainting disorder after fullness of stomach (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/312156117",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder after fullness of stomach (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312156117"
+      }
+    },
+    {
+      "text": "(c) Ghashī Mi‘dī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/312156117",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Mi‘dī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312156117"
+      }
+    },
+    {
+      "text": "Aggravated Aiyam with fainting and mutism disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1752296358",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam with fainting and mutism disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1752296358"
+      }
+    },
+    {
+      "text": "(b) Nittiya Cilēṭṭumam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1752296358",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nittiya Cilēṭṭumam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1752296358"
+      }
+    },
+    {
+      "text": "Neurogenic vasovagal reflex disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1825340826",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Neurogenic vasovagal reflex disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1825340826"
+      }
+    },
+    {
+      "text": "(c) Ghashī Waja‘ī-o-Waramī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1825340826",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Waja‘ī-o-Waramī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1825340826"
+      }
+    },
+    {
+      "text": "Fainting disorder due to obstruction in the vessels (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1715591926",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to obstruction in the vessels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1715591926"
+      }
+    },
+    {
+      "text": "(c) Ghashī Suddī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1715591926",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Suddī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1715591926"
+      }
+    },
+    {
+      "text": "Syncope disorder due to derangement of temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/492887975",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to derangement of temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/492887975"
+      }
+    },
+    {
+      "text": "(c) Ghashī Sū’-i-Mizājī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/492887975",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Sū’-i-Mizājī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/492887975"
+      }
+    },
+    {
+      "text": "Fainting disorder due to fever (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1463235266",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1463235266"
+      }
+    },
+    {
+      "text": "(c) Ghashī Ḥummī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1463235266",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Ḥummī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1463235266"
+      }
+    },
+    {
+      "text": "Blackout disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/952535147",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Blackout disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/952535147"
+      }
+    },
+    {
+      "text": "(a) tamapraveśaḥ, (a) tamaḥ-atidarśanam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/952535147",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamapraveśaḥ, (a) tamaḥ-atidarśanam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/952535147"
+      }
+    },
+    {
+      "text": "Fainting disorder due to Vata (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1110211610",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1110211610"
+      }
+    },
+    {
+      "text": "(a) tamaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1110211610",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1110211610"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2069056577",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:42.391938",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2069056577",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2069056577",
+    "code": "SP98",
+    "source": "http://id.who.int/icd/entity/2069056577",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Syncope disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūrcchā (b) Mūrccai (c) Ghashī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910434605"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vataja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1910434605"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1149148969"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1149148969"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/234562775"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/234562775"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to all the three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1644863104"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipataja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1644863104"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to vitiated blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/417360399"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktaka mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/417360399"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to alcohol intake (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908667233"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) madyaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908667233"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to poisoning (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1408402644"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vishaja mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1408402644"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to fatigue (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/123715925"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) glanija mūrcchā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/123715925"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to hysteria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Ikhtināqī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Az Ikhtināq al-Raḥim"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/231892537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to poisoning (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/306483085"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Sammī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/306483085"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to excessive emotions (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/415836385"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Nafsānī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/415836385"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to severe starvation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/761879781"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Jū‘ī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/761879781"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to congestion (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2104141182"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Imtilā’ī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2104141182"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder after fullness of stomach (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312156117"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Mi‘dī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/312156117"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam with fainting and mutism disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1752296358"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nittiya Cilēṭṭumam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1752296358"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Neurogenic vasovagal reflex disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1825340826"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Waja‘ī-o-Waramī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1825340826"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to obstruction in the vessels (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1715591926"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Suddī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1715591926"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Syncope disorder due to derangement of temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/492887975"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Sū’-i-Mizājī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/492887975"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to fever (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1463235266"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghashī Ḥummī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1463235266"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Blackout disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/952535147"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamapraveśaḥ, (a) tamaḥ-atidarśanam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/952535147"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fainting disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1110211610"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) tamaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1110211610"
+      }
+    ]
+  }
+}

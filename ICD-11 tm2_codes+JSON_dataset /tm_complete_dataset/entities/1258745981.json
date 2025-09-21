@@ -1,0 +1,243 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1258745981",
+  "id": "1258745981",
+  "title": "Dysfunctional uterine bleeding disorder (TM2)",
+  "code": "SM98",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dysfunctional uterine bleeding disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dysfunctional uterine bleeding disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) asṛgdaraḥ (b) Acātāraṇa perumpāṭu (c) Kathrat-i-Ḥayḍ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asṛgdaraḥ (b) Acātāraṇa perumpāṭu (c) Kathrat-i-Ḥayḍ"
+        }
+      }
+    },
+    {
+      "text": "(c) kethrat-e tamth",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) kethrat-e tamth"
+        }
+      }
+    },
+    {
+      "text": "(a) Raktapradar",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Raktapradar"
+        }
+      }
+    },
+    {
+      "text": "Abnormal uterine bleeding disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/564686630",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abnormal uterine bleeding disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/564686630"
+      }
+    },
+    {
+      "text": "(b) Cātāraṇa perumpāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/564686630",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cātāraṇa perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/564686630"
+      }
+    },
+    {
+      "text": "Menorrhagia due to increased Aẕal disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2069762553",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Menorrhagia due to increased Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2069762553"
+      }
+    },
+    {
+      "text": "(b) Pitta perumpāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2069762553",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2069762553"
+      }
+    },
+    {
+      "text": "Menorrhagia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/28632456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Menorrhagia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28632456"
+      }
+    },
+    {
+      "text": "(b) Perumpāṭu",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/28632456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28632456"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1258745981",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:38.077764",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1258745981",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1258745981",
+    "code": "SM98",
+    "source": "http://id.who.int/icd/entity/1258745981",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dysfunctional uterine bleeding disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dysfunctional uterine bleeding disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) asṛgdaraḥ (b) Acātāraṇa perumpāṭu (c) Kathrat-i-Ḥayḍ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) kethrat-e tamth"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) Raktapradar"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abnormal uterine bleeding disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/564686630"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cātāraṇa perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/564686630"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Menorrhagia due to increased Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2069762553"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2069762553"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Menorrhagia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28632456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Perumpāṭu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/28632456"
+      }
+    ]
+  }
+}

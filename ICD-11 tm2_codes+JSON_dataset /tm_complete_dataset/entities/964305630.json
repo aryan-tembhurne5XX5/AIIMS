@@ -1,0 +1,305 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/964305630",
+  "id": "964305630",
+  "title": "Hepatitis disorder (TM2)",
+  "code": "SM43",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hepatitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Waram al-Kabid",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid"
+        }
+      }
+    },
+    {
+      "text": "(b) Aṭcēpakavātam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aṭcēpakavātam"
+        }
+      }
+    },
+    {
+      "text": "Alcoholic liver disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/871859634",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic liver disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/871859634"
+      }
+    },
+    {
+      "text": "(b) Cartti pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/871859634",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cartti pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/871859634"
+      }
+    },
+    {
+      "text": "Hepatitis disorder due to derangement of Ṣafrā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1474812197",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474812197"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kabid Ṣafrāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1474812197",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474812197"
+      }
+    },
+    {
+      "text": "Hepatitis disorder due to derangement of Sawdā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1567260233",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567260233"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kabid Sawdāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1567260233",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567260233"
+      }
+    },
+    {
+      "text": "Hepatitis disorder due to derangement of Balgham (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1573768761",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573768761"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kabid Balghamī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1573768761",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573768761"
+      }
+    },
+    {
+      "text": "Hepatitis disorder due to derangement of Dam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/395977566",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/395977566"
+      }
+    },
+    {
+      "text": "(c) Waram al-Kabid Damawī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/395977566",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/395977566"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1978089630"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#964305630",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1978089630"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:52.101595",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/964305630",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1978089630"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#964305630",
+    "code": "SM43",
+    "source": "http://id.who.int/icd/entity/964305630",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hepatitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aṭcēpakavātam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Alcoholic liver disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/871859634"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cartti pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/871859634"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474812197"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474812197"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567260233"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567260233"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573768761"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573768761"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hepatitis disorder due to derangement of Dam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/395977566"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Kabid Damawī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/395977566"
+      }
+    ]
+  }
+}

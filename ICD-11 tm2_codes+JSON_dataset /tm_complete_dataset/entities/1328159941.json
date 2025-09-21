@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1328159941",
+  "id": "1328159941",
+  "title": "Liver heat stirring wind pattern (TM1)",
+  "code": "SF59",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Liver heat stirring wind pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver heat stirring wind pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Pattern of heat stirring liver wind (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of heat stirring liver wind (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1328159941",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1628485143"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:57.933018",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1328159941",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1328159941",
+    "code": "SF59",
+    "source": "http://id.who.int/icd/entity/1328159941",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Liver heat stirring wind pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver heat stirring wind pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern of heat stirring liver wind (TM1)"
+        }
+      }
+    ]
+  }
+}

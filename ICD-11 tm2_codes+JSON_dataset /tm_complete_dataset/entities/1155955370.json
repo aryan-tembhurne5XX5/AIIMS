@@ -1,0 +1,726 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1155955370",
+  "id": "1155955370",
+  "title": "Cough disorder (TM2)",
+  "code": "SL41",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Cough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kāsaḥ (b) Irumal nōy (c) Su‘āl-o-Surfa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kāsaḥ (b) Irumal nōy (c) Su‘āl-o-Surfa"
+        }
+      }
+    },
+    {
+      "text": "Acute bronchitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1855107064",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Acute bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1855107064"
+      }
+    },
+    {
+      "text": "(c) Iltihāb al-Shu‘ab Ḥādd",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1855107064",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Shu‘ab Ḥādd"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1855107064"
+      }
+    },
+    {
+      "text": "Chronic bronchitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/880880053",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880880053"
+      }
+    },
+    {
+      "text": "(c) Iltihāb al-Shu‘ab Muzmin",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/880880053",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Shu‘ab Muzmin"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880880053"
+      }
+    },
+    {
+      "text": "Bronchitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/519437541",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/519437541"
+      }
+    },
+    {
+      "text": "(b) Cuvāca pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/519437541",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuvāca pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/519437541"
+      }
+    },
+    {
+      "text": "Asthmatic cough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2066633042",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Asthmatic cough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2066633042"
+      }
+    },
+    {
+      "text": "(b) Cuvāca irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2066633042",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuvāca irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2066633042"
+      }
+    },
+    {
+      "text": "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/88128717",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88128717"
+      }
+    },
+    {
+      "text": "(b) Vātapitta irumal nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/88128717",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātapitta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88128717"
+      }
+    },
+    {
+      "text": "Cough due to derangement of Aẕal and Aiyam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/288863045",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Aẕal and Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/288863045"
+      }
+    },
+    {
+      "text": "(b) Pittakapa irumal nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/288863045",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittakapa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/288863045"
+      }
+    },
+    {
+      "text": "Cough due to derangement of Mukkuṟṟam disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1809663796",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Mukkuṟṟam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1809663796"
+      }
+    },
+    {
+      "text": "(b) Mukkuṟṟa irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1809663796",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1809663796"
+      }
+    },
+    {
+      "text": "Cough disorder due to haemophobia (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/70057373",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to haemophobia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/70057373"
+      }
+    },
+    {
+      "text": "(b) Irattakācam irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/70057373",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irattakācam irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/70057373"
+      }
+    },
+    {
+      "text": "Cough disorder due to increased Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1643597866",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1643597866"
+      }
+    },
+    {
+      "text": "(b) Kapa irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1643597866",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1643597866"
+      }
+    },
+    {
+      "text": "Cough disorder due to increased Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2077975804",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2077975804"
+      }
+    },
+    {
+      "text": "(b) Pitta irumal nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2077975804",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2077975804"
+      }
+    },
+    {
+      "text": "Cough disorder due to increased Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1901511568",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1901511568"
+      }
+    },
+    {
+      "text": "(b) Vāta irumal nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1901511568",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vāta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1901511568"
+      }
+    },
+    {
+      "text": "Cough disorder due to seasonal variations (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1858087460",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to seasonal variations (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858087460"
+      }
+    },
+    {
+      "text": "(b) Mantārakācam irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1858087460",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mantārakācam irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858087460"
+      }
+    },
+    {
+      "text": "Cough disorder due to waxing and wanning of moon (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1682804040",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to waxing and wanning of moon (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682804040"
+      }
+    },
+    {
+      "text": "(b) Pakka mantāra irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1682804040",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pakka mantāra irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682804040"
+      }
+    },
+    {
+      "text": "Cough disorder occuring in sinusitis (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1626348408",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder occuring in sinusitis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1626348408"
+      }
+    },
+    {
+      "text": "(b) Pīṉica irumal nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1626348408",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pīṉica irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1626348408"
+      }
+    },
+    {
+      "text": "Post puerperal cough disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/86750915",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Post puerperal cough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/86750915"
+      }
+    },
+    {
+      "text": "(b) Cuṭar irumal nōy",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/86750915",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuṭar irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/86750915"
+      }
+    },
+    {
+      "text": "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1381279193",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1381279193"
+      }
+    },
+    {
+      "text": "(b) Irumal",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1381279193",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irumal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1381279193"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1155955370",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1274104313"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:40.022283",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1155955370",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1274104313"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1155955370",
+    "code": "SL41",
+    "source": "http://id.who.int/icd/entity/1155955370",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Cough disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kāsaḥ (b) Irumal nōy (c) Su‘āl-o-Surfa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Acute bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1855107064"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Shu‘ab Ḥādd"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1855107064"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chronic bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880880053"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Iltihāb al-Shu‘ab Muzmin"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/880880053"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bronchitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/519437541"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuvāca pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/519437541"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Asthmatic cough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2066633042"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuvāca irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2066633042"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Vaḷi and Aẕal disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88128717"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vātapitta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/88128717"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Aẕal and Aiyam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/288863045"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittakapa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/288863045"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough due to derangement of Mukkuṟṟam disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1809663796"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1809663796"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to haemophobia (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/70057373"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irattakācam irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/70057373"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1643597866"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kapa irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1643597866"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2077975804"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pitta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2077975804"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1901511568"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vāta irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1901511568"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to seasonal variations (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858087460"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mantārakācam irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1858087460"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder due to waxing and wanning of moon (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682804040"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pakka mantāra irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1682804040"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cough disorder occuring in sinusitis (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1626348408"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pīṉica irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1626348408"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Post puerperal cough disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/86750915"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cuṭar irumal nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/86750915"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated aiyam lodging in chest and face leading respiratory ailments disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1381279193"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Irumal"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1381279193"
+      }
+    ]
+  }
+}

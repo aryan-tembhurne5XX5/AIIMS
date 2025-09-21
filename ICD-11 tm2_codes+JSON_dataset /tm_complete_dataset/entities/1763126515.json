@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1763126515",
+  "id": "1763126515",
+  "title": "Frequent protrusion of tongue disorder (TM1)",
+  "code": "SD24",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Frequent protrusion of tongue disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Frequent protrusion of tongue disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/250371211"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1763126515",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "250371211"
+  ],
+  "extractionTimestamp": "2025-09-21T01:05:15.203762",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1763126515",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/250371211"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1763126515",
+    "code": "SD24",
+    "source": "http://id.who.int/icd/entity/1763126515",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Frequent protrusion of tongue disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Frequent protrusion of tongue disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

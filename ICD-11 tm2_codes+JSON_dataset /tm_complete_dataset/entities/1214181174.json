@@ -1,0 +1,326 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1214181174",
+  "id": "1214181174",
+  "title": "Pattern resulting in abnormal number of organs and appendages (TM2)",
+  "code": "SR62",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pattern resulting in abnormal number of organs and appendages (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern resulting in abnormal number of organs and appendages (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Amrāḍ-i-‘Adad",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i-‘Adad"
+        }
+      }
+    },
+    {
+      "text": "Increase in number of organs pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1472726658",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Increase in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1472726658"
+      }
+    },
+    {
+      "text": "(c) Ziyādatī-i-‘Adad",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1472726658",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ziyādatī-i-‘Adad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1472726658"
+      }
+    },
+    {
+      "text": "Congenital increase in number of parts of the body pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1564844526",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital increase in number of parts of the body pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1564844526"
+      }
+    },
+    {
+      "text": "(c) Ṭab‘ī Ziyādatī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1564844526",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭab‘ī Ziyādatī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1564844526"
+      }
+    },
+    {
+      "text": "Acquired pathological increase in the parts of the body pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/484108377",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Acquired pathological increase in the parts of the body pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/484108377"
+      }
+    },
+    {
+      "text": "(c) Ghayr Ṭab‘ī Ziyādatī",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/484108377",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghayr Ṭab‘ī Ziyādatī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/484108377"
+      }
+    },
+    {
+      "text": "Decrease in number of organs pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1452082494",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1452082494"
+      }
+    },
+    {
+      "text": "(c) Naqṣ-i-‘Adad",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1452082494",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Naqṣ-i-‘Adad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1452082494"
+      }
+    },
+    {
+      "text": "Congenital decrease in number of organs pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1123682996",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1123682996"
+      }
+    },
+    {
+      "text": "(c) Ṭab‘ī Naqṣ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1123682996",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭab‘ī Naqṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1123682996"
+      }
+    },
+    {
+      "text": "Acquired decrease in number of organs pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/940637893",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Acquired decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940637893"
+      }
+    },
+    {
+      "text": "(c) Ghayr Ṭab‘ī Naqṣ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/940637893",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghayr Ṭab‘ī Naqṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940637893"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1214181174",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:43.657611",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1214181174",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1214181174",
+    "code": "SR62",
+    "source": "http://id.who.int/icd/entity/1214181174",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pattern resulting in abnormal number of organs and appendages (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pattern resulting in abnormal number of organs and appendages (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Amrāḍ-i-‘Adad"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Increase in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1472726658"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ziyādatī-i-‘Adad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1472726658"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital increase in number of parts of the body pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1564844526"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭab‘ī Ziyādatī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1564844526"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Acquired pathological increase in the parts of the body pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/484108377"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghayr Ṭab‘ī Ziyādatī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/484108377"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1452082494"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Naqṣ-i-‘Adad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1452082494"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1123682996"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṭab‘ī Naqṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1123682996"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Acquired decrease in number of organs pattern (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940637893"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ghayr Ṭab‘ī Naqṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/940637893"
+      }
+    ]
+  }
+}

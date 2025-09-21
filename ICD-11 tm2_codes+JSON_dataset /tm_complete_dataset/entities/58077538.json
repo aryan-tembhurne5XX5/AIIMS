@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/58077538",
+  "id": "58077538",
+  "title": "Essence deficiency pattern (TM1)",
+  "code": "SF20",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Essence deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Essence deficiency pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/229718107"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#58077538",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "229718107"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:45.201502",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/58077538",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/229718107"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#58077538",
+    "code": "SF20",
+    "source": "http://id.who.int/icd/entity/58077538",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Essence deficiency pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Essence deficiency pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

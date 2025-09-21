@@ -1,0 +1,74 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1147241349",
+  "id": "1147241349",
+  "title": "Traditional medicine disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/627880448",
+    "http://id.who.int/icd/release/11/2025-01/mms/823901578",
+    "http://id.who.int/icd/release/11/2025-01/mms/1274104313",
+    "http://id.who.int/icd/release/11/2025-01/mms/604042066",
+    "http://id.who.int/icd/release/11/2025-01/mms/1104895717",
+    "http://id.who.int/icd/release/11/2025-01/mms/1542941233",
+    "http://id.who.int/icd/release/11/2025-01/mms/1367002461",
+    "http://id.who.int/icd/release/11/2025-01/mms/1324098793",
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127",
+    "http://id.who.int/icd/release/11/2025-01/mms/1471542998",
+    "http://id.who.int/icd/release/11/2025-01/mms/761201319",
+    "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/562274788"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1147241349",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 12,
+  "depth": 2,
+  "parentPath": [
+    "718687701",
+    "562274788"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:02.210120",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1147241349",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/562274788"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/627880448",
+      "http://id.who.int/icd/release/11/2025-01/mms/823901578",
+      "http://id.who.int/icd/release/11/2025-01/mms/1274104313",
+      "http://id.who.int/icd/release/11/2025-01/mms/604042066",
+      "http://id.who.int/icd/release/11/2025-01/mms/1104895717",
+      "http://id.who.int/icd/release/11/2025-01/mms/1542941233",
+      "http://id.who.int/icd/release/11/2025-01/mms/1367002461",
+      "http://id.who.int/icd/release/11/2025-01/mms/1324098793",
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127",
+      "http://id.who.int/icd/release/11/2025-01/mms/1471542998",
+      "http://id.who.int/icd/release/11/2025-01/mms/761201319",
+      "http://id.who.int/icd/release/11/2025-01/mms/2007596156"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1147241349",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1147241349",
+    "classKind": "block",
+    "blockId": "BlockL2-SK0",
+    "codeRange": "SK00-SR0Z",
+    "title": {
+      "@language": "en",
+      "@value": "Traditional medicine disorders (TM2)"
+    }
+  }
+}

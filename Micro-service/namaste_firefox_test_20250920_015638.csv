@@ -1,0 +1,11 @@
+row_number,sr_no,term_id,parent_id,code,word,short_definition,long_definition,reference,extraction_time
+3,1,1,0,SAT-A,mUlaBUta-SabdaH,fundamental terms,terms related to fundamental principles of Ayurveda,-,2025-09-20T01:56:37.638581
+4,2,2,1,SAT-A.1,AyurvedaH,science of life,"science where advantageous and disadvantageous, happy and unhappy (states of) life along with what is good and bad for life, its measurement and life itself are described",-,2025-09-20T01:56:37.660428
+5,3,3,2,SAT-A.2,AyuH,life; lifespan,"combination of the body, sense organs, mind and soul",-,2025-09-20T01:56:37.679844
+6,4,4,3,SAT-A.3,dhAri,that which sustains,the sustenance of life or the aspect of life which prevents decay,-,2025-09-20T01:56:37.698359
+7,5,5,3,SAT-A.4,jIvitam,life,that which keeps the body alive,-,2025-09-20T01:56:37.716641
+8,6,6,3,SAT-A.5,nityaga,incessant,continuous or uninterrupted process of life,-,2025-09-20T01:56:37.735324
+9,7,7,3,SAT-A.6,anubandhaH,continuity of life,"continuity of result in the form of life due to the association of body, sense organs, mind and soul; which transmigrates from one body to another",-,2025-09-20T01:56:37.755186
+10,8,8,2,SAT-A.7,AyuH-prakAraH,types of life,"Four patterns of lifestyle viz., wholesome, unwholesome, happy and unhappy",-,2025-09-20T01:56:37.773288
+11,9,9,8,SAT-A.8,hitAyuH,wholesome life,lifestyle which is beneficial to the self and the society,-,2025-09-20T01:56:37.791964
+12,10,10,8,SAT-A.9,ahitAyuH,unwholesome life,lifestyle which is neither beneficial for the society nor for the self,-,2025-09-20T01:56:37.810131

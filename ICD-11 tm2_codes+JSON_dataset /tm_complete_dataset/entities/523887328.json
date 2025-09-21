@@ -1,0 +1,59 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/523887328",
+  "id": "523887328",
+  "title": "Furuncle disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1990786336",
+    "http://id.who.int/icd/release/11/2025-01/mms/523887328/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/523887328/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#523887328",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "12821860"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:48.874463",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/523887328",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1990786336",
+      "http://id.who.int/icd/release/11/2025-01/mms/523887328/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/523887328/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#523887328",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/523887328",
+    "classKind": "block",
+    "blockId": "BlockL5-SB4",
+    "codeRange": "SB40-SB4Z",
+    "title": {
+      "@language": "en",
+      "@value": "Furuncle disorders (TM1)"
+    }
+  }
+}

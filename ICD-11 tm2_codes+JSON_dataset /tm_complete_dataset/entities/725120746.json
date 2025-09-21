@@ -1,0 +1,76 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/725120746",
+  "id": "725120746",
+  "title": "Chest impediment disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [
+    "{'label': {'@language': 'en', '@value': 'Heart pain disorder (TM1)'}}",
+    "{'label': {'@language': 'en', '@value': 'Chest impediment disorder (TM1)'}}"
+  ],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/869937025",
+    "http://id.who.int/icd/release/11/2025-01/mms/725120746/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/725120746/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1013501005"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#725120746",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "1013501005"
+  ],
+  "extractionTimestamp": "2025-09-21T01:02:55.708835",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/725120746",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1013501005"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/869937025",
+      "http://id.who.int/icd/release/11/2025-01/mms/725120746/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/725120746/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#725120746",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/725120746",
+    "classKind": "block",
+    "blockId": "BlockL5-SA2",
+    "codeRange": "SA20-SA2Z",
+    "title": {
+      "@language": "en",
+      "@value": "Chest impediment disorders (TM1)"
+    },
+    "inclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Heart pain disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chest impediment disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

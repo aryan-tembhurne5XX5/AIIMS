@@ -1,0 +1,72 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/347093131",
+  "id": "347093131",
+  "title": "Traditional medicine patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/817731121",
+    "http://id.who.int/icd/release/11/2025-01/mms/672608669",
+    "http://id.who.int/icd/release/11/2025-01/mms/662161366",
+    "http://id.who.int/icd/release/11/2025-01/mms/1220285877",
+    "http://id.who.int/icd/release/11/2025-01/mms/677438911",
+    "http://id.who.int/icd/release/11/2025-01/mms/226861675",
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520",
+    "http://id.who.int/icd/release/11/2025-01/mms/626065726",
+    "http://id.who.int/icd/release/11/2025-01/mms/1723048222",
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/353229912"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#347093131",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 11,
+  "depth": 2,
+  "parentPath": [
+    "718687701",
+    "353229912"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:00.143600",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/347093131",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/353229912"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/817731121",
+      "http://id.who.int/icd/release/11/2025-01/mms/672608669",
+      "http://id.who.int/icd/release/11/2025-01/mms/662161366",
+      "http://id.who.int/icd/release/11/2025-01/mms/1220285877",
+      "http://id.who.int/icd/release/11/2025-01/mms/677438911",
+      "http://id.who.int/icd/release/11/2025-01/mms/226861675",
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520",
+      "http://id.who.int/icd/release/11/2025-01/mms/626065726",
+      "http://id.who.int/icd/release/11/2025-01/mms/1723048222",
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#347093131",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/347093131",
+    "classKind": "block",
+    "blockId": "BlockL2-SE7",
+    "codeRange": "SE70-SJ1Z",
+    "title": {
+      "@language": "en",
+      "@value": "Traditional medicine patterns (TM1)"
+    }
+  }
+}

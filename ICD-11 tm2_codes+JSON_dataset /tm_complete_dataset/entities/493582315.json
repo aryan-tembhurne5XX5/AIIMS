@@ -1,0 +1,88 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/493582315",
+  "id": "493582315",
+  "title": "Leukorrhea disorder (TM1)",
+  "code": "SC20",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Leukorrhea disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Leukorrhea disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Vaginal discharge disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginal discharge disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/102778076"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#493582315",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "634206253",
+    "102778076"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:35.768367",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/493582315",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/102778076"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#493582315",
+    "code": "SC20",
+    "source": "http://id.who.int/icd/entity/493582315",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Leukorrhea disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Leukorrhea disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginal discharge disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

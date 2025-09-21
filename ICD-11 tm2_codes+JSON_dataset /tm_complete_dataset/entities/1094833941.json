@@ -1,0 +1,167 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1094833941",
+  "id": "1094833941",
+  "title": "Discoloration of body disorder (TM2)",
+  "code": "SN41",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Discoloration of body disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Discoloration of body disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kārṣṇyam (b) Valli Nhooyaallar Utal Nhirram (c) Fasād al-Lawn",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kārṣṇyam (b) Valli Nhooyaallar Utal Nhirram (c) Fasād al-Lawn"
+        }
+      }
+    },
+    {
+      "text": "Black patch disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1960944401",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Black patch disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1960944401"
+      }
+    },
+    {
+      "text": "(a) nīlikā",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1960944401",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nīlikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1960944401"
+      }
+    },
+    {
+      "text": "Hyperpigmented patches on the skin disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/712391858",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hyperpigmented patches on the skin disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/712391858"
+      }
+    },
+    {
+      "text": "(b) Baraṣ Aswad",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/712391858",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Baraṣ Aswad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/712391858"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1094833941",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:05.732483",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1094833941",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1094833941",
+    "code": "SN41",
+    "source": "http://id.who.int/icd/entity/1094833941",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Discoloration of body disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Discoloration of body disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kārṣṇyam (b) Valli Nhooyaallar Utal Nhirram (c) Fasād al-Lawn"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Black patch disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1960944401"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nīlikā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1960944401"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hyperpigmented patches on the skin disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/712391858"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Baraṣ Aswad"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/712391858"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/656157227",
+  "id": "656157227",
+  "title": "Balgham predominant temperament pattern (TM2)",
+  "code": "SS74",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Balgham predominant temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Balgham predominant temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Balghamī al-Mizāj",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Balghamī al-Mizāj"
+        }
+      }
+    },
+    {
+      "text": "Cold and moist temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Cold and moist temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Mizāj Bārid Ratb",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Bārid Ratb"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#656157227",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "844739135"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:42.591724",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/656157227",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#656157227",
+    "code": "SS74",
+    "source": "http://id.who.int/icd/entity/656157227",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Balgham predominant temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Balgham predominant temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Balghamī al-Mizāj"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Cold and moist temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Bārid Ratb"
+        }
+      }
+    ]
+  }
+}

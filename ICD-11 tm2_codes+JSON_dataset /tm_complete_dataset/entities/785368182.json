@@ -1,0 +1,465 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/785368182",
+  "id": "785368182",
+  "title": "Personality with an agitated, reactive mindset (TM2)",
+  "code": "SS61",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Personality with an agitated, reactive mindset (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with an agitated, reactive mindset (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Rajas predominant pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Rajas predominant pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) rājasikakāya",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rājasikakāya"
+        }
+      }
+    },
+    {
+      "text": "Person with brave, cruel temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/591160493",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with brave, cruel temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      }
+    },
+    {
+      "text": "(a) āsurakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/591160493",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āsurakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      }
+    },
+    {
+      "text": "(a) āsurasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/591160493",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āsurasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      }
+    },
+    {
+      "text": "Person with simultaneously brave and timid temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/927689509",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with simultaneously brave and timid temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      }
+    },
+    {
+      "text": "(a) sarpakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/927689509",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      }
+    },
+    {
+      "text": "(a) sarpasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/927689509",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      }
+    },
+    {
+      "text": "Person with intolerant, unsteady temparament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1385219730",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with intolerant, unsteady temparament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      }
+    },
+    {
+      "text": "(a) śākunikāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1385219730",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākunikāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      }
+    },
+    {
+      "text": "(a) śākunasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1385219730",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākunasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      }
+    },
+    {
+      "text": "Person with intolerant, angry temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2109421106",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with intolerant, angry temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      }
+    },
+    {
+      "text": "(a) rākṣasakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2109421106",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rākṣasakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      }
+    },
+    {
+      "text": "(a) rākṣasasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2109421106",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rākṣasasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      }
+    },
+    {
+      "text": "Person with overeating, unclean, hypersexual temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2000064862",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with overeating, unclean, hypersexual temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      }
+    },
+    {
+      "text": "(a) paiśācakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2000064862",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paiśācakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      }
+    },
+    {
+      "text": "(a) paiśācasasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2000064862",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paiśācasasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      }
+    },
+    {
+      "text": "Person with sorrowful, jealous temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1571273884",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with sorrowful, jealous temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      }
+    },
+    {
+      "text": "(a) prētakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1571273884",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prētakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      }
+    },
+    {
+      "text": "(a) pretasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1571273884",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pretasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#785368182",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "640597431"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:35.162565",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/785368182",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#785368182",
+    "code": "SS61",
+    "source": "http://id.who.int/icd/entity/785368182",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Personality with an agitated, reactive mindset (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with an agitated, reactive mindset (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Rajas predominant pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rājasikakāya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with brave, cruel temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āsurakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) āsurasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/591160493"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with simultaneously brave and timid temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/927689509"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with intolerant, unsteady temparament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākunikāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śākunasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1385219730"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with intolerant, angry temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rākṣasakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rākṣasasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2109421106"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with overeating, unclean, hypersexual temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paiśācakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) paiśācasasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2000064862"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with sorrowful, jealous temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prētakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pretasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1571273884"
+      }
+    ]
+  }
+}

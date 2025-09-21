@@ -1,0 +1,543 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1411723271",
+  "id": "1411723271",
+  "title": "Personality with a calm, composed mindset (TM2)",
+  "code": "SS60",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Personality with a calm, composed mindset (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with a calm, composed mindset (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Sattva predominant pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Sattva predominant pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sāttvikakāya",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāttvikakāya"
+        }
+      }
+    },
+    {
+      "text": "(a) śuddhakāya",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuddhakāya"
+        }
+      }
+    },
+    {
+      "text": "Person with pure, truthful temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1117344084",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with pure, truthful temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      }
+    },
+    {
+      "text": "(a) brahmakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1117344084",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) brahmakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      }
+    },
+    {
+      "text": "(a) brāhmasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1117344084",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) brāhmasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      }
+    },
+    {
+      "text": "Person with prosperous, leader temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1144181981",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with prosperous, leader temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      }
+    },
+    {
+      "text": "(a) māhēndrakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1144181981",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) māhēndrakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      }
+    },
+    {
+      "text": "(a) aindrasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1144181981",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) aindrasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      }
+    },
+    {
+      "text": "Person with brave, patient temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/516205056",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with brave, patient temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      }
+    },
+    {
+      "text": "(a) vāruṇakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/516205056",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāruṇakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      }
+    },
+    {
+      "text": "(a) vāruṇasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/516205056",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāruṇasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      }
+    },
+    {
+      "text": "Person with wealthy, luxurious temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2065631157",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with wealthy, luxurious temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      }
+    },
+    {
+      "text": "(a) kaubērakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2065631157",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaubērakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      }
+    },
+    {
+      "text": "(a) kauberasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2065631157",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kauberasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      }
+    },
+    {
+      "text": "Person with artistic, celebrating temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1474732430",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with artistic, celebrating temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      }
+    },
+    {
+      "text": "(a) gandharvakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1474732430",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gandharvakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      }
+    },
+    {
+      "text": "(a) gāndharvasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1474732430",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gāndharvasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      }
+    },
+    {
+      "text": "Person with judicious, prompt temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1567295202",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with judicious, prompt temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      }
+    },
+    {
+      "text": "(a) yāmyakāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1567295202",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) yāmyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      }
+    },
+    {
+      "text": "(a) yāmyasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1567295202",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) yāmyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      }
+    },
+    {
+      "text": "Person with scholarly, religious temperament (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1507234014",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Person with scholarly, religious temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      }
+    },
+    {
+      "text": "(a) r̥ṣikāyaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1507234014",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) r̥ṣikāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      }
+    },
+    {
+      "text": "(a) ṛṣisattvaṃ, (a) ārṣasattvaṃ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1507234014",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṛṣisattvaṃ, (a) ārṣasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1411723271",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "640597431"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:34.092492",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1411723271",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/640597431"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1411723271",
+    "code": "SS60",
+    "source": "http://id.who.int/icd/entity/1411723271",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Personality with a calm, composed mindset (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Personality with a calm, composed mindset (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Sattva predominant pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāttvikakāya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuddhakāya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with pure, truthful temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) brahmakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) brāhmasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1117344084"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with prosperous, leader temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) māhēndrakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) aindrasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1144181981"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with brave, patient temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāruṇakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vāruṇasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/516205056"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with wealthy, luxurious temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaubērakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kauberasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2065631157"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with artistic, celebrating temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gandharvakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) gāndharvasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1474732430"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with judicious, prompt temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) yāmyakāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) yāmyasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1567295202"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Person with scholarly, religious temperament (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) r̥ṣikāyaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ṛṣisattvaṃ, (a) ārṣasattvaṃ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1507234014"
+      }
+    ]
+  }
+}

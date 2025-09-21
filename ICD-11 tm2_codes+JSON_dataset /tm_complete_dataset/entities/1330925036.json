@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1330925036",
+  "id": "1330925036",
+  "title": "Large yang type interior origin small intestine pattern (TM1)",
+  "code": "SH41",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Large yang type interior origin small intestine pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Large yang type interior origin small intestine pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1949344281"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1330925036",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1723048222",
+    "1949344281"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:38.001119",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1330925036",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1949344281"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1330925036",
+    "code": "SH41",
+    "source": "http://id.who.int/icd/entity/1330925036",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Large yang type interior origin small intestine pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Large yang type interior origin small intestine pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

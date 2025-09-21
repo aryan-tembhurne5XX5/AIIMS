@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1266926424",
+  "id": "1266926424",
+  "title": "Diminution of Ojas pattern (TM2)",
+  "code": "SR4F",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Diminution of Ojas pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Diminution of Ojas pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) ojaḥkṣayaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ojaḥkṣayaḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1266926424",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1029251439"
+  ],
+  "extractionTimestamp": "2025-09-21T01:17:17.290873",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1266926424",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1266926424",
+    "code": "SR4F",
+    "source": "http://id.who.int/icd/entity/1266926424",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Diminution of Ojas pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Diminution of Ojas pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ojaḥkṣayaḥ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1741997263",
+  "id": "1741997263",
+  "title": "Deafness disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2134285734",
+    "http://id.who.int/icd/release/11/2025-01/mms/1684846978",
+    "http://id.who.int/icd/release/11/2025-01/mms/1741997263/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1741997263/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/435568516"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1741997263",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "435568516"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:58.129684",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1741997263",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/435568516"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2134285734",
+      "http://id.who.int/icd/release/11/2025-01/mms/1684846978",
+      "http://id.who.int/icd/release/11/2025-01/mms/1741997263/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1741997263/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1741997263",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1741997263",
+    "classKind": "block",
+    "blockId": "BlockL5-SC8",
+    "codeRange": "SC80-SC8Z",
+    "title": {
+      "@language": "en",
+      "@value": "Deafness disorders (TM1)"
+    }
+  }
+}

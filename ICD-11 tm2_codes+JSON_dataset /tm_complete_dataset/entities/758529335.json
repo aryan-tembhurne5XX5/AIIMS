@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/758529335",
+  "id": "758529335",
+  "title": "Dam predominant temperament pattern (TM2)",
+  "code": "SS72",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dam predominant temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dam predominant temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Damawī al-Mizāj",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Damawī al-Mizāj"
+        }
+      }
+    },
+    {
+      "text": "Hot and moist temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hot and moist temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Mizāj Ḥārr Ratb",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Ḥārr Ratb"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#758529335",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "844739135"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:40.496674",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/758529335",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#758529335",
+    "code": "SS72",
+    "source": "http://id.who.int/icd/entity/758529335",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dam predominant temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dam predominant temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Damawī al-Mizāj"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hot and moist temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Ḥārr Ratb"
+        }
+      }
+    ]
+  }
+}

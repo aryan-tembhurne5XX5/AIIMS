@@ -1,0 +1,207 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1383132796",
+  "id": "1383132796",
+  "title": "Corneal disorder (TM2)",
+  "code": "SK67",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Corneal disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) kṛṣṇagatarogaḥ (b) Karuviẕi nōyka (c) Amrāḍ-i-Ṭabaqa'-i-Qarniyya",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛṣṇagatarogaḥ (b) Karuviẕi nōyka (c) Amrāḍ-i-Ṭabaqa'-i-Qarniyya"
+        }
+      }
+    },
+    {
+      "text": "Shrinking of cornea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1138943420",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Shrinking of cornea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1138943420"
+      }
+    },
+    {
+      "text": "(c) Yubs al-Qarniyya",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1138943420",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Yubs al-Qarniyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1138943420"
+      }
+    },
+    {
+      "text": "Corneal ulcers disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1306920904",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal ulcers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1306920904"
+      }
+    },
+    {
+      "text": "(a) savraṇaśukraḥ (b) Cōtikā viraṇam (c) Qurūḥ al-Qarniyya",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1306920904",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) savraṇaśukraḥ (b) Cōtikā viraṇam (c) Qurūḥ al-Qarniyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1306920904"
+      }
+    },
+    {
+      "text": "Keratitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2008084300",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Keratitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2008084300"
+      }
+    },
+    {
+      "text": "\"(a) pākātyayaḥ (b) Ceri Veri\"",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/2008084300",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "\"(a) pākātyayaḥ (b) Ceri Veri\""
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2008084300"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1383132796",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:33.110429",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1383132796",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1383132796",
+    "code": "SK67",
+    "source": "http://id.who.int/icd/entity/1383132796",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Corneal disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṛṣṇagatarogaḥ (b) Karuviẕi nōyka (c) Amrāḍ-i-Ṭabaqa'-i-Qarniyya"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Shrinking of cornea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1138943420"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Yubs al-Qarniyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1138943420"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Corneal ulcers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1306920904"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) savraṇaśukraḥ (b) Cōtikā viraṇam (c) Qurūḥ al-Qarniyya"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1306920904"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Keratitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2008084300"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "\"(a) pākātyayaḥ (b) Ceri Veri\""
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2008084300"
+      }
+    ]
+  }
+}

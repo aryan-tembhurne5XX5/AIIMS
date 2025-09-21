@@ -1,0 +1,92 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/12821860",
+  "id": "12821860",
+  "title": "Skin and mucosa system disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1512913627",
+    "http://id.who.int/icd/release/11/2025-01/mms/1868532835",
+    "http://id.who.int/icd/release/11/2025-01/mms/523887328",
+    "http://id.who.int/icd/release/11/2025-01/mms/1667091155",
+    "http://id.who.int/icd/release/11/2025-01/mms/642323160",
+    "http://id.who.int/icd/release/11/2025-01/mms/585956555",
+    "http://id.who.int/icd/release/11/2025-01/mms/629332645",
+    "http://id.who.int/icd/release/11/2025-01/mms/1620443808",
+    "http://id.who.int/icd/release/11/2025-01/mms/336333706",
+    "http://id.who.int/icd/release/11/2025-01/mms/1332748764",
+    "http://id.who.int/icd/release/11/2025-01/mms/1748085261",
+    "http://id.who.int/icd/release/11/2025-01/mms/607594424",
+    "http://id.who.int/icd/release/11/2025-01/mms/678226050",
+    "http://id.who.int/icd/release/11/2025-01/mms/396249715",
+    "http://id.who.int/icd/release/11/2025-01/mms/671745957",
+    "http://id.who.int/icd/release/11/2025-01/mms/1836593287",
+    "http://id.who.int/icd/release/11/2025-01/mms/2022508362",
+    "http://id.who.int/icd/release/11/2025-01/mms/1009525330",
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/111874651"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#12821860",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 20,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:45.834582",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/12821860",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/111874651"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1512913627",
+      "http://id.who.int/icd/release/11/2025-01/mms/1868532835",
+      "http://id.who.int/icd/release/11/2025-01/mms/523887328",
+      "http://id.who.int/icd/release/11/2025-01/mms/1667091155",
+      "http://id.who.int/icd/release/11/2025-01/mms/642323160",
+      "http://id.who.int/icd/release/11/2025-01/mms/585956555",
+      "http://id.who.int/icd/release/11/2025-01/mms/629332645",
+      "http://id.who.int/icd/release/11/2025-01/mms/1620443808",
+      "http://id.who.int/icd/release/11/2025-01/mms/336333706",
+      "http://id.who.int/icd/release/11/2025-01/mms/1332748764",
+      "http://id.who.int/icd/release/11/2025-01/mms/1748085261",
+      "http://id.who.int/icd/release/11/2025-01/mms/607594424",
+      "http://id.who.int/icd/release/11/2025-01/mms/678226050",
+      "http://id.who.int/icd/release/11/2025-01/mms/396249715",
+      "http://id.who.int/icd/release/11/2025-01/mms/671745957",
+      "http://id.who.int/icd/release/11/2025-01/mms/1836593287",
+      "http://id.who.int/icd/release/11/2025-01/mms/2022508362",
+      "http://id.who.int/icd/release/11/2025-01/mms/1009525330",
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#12821860",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/12821860",
+    "classKind": "block",
+    "blockId": "BlockL4-SB3",
+    "codeRange": "SB30-SB7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Skin and mucosa system disorders (TM1)"
+    }
+  }
+}

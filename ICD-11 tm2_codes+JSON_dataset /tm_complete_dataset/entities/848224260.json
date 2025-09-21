@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/848224260",
+  "id": "848224260",
+  "title": "Wind-phlegm pattern (TM1)",
+  "code": "SF15",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Wind-phlegm pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Wind-phlegm pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#848224260",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "662161366",
+    "208501929"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:42.998777",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/848224260",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/208501929"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#848224260",
+    "code": "SF15",
+    "source": "http://id.who.int/icd/entity/848224260",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Wind-phlegm pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Wind-phlegm pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

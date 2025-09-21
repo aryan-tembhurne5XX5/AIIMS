@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/21381775",
+  "id": "21381775",
+  "title": "Heart disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076215290",
+    "http://id.who.int/icd/release/11/2025-01/mms/381547252",
+    "http://id.who.int/icd/release/11/2025-01/mms/1236474281",
+    "http://id.who.int/icd/release/11/2025-01/mms/21381775/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/21381775/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#21381775",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "604042066"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:43.310909",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/21381775",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/604042066"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076215290",
+      "http://id.who.int/icd/release/11/2025-01/mms/381547252",
+      "http://id.who.int/icd/release/11/2025-01/mms/1236474281",
+      "http://id.who.int/icd/release/11/2025-01/mms/21381775/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/21381775/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#21381775",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/21381775",
+    "classKind": "block",
+    "blockId": "BlockL4-SL6",
+    "codeRange": "SL60-SL6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Heart disorders (TM2)"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1490796532",
+  "id": "1490796532",
+  "title": "Unstable abnormal temperament pattern (TM2)",
+  "code": "ST0Q",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Unstable abnormal temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Unstable abnormal temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Sū’-i-Mizāj Mukhtalif",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Mukhtalif"
+        }
+      }
+    },
+    {
+      "text": "(c) Sū’-i-Mizāj Mokhtalef",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Mokhtalef"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1490796532",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:22.485930",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1490796532",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1490796532",
+    "code": "ST0Q",
+    "source": "http://id.who.int/icd/entity/1490796532",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Unstable abnormal temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Unstable abnormal temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Mukhtalif"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sū’-i-Mizāj Mokhtalef"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1851825829",
+  "id": "1851825829",
+  "title": "Lack of concentration, confusion disorder (TM2)",
+  "code": "SQ05",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lack of concentration, confusion disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lack of concentration, confusion disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) anavasthitacittatvam (c) Ikhtlāṭ al-Dhahn",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anavasthitacittatvam (c) Ikhtlāṭ al-Dhahn"
+        }
+      }
+    },
+    {
+      "text": "(c) ekhtelAt-e zehn",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) ekhtelAt-e zehn"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1851825829",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "641502186"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:52.901378",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1851825829",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1851825829",
+    "code": "SQ05",
+    "source": "http://id.who.int/icd/entity/1851825829",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lack of concentration, confusion disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lack of concentration, confusion disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) anavasthitacittatvam (c) Ikhtlāṭ al-Dhahn"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) ekhtelAt-e zehn"
+        }
+      }
+    ]
+  }
+}

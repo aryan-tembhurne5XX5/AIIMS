@@ -1,0 +1,385 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/295973128",
+  "id": "295973128",
+  "title": "Eczema disorder (TM2)",
+  "code": "SN43",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Eczema disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) vicarcikā (b) Vātak karappāṉ (c) Nār Fārsī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vicarcikā (b) Vātak karappāṉ (c) Nār Fārsī"
+        }
+      }
+    },
+    {
+      "text": "(c) Chājan, (c) Ukauta",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Chājan, (c) Ukauta"
+        }
+      }
+    },
+    {
+      "text": "Eczema disorder with dry skin (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1954520243",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder with dry skin (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1954520243"
+      }
+    },
+    {
+      "text": "(b) Vaṟaṭcik karappāṉ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1954520243",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaṟaṭcik karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1954520243"
+      }
+    },
+    {
+      "text": "Eczema disorder caused by increase Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/550689076",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder caused by increase Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/550689076"
+      }
+    },
+    {
+      "text": "(b) Cilēṭṭumakkarappāṉ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/550689076",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilēṭṭumakkarappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/550689076"
+      }
+    },
+    {
+      "text": "Eczema disorder caused by increased Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/710901344",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/710901344"
+      }
+    },
+    {
+      "text": "(b) Pittak karappāṉ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/710901344",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/710901344"
+      }
+    },
+    {
+      "text": "Eczema disorder occuring in head and ears (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/902404076",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder occuring in head and ears (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/902404076"
+      }
+    },
+    {
+      "text": "Kaṇṭa karappāṉ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/902404076",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Kaṇṭa karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/902404076"
+      }
+    },
+    {
+      "text": "Eczema disorder with joint pain (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1061433480",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder with joint pain (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1061433480"
+      }
+    },
+    {
+      "text": "(b) Timirvātak karappāṉ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1061433480",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Timirvātak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1061433480"
+      }
+    },
+    {
+      "text": "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/182731908",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/182731908"
+      }
+    },
+    {
+      "text": "(b) Vaḷi kapālak karappāṉ",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/182731908",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi kapālak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/182731908"
+      }
+    },
+    {
+      "text": "Eczema disorder of the nose (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1501415190",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder of the nose (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1501415190"
+      }
+    },
+    {
+      "text": "(b) Mūkku Karappāṉ",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1501415190",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūkku Karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1501415190"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#295973128",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "1606080290"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:07.802870",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/295973128",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1606080290"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#295973128",
+    "code": "SN43",
+    "source": "http://id.who.int/icd/entity/295973128",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Eczema disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vicarcikā (b) Vātak karappāṉ (c) Nār Fārsī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Chājan, (c) Ukauta"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder with dry skin (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1954520243"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaṟaṭcik karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1954520243"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder caused by increase Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/550689076"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cilēṭṭumakkarappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/550689076"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder caused by increased Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/710901344"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Pittak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/710901344"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder occuring in head and ears (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/902404076"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Kaṇṭa karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/902404076"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder with joint pain (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1061433480"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Timirvātak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1061433480"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder occurred in scalp due to increased Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/182731908"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi kapālak karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/182731908"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Eczema disorder of the nose (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1501415190"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūkku Karappāṉ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1501415190"
+      }
+    ]
+  }
+}

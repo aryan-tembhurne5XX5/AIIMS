@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1908537217",
+  "id": "1908537217",
+  "title": "Traditional medicine patterns (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/309514703",
+    "http://id.who.int/icd/release/11/2025-01/mms/1029251439",
+    "http://id.who.int/icd/release/11/2025-01/mms/936674819",
+    "http://id.who.int/icd/release/11/2025-01/mms/862523453",
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430",
+    "http://id.who.int/icd/release/11/2025-01/mms/1576332228"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/562274788"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1908537217",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 6,
+  "depth": 2,
+  "parentPath": [
+    "718687701",
+    "562274788"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:23.706822",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1908537217",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/562274788"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/309514703",
+      "http://id.who.int/icd/release/11/2025-01/mms/1029251439",
+      "http://id.who.int/icd/release/11/2025-01/mms/936674819",
+      "http://id.who.int/icd/release/11/2025-01/mms/862523453",
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430",
+      "http://id.who.int/icd/release/11/2025-01/mms/1576332228"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1908537217",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1908537217",
+    "classKind": "block",
+    "blockId": "BlockL2-SR1",
+    "codeRange": "SR10-ST2Z",
+    "title": {
+      "@language": "en",
+      "@value": "Traditional medicine patterns (TM2)"
+    }
+  }
+}

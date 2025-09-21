@@ -1,0 +1,62 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/640597431",
+  "id": "640597431",
+  "title": "Personality patterns (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1411723271",
+    "http://id.who.int/icd/release/11/2025-01/mms/785368182",
+    "http://id.who.int/icd/release/11/2025-01/mms/712135242",
+    "http://id.who.int/icd/release/11/2025-01/mms/640597431/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/640597431/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#640597431",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:33.090001",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/640597431",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1233380430"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1411723271",
+      "http://id.who.int/icd/release/11/2025-01/mms/785368182",
+      "http://id.who.int/icd/release/11/2025-01/mms/712135242",
+      "http://id.who.int/icd/release/11/2025-01/mms/640597431/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/640597431/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#640597431",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/640597431",
+    "classKind": "block",
+    "blockId": "BlockL4-SS6",
+    "codeRange": "SS60-SS6Z",
+    "title": {
+      "@language": "en",
+      "@value": "Personality patterns (TM2)"
+    }
+  }
+}

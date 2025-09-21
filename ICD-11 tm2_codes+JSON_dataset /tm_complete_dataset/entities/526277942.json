@@ -1,0 +1,145 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/526277942",
+  "id": "526277942",
+  "title": "Nausea disorder (TM2)",
+  "code": "SM3H",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Nausea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Nausea disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) utkleśaḥ (c) Ghathayān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) utkleśaḥ (c) Ghathayān"
+        }
+      }
+    },
+    {
+      "text": "(b) Manta aiya nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Manta aiya nōy"
+        }
+      }
+    },
+    {
+      "text": "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1890576287",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890576287"
+      }
+    },
+    {
+      "text": "(b) Cūl vānti",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1890576287",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl vānti"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890576287"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#526277942",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:43.611034",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/526277942",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#526277942",
+    "code": "SM3H",
+    "source": "http://id.who.int/icd/entity/526277942",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Nausea disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Nausea disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) utkleśaḥ (c) Ghathayān"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Manta aiya nōy"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Morning sickness during pregnancy (Nausea gravidarum) disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890576287"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūl vānti"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890576287"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/373248917",
+  "id": "373248917",
+  "title": "Turbid phlegm accumulation in the lung pattern (TM1)",
+  "code": "SF86",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Turbid phlegm accumulation in the lung pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Turbid phlegm accumulation in the lung pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#373248917",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1266950345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:07.459531",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/373248917",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#373248917",
+    "code": "SF86",
+    "source": "http://id.who.int/icd/entity/373248917",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Turbid phlegm accumulation in the lung pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Turbid phlegm accumulation in the lung pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

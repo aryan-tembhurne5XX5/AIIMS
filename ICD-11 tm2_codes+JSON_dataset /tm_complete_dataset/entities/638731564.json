@@ -1,0 +1,86 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/638731564",
+  "id": "638731564",
+  "title": "Inadequate diet disorders (TM2)",
+  "code": "SQ80",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Inadequate diet disorders (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Inadequate diet disorders (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) hīnamātrāhāraḥ (b) Ūṭṭaccattu kuṟaipāṭu nōykaḷ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hīnamātrāhāraḥ (b) Ūṭṭaccattu kuṟaipāṭu nōykaḷ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/761201319"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#638731564",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "761201319"
+  ],
+  "extractionTimestamp": "2025-09-21T01:16:13.236455",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/638731564",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/761201319"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#638731564",
+    "code": "SQ80",
+    "source": "http://id.who.int/icd/entity/638731564",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Inadequate diet disorders (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Inadequate diet disorders (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hīnamātrāhāraḥ (b) Ūṭṭaccattu kuṟaipāṭu nōykaḷ"
+        }
+      }
+    ]
+  }
+}

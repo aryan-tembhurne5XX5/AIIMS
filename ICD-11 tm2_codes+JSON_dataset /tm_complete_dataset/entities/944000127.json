@@ -1,0 +1,83 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/944000127",
+  "id": "944000127",
+  "title": "Disorders affecting the whole body (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163",
+    "http://id.who.int/icd/release/11/2025-01/mms/858244402",
+    "http://id.who.int/icd/release/11/2025-01/mms/967467614",
+    "http://id.who.int/icd/release/11/2025-01/mms/2136477741",
+    "http://id.who.int/icd/release/11/2025-01/mms/2086832920",
+    "http://id.who.int/icd/release/11/2025-01/mms/1935012118",
+    "http://id.who.int/icd/release/11/2025-01/mms/944185295",
+    "http://id.who.int/icd/release/11/2025-01/mms/1724940400",
+    "http://id.who.int/icd/release/11/2025-01/mms/562399900",
+    "http://id.who.int/icd/release/11/2025-01/mms/721956344",
+    "http://id.who.int/icd/release/11/2025-01/mms/1217546582",
+    "http://id.who.int/icd/release/11/2025-01/mms/2069056577",
+    "http://id.who.int/icd/release/11/2025-01/mms/1576590672",
+    "http://id.who.int/icd/release/11/2025-01/mms/375213785",
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#944000127",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 16,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:08.468866",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/944000127",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1147241349"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163",
+      "http://id.who.int/icd/release/11/2025-01/mms/858244402",
+      "http://id.who.int/icd/release/11/2025-01/mms/967467614",
+      "http://id.who.int/icd/release/11/2025-01/mms/2136477741",
+      "http://id.who.int/icd/release/11/2025-01/mms/2086832920",
+      "http://id.who.int/icd/release/11/2025-01/mms/1935012118",
+      "http://id.who.int/icd/release/11/2025-01/mms/944185295",
+      "http://id.who.int/icd/release/11/2025-01/mms/1724940400",
+      "http://id.who.int/icd/release/11/2025-01/mms/562399900",
+      "http://id.who.int/icd/release/11/2025-01/mms/721956344",
+      "http://id.who.int/icd/release/11/2025-01/mms/1217546582",
+      "http://id.who.int/icd/release/11/2025-01/mms/2069056577",
+      "http://id.who.int/icd/release/11/2025-01/mms/1576590672",
+      "http://id.who.int/icd/release/11/2025-01/mms/375213785",
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#944000127",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/944000127",
+    "classKind": "block",
+    "blockId": "BlockL3-SP5",
+    "codeRange": "SP50-SP9Z",
+    "title": {
+      "@language": "en",
+      "@value": "Disorders affecting the whole body (TM2)"
+    }
+  }
+}

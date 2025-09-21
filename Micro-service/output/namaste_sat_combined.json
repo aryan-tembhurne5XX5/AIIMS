@@ -1,0 +1,92 @@
+[
+  {
+    "term_id": "1",
+    "parent_id": "0",
+    "code": "SAT-A",
+    "word": "mUlaBUta-SabdaH",
+    "short_definition": "fundamental terms",
+    "long_definition": "terms related to fundamental principles of Ayurveda",
+    "reference": ""
+  },
+  {
+    "term_id": "2",
+    "parent_id": "1",
+    "code": "SAT-A.1",
+    "word": "AyurvedaH",
+    "short_definition": "science of life",
+    "long_definition": "science where advantageous and disadvantageous, happy and unhappy (states of) life along with what is good and bad for life, its measurement and life itself are described",
+    "reference": ""
+  },
+  {
+    "term_id": "3",
+    "parent_id": "2",
+    "code": "SAT-A.2",
+    "word": "AyuH",
+    "short_definition": "life; lifespan",
+    "long_definition": "combination of the body, sense organs, mind and soul",
+    "reference": ""
+  },
+  {
+    "term_id": "4",
+    "parent_id": "3",
+    "code": "SAT-A.3",
+    "word": "dhAri",
+    "short_definition": "that which sustains",
+    "long_definition": "the sustenance of life or the aspect of life which prevents decay",
+    "reference": ""
+  },
+  {
+    "term_id": "5",
+    "parent_id": "3",
+    "code": "SAT-A.4",
+    "word": "jIvitam",
+    "short_definition": "life",
+    "long_definition": "that which keeps the body alive",
+    "reference": ""
+  },
+  {
+    "term_id": "6",
+    "parent_id": "3",
+    "code": "SAT-A.5",
+    "word": "nityaga",
+    "short_definition": "incessant",
+    "long_definition": "continuous or uninterrupted process of life",
+    "reference": ""
+  },
+  {
+    "term_id": "7",
+    "parent_id": "3",
+    "code": "SAT-A.6",
+    "word": "anubandhaH",
+    "short_definition": "continuity of life",
+    "long_definition": "continuity of result in the form of life due to the association of body, sense organs, mind and soul; which transmigrates from one body to another",
+    "reference": ""
+  },
+  {
+    "term_id": "8",
+    "parent_id": "2",
+    "code": "SAT-A.7",
+    "word": "AyuH-prakAraH",
+    "short_definition": "types of life",
+    "long_definition": "Four patterns of lifestyle viz., wholesome, unwholesome, happy and unhappy",
+    "reference": ""
+  },
+  {
+    "term_id": "9",
+    "parent_id": "8",
+    "code": "SAT-A.8",
+    "word": "hitAyuH",
+    "short_definition": "wholesome life",
+    "long_definition": "lifestyle which is beneficial to the self and the society",
+    "reference": ""
+  },
+  {
+    "term_id": "10",
+    "parent_id": "8",
+    "code": "SAT-A.9",
+    "word": "ahitAyuH",
+    "short_definition": "unwholesome life",
+    "long_definition": "lifestyle which is neither beneficial for the society nor for the self",
+    "reference": ""
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/822335309",
+  "id": "822335309",
+  "title": "Intense congestion of lung heat pattern (TM1)",
+  "code": "SF88",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Intense congestion of lung heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intense congestion of lung heat pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Intense lung heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Intense lung heat pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#822335309",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1266950345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:09.577168",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/822335309",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#822335309",
+    "code": "SF88",
+    "source": "http://id.who.int/icd/entity/822335309",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Intense congestion of lung heat pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intense congestion of lung heat pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Intense lung heat pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

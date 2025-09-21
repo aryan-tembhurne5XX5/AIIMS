@@ -1,0 +1,123 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/666606171",
+  "id": "666606171",
+  "title": "Ṣafrā’ predominant temperament pattern (TM2)",
+  "code": "SS73",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Ṣafrā’ predominant temperament pattern (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ṣafrā’ predominant temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Ṣafrāwī al-Mizāj",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣafrāwī al-Mizāj"
+        }
+      }
+    },
+    {
+      "text": "Hot and dry temperament pattern (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hot and dry temperament pattern (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(c) Mizāj Ḥārr Yābis",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Ḥārr Yābis"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#666606171",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217",
+    "1233380430",
+    "844739135"
+  ],
+  "extractionTimestamp": "2025-09-21T01:19:41.541010",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/666606171",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/844739135"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#666606171",
+    "code": "SS73",
+    "source": "http://id.who.int/icd/entity/666606171",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Ṣafrā’ predominant temperament pattern (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ṣafrā’ predominant temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ṣafrāwī al-Mizāj"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hot and dry temperament pattern (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Mizāj Ḥārr Yābis"
+        }
+      }
+    ]
+  }
+}

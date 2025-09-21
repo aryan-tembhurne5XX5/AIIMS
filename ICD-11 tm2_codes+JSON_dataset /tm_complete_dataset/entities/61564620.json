@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/61564620",
+  "id": "61564620",
+  "title": "Dental plaque disorder (TM2)",
+  "code": "SM1F",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dental plaque disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dental plaque disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) dantaśarkarā (b) Pallaṭi mañcaḷātal (c) Dā’ al-Ḥafr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantaśarkarā (b) Pallaṭi mañcaḷātal (c) Dā’ al-Ḥafr"
+        }
+      }
+    },
+    {
+      "text": "(c) Ḥafr al-Asnān wa’l Qalḥ",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥafr al-Asnān wa’l Qalḥ"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#61564620",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1627131462"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:15.232171",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/61564620",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1627131462"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#61564620",
+    "code": "SM1F",
+    "source": "http://id.who.int/icd/entity/61564620",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dental plaque disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dental plaque disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) dantaśarkarā (b) Pallaṭi mañcaḷātal (c) Dā’ al-Ḥafr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Ḥafr al-Asnān wa’l Qalḥ"
+        }
+      }
+    ]
+  }
+}

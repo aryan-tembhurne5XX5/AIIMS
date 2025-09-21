@@ -1,0 +1,1267 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1280110553",
+  "id": "1280110553",
+  "title": "Polyuria disorder (TM2)",
+  "code": "SM8D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Polyuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pramehaḥ (b) Nīriṉaipperukkal nōykaḷ (c) Kathra al-Bawl",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pramehaḥ (b) Nīriṉaipperukkal nōykaḷ (c) Kathra al-Bawl"
+        }
+      }
+    },
+    {
+      "text": "Polyuria disorder due to Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/916855720",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/916855720"
+      }
+    },
+    {
+      "text": "(a) kaphajapramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/916855720",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajapramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/916855720"
+      }
+    },
+    {
+      "text": "Polyuria disorder due to Pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1498915073",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1498915073"
+      }
+    },
+    {
+      "text": "(a) pittaja-pramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1498915073",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-pramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1498915073"
+      }
+    },
+    {
+      "text": "Polyuria disorder due to Vāta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1015811254",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1015811254"
+      }
+    },
+    {
+      "text": "(a) vātajapramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1015811254",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātajapramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1015811254"
+      }
+    },
+    {
+      "text": "Aggravated Aiyam leading to polyurea disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1288884347",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam leading to polyurea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      }
+    },
+    {
+      "text": "(b) Nīrkkōvai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1288884347",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkōvai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      }
+    },
+    {
+      "text": "(b) Nīriẕivu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1288884347",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīriẕivu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      }
+    },
+    {
+      "text": "Albuminuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1679117842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Albuminuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1679117842"
+      }
+    },
+    {
+      "text": "(a) lālāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1679117842",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lālāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1679117842"
+      }
+    },
+    {
+      "text": "Albunosuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/30335911",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Albunosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/30335911"
+      }
+    },
+    {
+      "text": "(a) piṣṭamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/30335911",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) piṣṭamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/30335911"
+      }
+    },
+    {
+      "text": "Ash-coloured urine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/786764551",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ash-coloured urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/786764551"
+      }
+    },
+    {
+      "text": "(a) kṣāramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/786764551",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣāramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/786764551"
+      }
+    },
+    {
+      "text": "Belluria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/610841707",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Belluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/610841707"
+      }
+    },
+    {
+      "text": "(a) sāndraprasādamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/610841707",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāndraprasādamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/610841707"
+      }
+    },
+    {
+      "text": "Bilirubinuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/251238827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bilirubinuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/251238827"
+      }
+    },
+    {
+      "text": "(a) hāridramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/251238827",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hāridramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/251238827"
+      }
+    },
+    {
+      "text": "Chyluria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/74727111",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Chyluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/74727111"
+      }
+    },
+    {
+      "text": "(a) sāndramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/74727111",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāndramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/74727111"
+      }
+    },
+    {
+      "text": "Excess and profuse urination like elephant disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/80973495",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Excess and profuse urination like elephant disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/80973495"
+      }
+    },
+    {
+      "text": "(a) hastimehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/80973495",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hastimehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/80973495"
+      }
+    },
+    {
+      "text": "Frothy urine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1297495369",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Frothy urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1297495369"
+      }
+    },
+    {
+      "text": "(a) phenamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1297495369",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phenamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1297495369"
+      }
+    },
+    {
+      "text": "Glycosuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1671394855",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Glycosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1671394855"
+      }
+    },
+    {
+      "text": "(a) ikṣuvālikāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1671394855",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ikṣuvālikāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1671394855"
+      }
+    },
+    {
+      "text": "Gravaluria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/427131478",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gravaluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      }
+    },
+    {
+      "text": "(a) sikatāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/427131478",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sikatāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      }
+    },
+    {
+      "text": "Lithuria (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/427131478",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lithuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      }
+    },
+    {
+      "text": "Haemoglobinuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/218271200",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemoglobinuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/218271200"
+      }
+    },
+    {
+      "text": "(a) mañjiṣṭhāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/218271200",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mañjiṣṭhāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/218271200"
+      }
+    },
+    {
+      "text": "Hydruria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1759060075",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hydruria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1759060075"
+      }
+    },
+    {
+      "text": "(a) udakamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1759060075",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udakamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1759060075"
+      }
+    },
+    {
+      "text": "Indicanuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1207095499",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Indicanuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1207095499"
+      }
+    },
+    {
+      "text": "(a) nīlamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1207095499",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nīlamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1207095499"
+      }
+    },
+    {
+      "text": "Melanuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1300199335",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Melanuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1300199335"
+      }
+    },
+    {
+      "text": "(a) kālamehaḥ, (a) kṛṣṇamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1300199335",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kālamehaḥ, (a) kṛṣṇamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1300199335"
+      }
+    },
+    {
+      "text": "Polyuria disorder with cold urine (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1743673959",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder with cold urine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743673959"
+      }
+    },
+    {
+      "text": "(a) śītamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1743673959",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śītamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743673959"
+      }
+    },
+    {
+      "text": "Polyurea disorder like salt solution (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1835269387",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Polyurea disorder like salt solution (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835269387"
+      }
+    },
+    {
+      "text": "(a) lavaṇamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1835269387",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lavaṇamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835269387"
+      }
+    },
+    {
+      "text": "Slow pace micturition disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1841581435",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Slow pace micturition disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1841581435"
+      }
+    },
+    {
+      "text": "(a) śanairmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1841581435",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śanairmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1841581435"
+      }
+    },
+    {
+      "text": "Hyper-acidic urine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1021773498",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hyper-acidic urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1021773498"
+      }
+    },
+    {
+      "text": "(a) amlamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1021773498",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) amlamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1021773498"
+      }
+    },
+    {
+      "text": "Spermaturia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/945459334",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Spermaturia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/945459334"
+      }
+    },
+    {
+      "text": "(a) śukramehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/945459334",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/945459334"
+      }
+    },
+    {
+      "text": "Urine resembling alcohol disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/852965354",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling alcohol disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852965354"
+      }
+    },
+    {
+      "text": "(a) surāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/852965354",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) surāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852965354"
+      }
+    },
+    {
+      "text": "Urine resembling bone marrow disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1455909757",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling bone marrow disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1455909757"
+      }
+    },
+    {
+      "text": "(a) majjāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1455909757",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) majjāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1455909757"
+      }
+    },
+    {
+      "text": "Urine resembling ghee disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1548405777",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling ghee disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548405777"
+      }
+    },
+    {
+      "text": "(a) sarpirmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1548405777",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpirmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548405777"
+      }
+    },
+    {
+      "text": "Urine resembling intramuscular fat disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1559067745",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling intramuscular fat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1559067745"
+      }
+    },
+    {
+      "text": "(a) vasāmehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1559067745",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vasāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1559067745"
+      }
+    },
+    {
+      "text": "White urine disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/381325574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "White urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      }
+    },
+    {
+      "text": "(a) śuklamehaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/381325574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuklamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      }
+    },
+    {
+      "text": "Albinuria (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/381325574",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Albinuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1280110553",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:26.486163",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1280110553",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1280110553",
+    "code": "SM8D",
+    "source": "http://id.who.int/icd/entity/1280110553",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Polyuria disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pramehaḥ (b) Nīriṉaipperukkal nōykaḷ (c) Kathra al-Bawl"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/916855720"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphajapramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/916855720"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1498915073"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-pramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1498915073"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder due to Vāta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1015811254"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātajapramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1015811254"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Aggravated Aiyam leading to polyurea disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīrkkōvai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Nīriẕivu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1288884347"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Albuminuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1679117842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lālāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1679117842"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Albunosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/30335911"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) piṣṭamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/30335911"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ash-coloured urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/786764551"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kṣāramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/786764551"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Belluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/610841707"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāndraprasādamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/610841707"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bilirubinuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/251238827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hāridramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/251238827"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Chyluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/74727111"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sāndramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/74727111"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Excess and profuse urination like elephant disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/80973495"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) hastimehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/80973495"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Frothy urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1297495369"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) phenamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1297495369"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Glycosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1671394855"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ikṣuvālikāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1671394855"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gravaluria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sikatāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lithuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/427131478"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemoglobinuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/218271200"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mañjiṣṭhāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/218271200"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hydruria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1759060075"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) udakamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1759060075"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Indicanuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1207095499"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) nīlamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1207095499"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Melanuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1300199335"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kālamehaḥ, (a) kṛṣṇamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1300199335"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyuria disorder with cold urine (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743673959"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śītamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1743673959"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Polyurea disorder like salt solution (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835269387"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lavaṇamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1835269387"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Slow pace micturition disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1841581435"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śanairmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1841581435"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hyper-acidic urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1021773498"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) amlamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1021773498"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Spermaturia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/945459334"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śukramehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/945459334"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling alcohol disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852965354"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) surāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/852965354"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling bone marrow disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1455909757"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) majjāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1455909757"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling ghee disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548405777"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sarpirmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1548405777"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Urine resembling intramuscular fat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1559067745"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vasāmehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1559067745"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "White urine disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuklamehaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Albinuria (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/381325574"
+      }
+    ]
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1140219191",
+  "id": "1140219191",
+  "title": "Abdominal pain disorder (TM2)",
+  "code": "SM33",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Abdominal pain disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal pain disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) śūlaḥ (b) Vayiṟṟu Vaḷi (c) Waja‘ al-Mi‘da",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śūlaḥ (b) Vayiṟṟu Vaḷi (c) Waja‘ al-Mi‘da"
+        }
+      }
+    },
+    {
+      "text": "(b) Cūlai nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūlai nōy"
+        }
+      }
+    },
+    {
+      "text": "Abdomen pain and flatulance disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/762029774",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Abdomen pain and flatulance disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/762029774"
+      }
+    },
+    {
+      "text": "(b) Tūra cūlai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/762029774",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tūra cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/762029774"
+      }
+    },
+    {
+      "text": "Pain disorder in the lower abdomen (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/768349888",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pain disorder in the lower abdomen (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768349888"
+      }
+    },
+    {
+      "text": "(b) Aiya cūlai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/768349888",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768349888"
+      }
+    },
+    {
+      "text": "Spasmodic pain in the abdomen disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1738275803",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Spasmodic pain in the abdomen disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738275803"
+      }
+    },
+    {
+      "text": "(b) Muṟi cūlai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1738275803",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muṟi cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738275803"
+      }
+    },
+    {
+      "text": "Tenesmus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1030587654",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Tenesmus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030587654"
+      }
+    },
+    {
+      "text": "(c) Maghṣ",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1030587654",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Maghṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030587654"
+      }
+    },
+    {
+      "text": "Gastralgia due to Riyāḥ disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/678874078",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia due to Riyāḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/678874078"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Riyāḥī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/678874078",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Riyāḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/678874078"
+      }
+    },
+    {
+      "text": "Gastralgia disorder due to derangement of Ṣafrā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1303209579",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1303209579"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Ṣafrāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1303209579",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1303209579"
+      }
+    },
+    {
+      "text": "Hot gastralgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1225846869",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hot gastralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1225846869"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Ḥārr",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1225846869",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1225846869"
+      }
+    },
+    {
+      "text": "Gastralgia disorder due to derangement of Balgham (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/420678092",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/420678092"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Bārid Balghamī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/420678092",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Bārid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/420678092"
+      }
+    },
+    {
+      "text": "Gastralgia disorder due to derangement of Sawdā' (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/224659014",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/224659014"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Yābis Sawdāwī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/224659014",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Yābis Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/224659014"
+      }
+    },
+    {
+      "text": "Asthenic gastralgia disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2005856821",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Asthenic gastralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2005856821"
+      }
+    },
+    {
+      "text": "(c) Waja‘ al-Mi‘da Ḍu‘fī",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/2005856821",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ḍu‘fī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2005856821"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1140219191",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "2137712626"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:28.936906",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1140219191",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2137712626"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1140219191",
+    "code": "SM33",
+    "source": "http://id.who.int/icd/entity/1140219191",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Abdominal pain disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal pain disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śūlaḥ (b) Vayiṟṟu Vaḷi (c) Waja‘ al-Mi‘da"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cūlai nōy"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abdomen pain and flatulance disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/762029774"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tūra cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/762029774"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pain disorder in the lower abdomen (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768349888"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/768349888"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Spasmodic pain in the abdomen disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738275803"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Muṟi cūlai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738275803"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Tenesmus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030587654"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Maghṣ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1030587654"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia due to Riyāḥ disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/678874078"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Riyāḥī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/678874078"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Ṣafrā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1303209579"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ṣafrāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1303209579"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hot gastralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1225846869"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ḥārr"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1225846869"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Balgham (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/420678092"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Bārid Balghamī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/420678092"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Gastralgia disorder due to derangement of Sawdā' (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/224659014"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Yābis Sawdāwī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/224659014"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Asthenic gastralgia disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2005856821"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waja‘ al-Mi‘da Ḍu‘fī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2005856821"
+      }
+    ]
+  }
+}

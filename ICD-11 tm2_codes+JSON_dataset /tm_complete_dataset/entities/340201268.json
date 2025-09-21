@@ -1,0 +1,207 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/340201268",
+  "id": "340201268",
+  "title": "Insufficiency of the urinary bladder disorder (TM2)",
+  "code": "SM82",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Insufficiency of the urinary bladder disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Insufficiency of the urinary bladder disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) mūtrāghātaḥ (b) Nīraṭaippu (c) Ḍu‘f al-Mathāna",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrāghātaḥ (b) Nīraṭaippu (c) Ḍu‘f al-Mathāna"
+        }
+      }
+    },
+    {
+      "text": "Uro-celioncus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/728423516",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Uro-celioncus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/728423516"
+      }
+    },
+    {
+      "text": "(a) mūtrajaṭharaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/728423516",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrajaṭharaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/728423516"
+      }
+    },
+    {
+      "text": "Circular bladder distension disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/842404070",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Circular bladder distension disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842404070"
+      }
+    },
+    {
+      "text": "(a) bastikuṇḍalaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/842404070",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bastikuṇḍalaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842404070"
+      }
+    },
+    {
+      "text": "Atonic bladder disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1573366351",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Atonic bladder disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573366351"
+      }
+    },
+    {
+      "text": "(c) Istirkhā’ al-Mathāna",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/1573366351",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Istirkhā’ al-Mathāna"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573366351"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#340201268",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "344029973"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:14.895642",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/340201268",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/344029973"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#340201268",
+    "code": "SM82",
+    "source": "http://id.who.int/icd/entity/340201268",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Insufficiency of the urinary bladder disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Insufficiency of the urinary bladder disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrāghātaḥ (b) Nīraṭaippu (c) Ḍu‘f al-Mathāna"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Uro-celioncus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/728423516"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) mūtrajaṭharaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/728423516"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Circular bladder distension disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842404070"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bastikuṇḍalaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/842404070"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Atonic bladder disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573366351"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Istirkhā’ al-Mathāna"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1573366351"
+      }
+    ]
+  }
+}

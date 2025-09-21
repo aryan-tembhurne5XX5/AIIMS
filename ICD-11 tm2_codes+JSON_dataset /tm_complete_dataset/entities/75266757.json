@@ -1,0 +1,142 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/75266757",
+  "id": "75266757",
+  "title": "Wind impediment disorder (TM1)",
+  "code": "SC51",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Wind impediment disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Wind impediment disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Moving impediment disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Moving impediment disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Wind hindrance disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Wind hindrance disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Migrating painful movement disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Migrating painful movement disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Migratory impediment (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Migratory impediment (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1186414463"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#75266757",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 6,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "1063442626",
+    "1186414463"
+  ],
+  "extractionTimestamp": "2025-09-21T01:04:44.350651",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/75266757",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1186414463"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#75266757",
+    "code": "SC51",
+    "source": "http://id.who.int/icd/entity/75266757",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Wind impediment disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Wind impediment disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Moving impediment disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Wind hindrance disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Migrating painful movement disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Migratory impediment (TM1)"
+        }
+      }
+    ]
+  }
+}

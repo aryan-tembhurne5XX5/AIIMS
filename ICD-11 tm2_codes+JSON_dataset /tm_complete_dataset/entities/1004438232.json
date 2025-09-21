@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1004438232",
+  "id": "1004438232",
+  "title": "Benign tumour disorder (TM2)",
+  "code": "SP71",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Benign tumour disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Benign tumour disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) granthi (b) Naṉmaṟavaikkaṭṭikaḷ (c) Sal‘āt",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) granthi (b) Naṉmaṟavaikkaṭṭikaḷ (c) Sal‘āt"
+        }
+      }
+    },
+    {
+      "text": "Crystal-hard tumors disorder (TM2)",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/838112710",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Crystal-hard tumors disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/838112710"
+      }
+    },
+    {
+      "text": "(a) śarkarārbudaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/838112710",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śarkarārbudaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/838112710"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/967467614"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1004438232",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127",
+    "967467614"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:31.758791",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1004438232",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/967467614"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1004438232",
+    "code": "SP71",
+    "source": "http://id.who.int/icd/entity/1004438232",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Benign tumour disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Benign tumour disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) granthi (b) Naṉmaṟavaikkaṭṭikaḷ (c) Sal‘āt"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Crystal-hard tumors disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/838112710"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śarkarārbudaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/838112710"
+      }
+    ]
+  }
+}

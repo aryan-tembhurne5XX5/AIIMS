@@ -1,0 +1,61 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1234235520",
+  "id": "1234235520",
+  "title": "Triple energizer stage patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/847718854",
+    "http://id.who.int/icd/release/11/2025-01/mms/445098170",
+    "http://id.who.int/icd/release/11/2025-01/mms/1069619559",
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1234235520",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 5,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:14.136833",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1234235520",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/347093131"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/847718854",
+      "http://id.who.int/icd/release/11/2025-01/mms/445098170",
+      "http://id.who.int/icd/release/11/2025-01/mms/1069619559",
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1234235520",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1234235520",
+    "classKind": "block",
+    "blockId": "BlockL3-SG7",
+    "codeRange": "SG70-SG7Z",
+    "title": {
+      "@language": "en",
+      "@value": "Triple energizer stage patterns (TM1)"
+    }
+  }
+}

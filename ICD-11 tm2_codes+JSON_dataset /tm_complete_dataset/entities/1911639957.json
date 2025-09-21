@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1911639957",
+  "id": "1911639957",
+  "title": "Osteoarthritis disorder (TM2)",
+  "code": "SP12",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Osteoarthritis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Osteoarthritis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) sandhigatavātaḥ (b) Aẕal kīl vāyu (c) Taḥajjur wa Ṣalāba al-Mafāṣil",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sandhigatavātaḥ (b) Aẕal kīl vāyu (c) Taḥajjur wa Ṣalāba al-Mafāṣil"
+        }
+      }
+    },
+    {
+      "text": "Arthritis disorder with near fusion of bones (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/721891656",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Arthritis disorder with near fusion of bones (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/721891656"
+      }
+    },
+    {
+      "text": "(b) Mukkuṟṟa kīlvāyu",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/721891656",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa kīlvāyu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/721891656"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/748187240"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1911639957",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1324098793",
+    "748187240"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:54.463522",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1911639957",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/748187240"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1911639957",
+    "code": "SP12",
+    "source": "http://id.who.int/icd/entity/1911639957",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Osteoarthritis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Osteoarthritis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sandhigatavātaḥ (b) Aẕal kīl vāyu (c) Taḥajjur wa Ṣalāba al-Mafāṣil"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Arthritis disorder with near fusion of bones (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/721891656"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa kīlvāyu"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/721891656"
+      }
+    ]
+  }
+}

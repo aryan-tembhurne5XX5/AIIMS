@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1976940353",
+  "id": "1976940353",
+  "title": "Delirium disorder (TM2)",
+  "code": "SQ00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Delirium disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) atipralāpaḥ (b) Caṉṉi nōy (c) Hadhayān",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) atipralāpaḥ (b) Caṉṉi nōy (c) Hadhayān"
+        }
+      }
+    },
+    {
+      "text": "(a) pralāpakaḥ",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pralāpakaḥ"
+        }
+      }
+    },
+    {
+      "text": "Delirium disorder with dysfunction of panchendriyam due to Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1523252493",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder with dysfunction of panchendriyam due to Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1523252493"
+      }
+    },
+    {
+      "text": "(b) Apiniyāca caṉṉi",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1523252493",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Apiniyāca caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1523252493"
+      }
+    },
+    {
+      "text": "Delirium disorder due to Aẕal aggravation (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/461174358",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder due to Aẕal aggravation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461174358"
+      }
+    },
+    {
+      "text": "(b) Āvuru pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/461174358",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Āvuru pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461174358"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1976940353",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1471542998",
+    "641502186"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:47.704661",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1976940353",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/641502186"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1976940353",
+    "code": "SQ00",
+    "source": "http://id.who.int/icd/entity/1976940353",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Delirium disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) atipralāpaḥ (b) Caṉṉi nōy (c) Hadhayān"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pralāpakaḥ"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder with dysfunction of panchendriyam due to Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1523252493"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Apiniyāca caṉṉi"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1523252493"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Delirium disorder due to Aẕal aggravation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461174358"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Āvuru pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/461174358"
+      }
+    ]
+  }
+}

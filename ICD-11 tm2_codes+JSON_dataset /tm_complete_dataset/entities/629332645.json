@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/629332645",
+  "id": "629332645",
+  "title": "Foot dampness itch disorder (TM1)",
+  "code": "SB71",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Foot dampness itch disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Foot dampness itch disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Smelly snail disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Smelly snail disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#629332645",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "111874651",
+    "12821860"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:56.417312",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/629332645",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/12821860"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#629332645",
+    "code": "SB71",
+    "source": "http://id.who.int/icd/entity/629332645",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Foot dampness itch disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Foot dampness itch disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Smelly snail disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

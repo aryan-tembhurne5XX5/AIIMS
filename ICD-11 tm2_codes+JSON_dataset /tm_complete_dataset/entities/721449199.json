@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/721449199",
+  "id": "721449199",
+  "title": "Liver yin deficiency pattern (TM1)",
+  "code": "SF50",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Liver yin deficiency pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver yin deficiency pattern (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Liver deficiency-heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Liver deficiency-heat pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#721449199",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1628485143"
+  ],
+  "extractionTimestamp": "2025-09-21T01:06:48.535271",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/721449199",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1628485143"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#721449199",
+    "code": "SF50",
+    "source": "http://id.who.int/icd/entity/721449199",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Liver yin deficiency pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver yin deficiency pattern (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Liver deficiency-heat pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

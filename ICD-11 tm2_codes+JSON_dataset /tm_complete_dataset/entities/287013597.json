@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/287013597",
+  "id": "287013597",
+  "title": "Deficiency of heart qi and yin pattern (TM1)",
+  "code": "SF65",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Deficiency of heart qi and yin pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of heart qi and yin pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/869021345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#287013597",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "869021345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:07:17.755292",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/287013597",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/869021345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#287013597",
+    "code": "SF65",
+    "source": "http://id.who.int/icd/entity/287013597",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Deficiency of heart qi and yin pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deficiency of heart qi and yin pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

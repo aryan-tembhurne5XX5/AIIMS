@@ -1,0 +1,167 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/151610450",
+  "id": "151610450",
+  "title": "Folliculitis disorder (TM2)",
+  "code": "SN72",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Folliculitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Folliculitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) arūṃṣikā (c) Sa‘fa",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arūṃṣikā (c) Sa‘fa"
+        }
+      }
+    },
+    {
+      "text": "Wet folliculitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/59032382",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Wet folliculitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/59032382"
+      }
+    },
+    {
+      "text": "(c) Sa‘fa Raṭba, (c) Shīrīnaj",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/59032382",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sa‘fa Raṭba, (c) Shīrīnaj"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/59032382"
+      }
+    },
+    {
+      "text": "Dry folliculitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/908375866",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dry folliculitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908375866"
+      }
+    },
+    {
+      "text": "(c) Sa‘fa Yābisa, (c) Sūrajī",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/908375866",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sa‘fa Yābisa, (c) Sūrajī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908375866"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/964894896"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#151610450",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "964894896"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:42.614197",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/151610450",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/964894896"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#151610450",
+    "code": "SN72",
+    "source": "http://id.who.int/icd/entity/151610450",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Folliculitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Folliculitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arūṃṣikā (c) Sa‘fa"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Wet folliculitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/59032382"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sa‘fa Raṭba, (c) Shīrīnaj"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/59032382"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dry folliculitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908375866"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Sa‘fa Yābisa, (c) Sūrajī"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/908375866"
+      }
+    ]
+  }
+}

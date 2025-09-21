@@ -1,0 +1,127 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/470952586",
+  "id": "470952586",
+  "title": "Baldness disorder (TM2)",
+  "code": "SN71",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Baldness disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Baldness disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) khālityam (b) Mayir utiral (c) Ṣala‘",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) khālityam (b) Mayir utiral (c) Ṣala‘"
+        }
+      }
+    },
+    {
+      "text": "Hair fall disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/379555302",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hair fall disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/379555302"
+      }
+    },
+    {
+      "text": "(c) Intithār al-Sha‘r",
+      "language": "arabic_persian",
+      "foundationReference": "http://id.who.int/icd/entity/379555302",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Intithār al-Sha‘r"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/379555302"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/964894896"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#470952586",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1367002461",
+    "964894896"
+  ],
+  "extractionTimestamp": "2025-09-21T01:14:41.572980",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/470952586",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/964894896"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#470952586",
+    "code": "SN71",
+    "source": "http://id.who.int/icd/entity/470952586",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Baldness disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Baldness disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) khālityam (b) Mayir utiral (c) Ṣala‘"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hair fall disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/379555302"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Intithār al-Sha‘r"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/379555302"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/435722194",
+  "id": "435722194",
+  "title": "Fistula in ano disorder (TM2)",
+  "code": "SM52",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Fistula in ano disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fistula in ano disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) bhagandaraḥ (b) Pavuttiram (c) Nawāṣīr Nāfidha",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bhagandaraḥ (b) Pavuttiram (c) Nawāṣīr Nāfidha"
+        }
+      }
+    },
+    {
+      "text": "Faecal fistula disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1125050639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Faecal fistula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1125050639"
+      }
+    },
+    {
+      "text": "(a) viḍ-vighātaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1125050639",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viḍ-vighātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1125050639"
+      }
+    },
+    {
+      "text": "Ano vesical fistula disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/651510970",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Ano vesical fistula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651510970"
+      }
+    },
+    {
+      "text": "(b) Mūlap pavuttiram",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/651510970",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūlap pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651510970"
+      }
+    },
+    {
+      "text": "Anorectal fistula disorder due to increasing Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/271637227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Anorectal fistula disorder due to increasing Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/271637227"
+      }
+    },
+    {
+      "text": "(b) Eruvāy kaṇṭamālai pavuttiram",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/271637227",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy kaṇṭamālai pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/271637227"
+      }
+    },
+    {
+      "text": "Fistula in ani disorder due to increasing Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2143379524",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Fistula in ani disorder due to increasing Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2143379524"
+      }
+    },
+    {
+      "text": "(b) Eruvāy pavuttiram",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2143379524",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2143379524"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#435722194",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1901778594"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:57.441248",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/435722194",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#435722194",
+    "code": "SM52",
+    "source": "http://id.who.int/icd/entity/435722194",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Fistula in ano disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fistula in ano disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) bhagandaraḥ (b) Pavuttiram (c) Nawāṣīr Nāfidha"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Faecal fistula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1125050639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) viḍ-vighātaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1125050639"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Ano vesical fistula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651510970"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūlap pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/651510970"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Anorectal fistula disorder due to increasing Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/271637227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy kaṇṭamālai pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/271637227"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Fistula in ani disorder due to increasing Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2143379524"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy pavuttiram"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2143379524"
+      }
+    ]
+  }
+}

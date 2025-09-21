@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1698745907",
+  "id": "1698745907",
+  "title": "Hypochondrium pain disorder (TM1)",
+  "code": "SA00",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Hypochondrium pain disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hypochondrium pain disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/2105320328"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1698745907",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "2105320328"
+  ],
+  "extractionTimestamp": "2025-09-21T01:02:42.265161",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1698745907",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/2105320328"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1698745907",
+    "code": "SA00",
+    "source": "http://id.who.int/icd/entity/1698745907",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Hypochondrium pain disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hypochondrium pain disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

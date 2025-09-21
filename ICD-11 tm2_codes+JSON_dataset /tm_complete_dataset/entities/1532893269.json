@@ -1,0 +1,107 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1532893269",
+  "id": "1532893269",
+  "title": "Lower abdominal colic disorder (TM1)",
+  "code": "SB07",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Lower abdominal colic disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Lower abdominal colic disorder (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Hernia (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Hernia (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [
+    "{'label': {'@language': 'en', '@value': 'Hernia (TM1)'}}"
+  ],
+  "exclusion": [
+    "{'label': {'@language': 'en', '@value': 'Abdominal pain disorder (TM1)'}}"
+  ],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1532893269",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "214862500"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:38.338150",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1532893269",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1532893269",
+    "code": "SB07",
+    "source": "http://id.who.int/icd/entity/1532893269",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Lower abdominal colic disorder (TM1)"
+    },
+    "inclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hernia (TM1)"
+        }
+      }
+    ],
+    "exclusion": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Abdominal pain disorder (TM1)"
+        }
+      }
+    ],
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Lower abdominal colic disorder (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Hernia (TM1)"
+        }
+      }
+    ]
+  }
+}

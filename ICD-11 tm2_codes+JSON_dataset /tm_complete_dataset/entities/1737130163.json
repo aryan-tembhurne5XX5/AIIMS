@@ -1,0 +1,80 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1737130163",
+  "id": "1737130163",
+  "title": "Febricity disorders (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1712884804",
+    "http://id.who.int/icd/release/11/2025-01/mms/1754178993",
+    "http://id.who.int/icd/release/11/2025-01/mms/1644364509",
+    "http://id.who.int/icd/release/11/2025-01/mms/412234144",
+    "http://id.who.int/icd/release/11/2025-01/mms/594116296",
+    "http://id.who.int/icd/release/11/2025-01/mms/1285080175",
+    "http://id.who.int/icd/release/11/2025-01/mms/157279096",
+    "http://id.who.int/icd/release/11/2025-01/mms/1069186343",
+    "http://id.who.int/icd/release/11/2025-01/mms/554848287",
+    "http://id.who.int/icd/release/11/2025-01/mms/1551015003",
+    "http://id.who.int/icd/release/11/2025-01/mms/677700358",
+    "http://id.who.int/icd/release/11/2025-01/mms/499264364",
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1737130163/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1737130163",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 14,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "944000127"
+  ],
+  "extractionTimestamp": "2025-09-21T01:15:09.458919",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1737130163",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/944000127"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1712884804",
+      "http://id.who.int/icd/release/11/2025-01/mms/1754178993",
+      "http://id.who.int/icd/release/11/2025-01/mms/1644364509",
+      "http://id.who.int/icd/release/11/2025-01/mms/412234144",
+      "http://id.who.int/icd/release/11/2025-01/mms/594116296",
+      "http://id.who.int/icd/release/11/2025-01/mms/1285080175",
+      "http://id.who.int/icd/release/11/2025-01/mms/157279096",
+      "http://id.who.int/icd/release/11/2025-01/mms/1069186343",
+      "http://id.who.int/icd/release/11/2025-01/mms/554848287",
+      "http://id.who.int/icd/release/11/2025-01/mms/1551015003",
+      "http://id.who.int/icd/release/11/2025-01/mms/677700358",
+      "http://id.who.int/icd/release/11/2025-01/mms/499264364",
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1737130163/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1737130163",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1737130163",
+    "classKind": "block",
+    "blockId": "BlockL4-SP5",
+    "codeRange": "SP50-SP5Z",
+    "title": {
+      "@language": "en",
+      "@value": "Febricity disorders (TM2)"
+    }
+  }
+}

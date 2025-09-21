@@ -1,0 +1,61 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1428319115",
+  "id": "1428319115",
+  "title": "Strangury disorders (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1419220630",
+    "http://id.who.int/icd/release/11/2025-01/mms/1447662001",
+    "http://id.who.int/icd/release/11/2025-01/mms/1428319115/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1428319115/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1428319115",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "637432379",
+    "214862500"
+  ],
+  "extractionTimestamp": "2025-09-21T01:03:23.443217",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1428319115",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/214862500"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1419220630",
+      "http://id.who.int/icd/release/11/2025-01/mms/1447662001",
+      "http://id.who.int/icd/release/11/2025-01/mms/1428319115/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1428319115/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1428319115",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1428319115",
+    "classKind": "block",
+    "blockId": "BlockL5-SA9",
+    "codeRange": "SA90-SA9Z",
+    "title": {
+      "@language": "en",
+      "@value": "Strangury disorders (TM1)"
+    }
+  }
+}

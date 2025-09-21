@@ -1,0 +1,327 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2658295",
+  "id": "2658295",
+  "title": "Vaginitis disorder (TM2)",
+  "code": "SM95",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Vaginitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) pariplutā (b) Yōṉi tāpitam",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pariplutā (b) Yōṉi tāpitam"
+        }
+      }
+    },
+    {
+      "text": "Deflorative vaginitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/178595995",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Deflorative vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/178595995"
+      }
+    },
+    {
+      "text": "(a) prākcaraṇā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/178595995",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prākcaraṇā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/178595995"
+      }
+    },
+    {
+      "text": "Vaginitis disorder due to excessive Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/236502693",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder due to excessive Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/236502693"
+      }
+    },
+    {
+      "text": "(b) Yōṉicūlai vātam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/236502693",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Yōṉicūlai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/236502693"
+      }
+    },
+    {
+      "text": "Vaginitis disorder due to excessive coitus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1807946512",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder due to excessive coitus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807946512"
+      }
+    },
+    {
+      "text": "(a) aticaraṇā",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1807946512",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) aticaraṇā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807946512"
+      }
+    },
+    {
+      "text": "Vaginal pruritus disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1018953738",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginal pruritus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1018953738"
+      }
+    },
+    {
+      "text": "(b) Akal namai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1018953738",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Akal namai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1018953738"
+      }
+    },
+    {
+      "text": "Vulvitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/909223782",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vulvitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/909223782"
+      }
+    },
+    {
+      "text": "(b) Akal tāpitam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/909223782",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Akal tāpitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/909223782"
+      }
+    },
+    {
+      "text": "Vulvo vaginitis disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/698830546",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Vulvo vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/698830546"
+      }
+    },
+    {
+      "text": "(b) Yōṉi akal tāpitam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/698830546",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Yōṉi akal tāpitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/698830546"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2658295",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1076641430"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:34.966877",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2658295",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1076641430"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2658295",
+    "code": "SM95",
+    "source": "http://id.who.int/icd/entity/2658295",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Vaginitis disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pariplutā (b) Yōṉi tāpitam"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Deflorative vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/178595995"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prākcaraṇā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/178595995"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder due to excessive Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/236502693"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Yōṉicūlai vātam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/236502693"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginitis disorder due to excessive coitus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807946512"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) aticaraṇā"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1807946512"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vaginal pruritus disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1018953738"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Akal namai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1018953738"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vulvitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/909223782"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Akal tāpitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/909223782"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Vulvo vaginitis disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/698830546"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Yōṉi akal tāpitam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/698830546"
+      }
+    ]
+  }
+}

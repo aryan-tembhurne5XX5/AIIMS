@@ -1,0 +1,222 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/445098170",
+  "id": "445098170",
+  "title": "Middle energizer stage patterns (TM1)",
+  "code": "SG71",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Middle energizer stage patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer stage patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Middle energizer patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Middle burner patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle burner patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Middle region patterns (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle region patterns (TM1)"
+        }
+      }
+    },
+    {
+      "text": "Summerheat and dampness affecting the middle energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/765275738",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Summerheat and dampness affecting the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/765275738"
+      }
+    },
+    {
+      "text": "Summerheat and dampness encumbering the middle energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/765275738",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Summerheat and dampness encumbering the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/765275738"
+      }
+    },
+    {
+      "text": "Dampness and heat in the middle energizer pattern(TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1765542722",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the middle energizer pattern(TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765542722"
+      }
+    },
+    {
+      "text": "Middle energizer dampness and heat pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1765542722",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer dampness and heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765542722"
+      }
+    },
+    {
+      "text": "Phlegm and dampness obstruction in the middle energizer pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1432152138",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm and dampness obstruction in the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1432152138"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#445098170",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1234235520"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:16.202224",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/445098170",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1234235520"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#445098170",
+    "code": "SG71",
+    "source": "http://id.who.int/icd/entity/445098170",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Middle energizer stage patterns (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer stage patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle burner patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle region patterns (TM1)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Summerheat and dampness affecting the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/765275738"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Summerheat and dampness encumbering the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/765275738"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dampness and heat in the middle energizer pattern(TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765542722"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Middle energizer dampness and heat pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1765542722"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Phlegm and dampness obstruction in the middle energizer pattern (TM1)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1432152138"
+      }
+    ]
+  }
+}

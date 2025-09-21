@@ -1,0 +1,1265 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1616349688",
+  "id": "1616349688",
+  "title": "Haemorrhoids disorder (TM2)",
+  "code": "SM53",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Haemorrhoids disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoids disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) arśaḥ (b) Eruvāy muḷai nōy (c) Bawāsīr",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arśaḥ (b) Eruvāy muḷai nōy (c) Bawāsīr"
+        }
+      }
+    },
+    {
+      "text": "Piles (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles (TM2)"
+        }
+      }
+    },
+    {
+      "text": "Bleeding piles disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2139302050",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Bleeding piles disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2139302050"
+      }
+    },
+    {
+      "text": "(b) Kuruti muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2139302050",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuruti muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2139302050"
+      }
+    },
+    {
+      "text": "External bleeding piles disorder with growth in the size of lotus flower (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1353242626",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External bleeding piles disorder with growth in the size of lotus flower (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1353242626"
+      }
+    },
+    {
+      "text": "(b) Tamaraka muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1353242626",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tamaraka muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1353242626"
+      }
+    },
+    {
+      "text": "External piles disorder with dryness (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1512406894",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with dryness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1512406894"
+      }
+    },
+    {
+      "text": "(b) Eruvāy varal muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1512406894",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy varal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1512406894"
+      }
+    },
+    {
+      "text": "External piles disorder with growth in the size of Amorphallus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1890865840",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of Amorphallus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890865840"
+      }
+    },
+    {
+      "text": "(b) Eruvāyc ceṇṭu muḷai",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1890865840",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāyc ceṇṭu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890865840"
+      }
+    },
+    {
+      "text": "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2050618820",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2050618820"
+      }
+    },
+    {
+      "text": "(b) Kutamūlam",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2050618820",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kutamūlam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2050618820"
+      }
+    },
+    {
+      "text": "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2057192882",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2057192882"
+      }
+    },
+    {
+      "text": "(b) Kuẕi muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/2057192882",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuẕi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2057192882"
+      }
+    },
+    {
+      "text": "External piles disorder with growth in the size of Curcuma longa (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/604625427",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of Curcuma longa (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604625427"
+      }
+    },
+    {
+      "text": "(b) Eruvāy perumuḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/604625427",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy perumuḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604625427"
+      }
+    },
+    {
+      "text": "External piles disorder with small growth (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/548686893",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with small growth (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/548686893"
+      }
+    },
+    {
+      "text": "(b) Eruvāy ciṟu muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/548686893",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy ciṟu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/548686893"
+      }
+    },
+    {
+      "text": "External piles disorder with numerous acne size growth around the anus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/708438849",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with numerous acne size growth around the anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/708438849"
+      }
+    },
+    {
+      "text": "(b) Veḷi muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/708438849",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veḷi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/708438849"
+      }
+    },
+    {
+      "text": "External piles disorder with skin tag (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1311356886",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with skin tag (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1311356886"
+      }
+    },
+    {
+      "text": "(b) Cavvu muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1311356886",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cavvu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1311356886"
+      }
+    },
+    {
+      "text": "Pile mass in anus disorder due to increased Vaḷi , Aẕal and Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1151602874",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pile mass in anus disorder due to increased Vaḷi , Aẕal and Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1151602874"
+      }
+    },
+    {
+      "text": "(b) Mukkuṟṟa muḷai nōy",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1151602874",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa muḷai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1151602874"
+      }
+    },
+    {
+      "text": "Pile mass resembling tapioca disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1141088456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pile mass resembling tapioca disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1141088456"
+      }
+    },
+    {
+      "text": "(b) Āẕi muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1141088456",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Āẕi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1141088456"
+      }
+    },
+    {
+      "text": "Piles associated with glycosuria disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1323634092",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with glycosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323634092"
+      }
+    },
+    {
+      "text": "(b) Mēka muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1323634092",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mēka muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323634092"
+      }
+    },
+    {
+      "text": "Piles associated with intestinal pain and increased body heat disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/351701991",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with intestinal pain and increased body heat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/351701991"
+      }
+    },
+    {
+      "text": "(b) Curukku muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/351701991",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Curukku muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/351701991"
+      }
+    },
+    {
+      "text": "Piles associated with neurological pain and belching disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1048731319",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with neurological pain and belching disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1048731319"
+      }
+    },
+    {
+      "text": "(b) Viṉai muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1048731319",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Viṉai muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1048731319"
+      }
+    },
+    {
+      "text": "Piles associated with penile ulcers disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/186788531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with penile ulcers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/186788531"
+      }
+    },
+    {
+      "text": "(b) Kaẕal muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/186788531",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaẕal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/186788531"
+      }
+    },
+    {
+      "text": "Piles disorder caused by derangement of Aiyam (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/316426494",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316426494"
+      }
+    },
+    {
+      "text": "(b) Aiya muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/316426494",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316426494"
+      }
+    },
+    {
+      "text": "Piles disorder caused by derangement of Aẕal (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/408022930",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/408022930"
+      }
+    },
+    {
+      "text": "(b) Aẕal muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/408022930",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/408022930"
+      }
+    },
+    {
+      "text": "Piles disorder caused by derangement of Vaḷi (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1656429537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1656429537"
+      }
+    },
+    {
+      "text": "(b) Vaḷi muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1656429537",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1656429537"
+      }
+    },
+    {
+      "text": "Piles disorder with abdominal pain and flatulence (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1748417677",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder with abdominal pain and flatulence (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1748417677"
+      }
+    },
+    {
+      "text": "(b) Eruvāy nīrmuḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1748417677",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy nīrmuḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1748417677"
+      }
+    },
+    {
+      "text": "Piles disorder with pus exudates from anus (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/233640248",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder with pus exudates from anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/233640248"
+      }
+    },
+    {
+      "text": "(b) Cīẕ muḷai",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/233640248",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/233640248"
+      }
+    },
+    {
+      "text": "Congenital haemorrhoid disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1203436637",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital haemorrhoid disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1203436637"
+      }
+    },
+    {
+      "text": "(a) sahaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1203436637",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sahaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1203436637"
+      }
+    },
+    {
+      "text": "Haemorrhoid disorder due to Kapha (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1295473457",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1295473457"
+      }
+    },
+    {
+      "text": "(a) kaphaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1295473457",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1295473457"
+      }
+    },
+    {
+      "text": "Haemorrhoid disorder due to Pitta (TM2)",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1738962673",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738962673"
+      }
+    },
+    {
+      "text": "(a) pittaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1738962673",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738962673"
+      }
+    },
+    {
+      "text": "Haemorroid disorder due to Aẕal aggrevation (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1831588253",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorroid disorder due to Aẕal aggrevation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1831588253"
+      }
+    },
+    {
+      "text": "(b) Mūla pittam",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1831588253",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūla pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1831588253"
+      }
+    },
+    {
+      "text": "Haemorrhoid disorder due to blood (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1837916653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      }
+    },
+    {
+      "text": "(a) raktaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1837916653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      }
+    },
+    {
+      "text": "(a) ārdra-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1837916653",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ārdra-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      }
+    },
+    {
+      "text": "Haemorrhoid disorder due to Vata (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1959832913",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      }
+    },
+    {
+      "text": "(a) vātaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1959832913",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      }
+    },
+    {
+      "text": "(a) śuṣka-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1959832913",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuṣka-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      }
+    },
+    {
+      "text": "Haemorrhoid disorder due to all the three dosha (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/1886206831",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to all the three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1886206831"
+      }
+    },
+    {
+      "text": "(a) sannipātaja-arśaḥ",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/1886206831",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipātaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1886206831"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1616349688",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1104895717",
+    "1901778594"
+  ],
+  "extractionTimestamp": "2025-09-21T01:12:58.867694",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1616349688",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1901778594"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1616349688",
+    "code": "SM53",
+    "source": "http://id.who.int/icd/entity/1616349688",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Haemorrhoids disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoids disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) arśaḥ (b) Eruvāy muḷai nōy (c) Bawāsīr"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Bleeding piles disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2139302050"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuruti muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2139302050"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External bleeding piles disorder with growth in the size of lotus flower (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1353242626"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Tamaraka muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1353242626"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with dryness (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1512406894"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy varal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1512406894"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of Amorphallus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890865840"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāyc ceṇṭu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1890865840"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of bamboo bud and bloody pus discharge (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2050618820"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kutamūlam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2050618820"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of coocinia grandis and pus discharge (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2057192882"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kuẕi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/2057192882"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with growth in the size of Curcuma longa (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604625427"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy perumuḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/604625427"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with small growth (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/548686893"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy ciṟu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/548686893"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with numerous acne size growth around the anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/708438849"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Veḷi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/708438849"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "External piles disorder with skin tag (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1311356886"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cavvu muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1311356886"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pile mass in anus disorder due to increased Vaḷi , Aẕal and Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1151602874"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mukkuṟṟa muḷai nōy"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1151602874"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pile mass resembling tapioca disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1141088456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Āẕi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1141088456"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with glycosuria disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323634092"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mēka muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1323634092"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with intestinal pain and increased body heat disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/351701991"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Curukku muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/351701991"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with neurological pain and belching disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1048731319"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Viṉai muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1048731319"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles associated with penile ulcers disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/186788531"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Kaẕal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/186788531"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Aiyam (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316426494"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aiya muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/316426494"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Aẕal (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/408022930"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Aẕal muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/408022930"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder caused by derangement of Vaḷi (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1656429537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Vaḷi muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1656429537"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder with abdominal pain and flatulence (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1748417677"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Eruvāy nīrmuḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1748417677"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Piles disorder with pus exudates from anus (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/233640248"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Cīẕ muḷai"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/233640248"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Congenital haemorrhoid disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1203436637"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sahaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1203436637"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Kapha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1295473457"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) kaphaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1295473457"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Pitta (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738962673"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) pittaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1738962673"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorroid disorder due to Aẕal aggrevation (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1831588253"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(b) Mūla pittam"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1831588253"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to blood (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) raktaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) ārdra-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1837916653"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to Vata (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) vātaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuṣka-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1959832913"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Haemorrhoid disorder due to all the three dosha (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1886206831"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) sannipātaja-arśaḥ"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/1886206831"
+      }
+    ]
+  }
+}

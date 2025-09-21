@@ -1,0 +1,68 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/700447416",
+  "id": "700447416",
+  "title": "Dribbling disorder (TM1)",
+  "code": "SE38",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dribbling disorder (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dribbling disorder (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/386528385"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#700447416",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "66486001",
+    "386528385"
+  ],
+  "extractionTimestamp": "2025-09-21T01:05:55.662700",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/700447416",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/386528385"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#700447416",
+    "code": "SE38",
+    "source": "http://id.who.int/icd/entity/700447416",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dribbling disorder (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dribbling disorder (TM1)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2128415255",
+  "id": "2128415255",
+  "title": "Defense phase patterns (TM1)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/518765780",
+    "http://id.who.int/icd/release/11/2025-01/mms/579559388",
+    "http://id.who.int/icd/release/11/2025-01/mms/2128415255/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/2128415255/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/626065726"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2128415255",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 4,
+  "depth": 4,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "626065726"
+  ],
+  "extractionTimestamp": "2025-09-21T01:09:19.459613",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2128415255",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/626065726"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/518765780",
+      "http://id.who.int/icd/release/11/2025-01/mms/579559388",
+      "http://id.who.int/icd/release/11/2025-01/mms/2128415255/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/2128415255/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2128415255",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/2128415255",
+    "classKind": "block",
+    "blockId": "BlockL4-SG8",
+    "codeRange": "SG80-SG8Z",
+    "title": {
+      "@language": "en",
+      "@value": "Defense phase patterns (TM1)"
+    }
+  }
+}

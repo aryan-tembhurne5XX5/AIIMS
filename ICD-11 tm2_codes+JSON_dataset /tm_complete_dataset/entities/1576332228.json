@@ -1,0 +1,57 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/1576332228",
+  "id": "1576332228",
+  "title": "Varmam and Marmam patterns (TM2)",
+  "code": "",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1742405136",
+    "http://id.who.int/icd/release/11/2025-01/mms/1576332228/other",
+    "http://id.who.int/icd/release/11/2025-01/mms/1576332228/unspecified"
+  ],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1908537217"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1576332228",
+  "foundationChildElsewhere": [],
+  "isLeaf": false,
+  "childCount": 3,
+  "depth": 3,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1908537217"
+  ],
+  "extractionTimestamp": "2025-09-21T01:20:33.125060",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/1576332228",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1908537217"
+    ],
+    "child": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1742405136",
+      "http://id.who.int/icd/release/11/2025-01/mms/1576332228/other",
+      "http://id.who.int/icd/release/11/2025-01/mms/1576332228/unspecified"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#1576332228",
+    "code": "",
+    "source": "http://id.who.int/icd/entity/1576332228",
+    "classKind": "block",
+    "blockId": "BlockL3-ST2",
+    "codeRange": "ST20-ST2Z",
+    "title": {
+      "@language": "en",
+      "@value": "Varmam and Marmam patterns (TM2)"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/594866573",
+  "id": "594866573",
+  "title": "Erectile dysfunction disorder (TM2)",
+  "code": "SN02",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Erectile dysfunction disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Erectile dysfunction disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) klaibyam (b) Vīriyamiṉmai (c) Istirkhā’ al-Qaḍīb",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) klaibyam (b) Vīriyamiṉmai (c) Istirkhā’ al-Qaḍīb"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1252104698"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#594866573",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1252104698"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:46.631658",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/594866573",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1252104698"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#594866573",
+    "code": "SN02",
+    "source": "http://id.who.int/icd/entity/594866573",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Erectile dysfunction disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Erectile dysfunction disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) klaibyam (b) Vīriyamiṉmai (c) Istirkhā’ al-Qaḍīb"
+        }
+      }
+    ]
+  }
+}

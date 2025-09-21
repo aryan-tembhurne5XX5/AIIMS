@@ -1,0 +1,87 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/480312815",
+  "id": "480312815",
+  "title": "Decreased breastmilk disorder (TM2)",
+  "code": "SN10",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Decreased breastmilk disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Decreased breastmilk disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) stanyakṣayaḥ (c) Qilla al-Laban",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) stanyakṣayaḥ (c) Qilla al-Laban"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1429696590"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#480312815",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "1542941233",
+    "1429696590"
+  ],
+  "extractionTimestamp": "2025-09-21T01:13:57.186014",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/480312815",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1429696590"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#480312815",
+    "code": "SN10",
+    "source": "http://id.who.int/icd/entity/480312815",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Decreased breastmilk disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Decreased breastmilk disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) stanyakṣayaḥ (c) Qilla al-Laban"
+        }
+      }
+    ]
+  }
+}

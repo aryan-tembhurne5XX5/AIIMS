@@ -1,0 +1,185 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/492583157",
+  "id": "492583157",
+  "title": "Pterygium disorder (TM2)",
+  "code": "SK6C",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Pterygium disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pterygium disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) prastāri-arma (b) Nākap paṭalam (c) Ẓafara",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prastāri-arma (b) Nākap paṭalam (c) Ẓafara"
+        }
+      }
+    },
+    {
+      "text": "(c) Nākhūna",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Nākhūna"
+        }
+      }
+    },
+    {
+      "text": "Progressive pterygium disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/46846273",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Progressive pterygium disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/46846273"
+      }
+    },
+    {
+      "text": "(a) lohitārma, (a) kṣatārma",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/46846273",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitārma, (a) kṣatārma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/46846273"
+      }
+    },
+    {
+      "text": "Pinguecula disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "http://id.who.int/icd/entity/138901037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Pinguecula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/138901037"
+      }
+    },
+    {
+      "text": "(a) śuklārma",
+      "language": "sanskrit",
+      "foundationReference": "http://id.who.int/icd/entity/138901037",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuklārma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/138901037"
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#492583157",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1249767098"
+  ],
+  "extractionTimestamp": "2025-09-21T01:10:38.331365",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/492583157",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1249767098"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#492583157",
+    "code": "SK6C",
+    "source": "http://id.who.int/icd/entity/492583157",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Pterygium disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pterygium disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) prastāri-arma (b) Nākap paṭalam (c) Ẓafara"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Nākhūna"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Progressive pterygium disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/46846273"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) lohitārma, (a) kṣatārma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/46846273"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Pinguecula disorder (TM2)"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/138901037"
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) śuklārma"
+        },
+        "foundationReference": "http://id.who.int/icd/entity/138901037"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/94563472",
+  "id": "94563472",
+  "title": "Dryness invading the lung pattern (TM1)",
+  "code": "SF8D",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Dryness invading the lung pattern (TM1)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Dryness invading the lung pattern (TM1)"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#94563472",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "353229912",
+    "347093131",
+    "1220285877",
+    "1266950345"
+  ],
+  "extractionTimestamp": "2025-09-21T01:08:14.784344",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/94563472",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1266950345"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#94563472",
+    "code": "SF8D",
+    "source": "http://id.who.int/icd/entity/94563472",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Dryness invading the lung pattern (TM1)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Dryness invading the lung pattern (TM1)"
+        }
+      }
+    ]
+  }
+}

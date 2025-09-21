@@ -1,0 +1,105 @@
+{
+  "uri": "http://id.who.int/icd/release/11/2025-01/mms/2122024590",
+  "id": "2122024590",
+  "title": "Severe throat inflammation disorder (TM2)",
+  "code": "SL04",
+  "definition": "{}",
+  "longDefinition": "{}",
+  "fullySpecifiedName": "{}",
+  "synonym": [],
+  "narrowerTerm": [],
+  "indexTerm": [
+    {
+      "text": "Severe throat inflammation disorder (TM2)",
+      "language": "english_or_unknown",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "Severe throat inflammation disorder (TM2)"
+        }
+      }
+    },
+    {
+      "text": "(a) rohiṇī (b) Varaṭ kaṇam (c) Khunāq Wabā’ī",
+      "language": "sanskrit",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rohiṇī (b) Varaṭ kaṇam (c) Khunāq Wabā’ī"
+        }
+      }
+    },
+    {
+      "text": "(c) Waram al-Ḥanjara Ḥādd Ghishā’ī Khunāqī",
+      "language": "arabic_persian",
+      "foundationReference": "",
+      "termId": "",
+      "raw": {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Ḥanjara Ḥādd Ghishā’ī Khunāqī"
+        }
+      }
+    }
+  ],
+  "inclusion": [],
+  "exclusion": [],
+  "note": [],
+  "codingNote": [],
+  "children": [],
+  "parent": [
+    "http://id.who.int/icd/release/11/2025-01/mms/1857550376"
+  ],
+  "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2122024590",
+  "foundationChildElsewhere": [],
+  "isLeaf": true,
+  "childCount": 0,
+  "depth": 5,
+  "parentPath": [
+    "718687701",
+    "562274788",
+    "1147241349",
+    "823901578",
+    "1857550376"
+  ],
+  "extractionTimestamp": "2025-09-21T01:11:29.229553",
+  "raw_data": {
+    "@context": "http://id.who.int/icd/contexts/contextForLinearizationEntity.json",
+    "@id": "http://id.who.int/icd/release/11/2025-01/mms/2122024590",
+    "parent": [
+      "http://id.who.int/icd/release/11/2025-01/mms/1857550376"
+    ],
+    "browserUrl": "https://icd.who.int/browse/2025-01/mms/en#2122024590",
+    "code": "SL04",
+    "source": "http://id.who.int/icd/entity/2122024590",
+    "classKind": "category",
+    "title": {
+      "@language": "en",
+      "@value": "Severe throat inflammation disorder (TM2)"
+    },
+    "indexTerm": [
+      {
+        "label": {
+          "@language": "en",
+          "@value": "Severe throat inflammation disorder (TM2)"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(a) rohiṇī (b) Varaṭ kaṇam (c) Khunāq Wabā’ī"
+        }
+      },
+      {
+        "label": {
+          "@language": "en",
+          "@value": "(c) Waram al-Ḥanjara Ḥādd Ghishā’ī Khunāqī"
+        }
+      }
+    ]
+  }
+}
